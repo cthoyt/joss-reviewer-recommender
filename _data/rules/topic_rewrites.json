@@ -1,0 +1,5 @@
+{
+  "simulation of spiking neural networks (note: computational neuroscience rather than machine learning angle---i am not an expert on \"deep [machine] learning\")": "computational neuroscience",
+  "simulation of spiking neural networks (note: computational neuroscience rather than machine learning angle---I am NOT an expert on \"deep [machine] learning\")": "computational neuroscience",
+  "Not sure I have a preference. I want to code-review to try to catch things like \"glob.glob\"": null
+}

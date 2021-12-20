@@ -1,0 +1,21 @@
+{
+  "I develop in R. I use Python but don't do Python package development.": "R, Python",
+  "r (including rcpp)": "r",
+  "r (including r markdown, bookdown and shiny)": "r",
+  "groovy (basic or beginner)": "groovy",
+  "idl (no active license)": "idl",
+  "web applications (html, css, javascript)": "html, css, javascript",
+  "javascript, java, borland turbo pascal (j,k on the last one)": "javascript, java",
+  "c (embedded)": "c",
+  "c (but in previus answer only knows well the three first)": "c",
+  "javascript (bootstrapvue)": "javascript",
+  "usually work in racket, but fairly competent in other lisp dialects (closure, common, scheme, hylang)": "racket, closure, common lisp, scheme, hylang",
+  "extensions to r,python - notebooks, scripting, visualization (shiny, dash, etc.)": "r, python",
+  "none (sorry python is all i know well)": "python",
+  "c (not c++)": "c",
+  "python (?)": "python",
+  "c++ (probably in the context of rcpp)": "c++",
+  "lisp (scheme,common)": "schema, common lisp",
+  "Julia in a few months, C++": "c++, julia",
+  "Practically anything except C/C++/Assembly/APL": null
+}
