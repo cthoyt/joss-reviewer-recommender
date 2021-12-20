@@ -8,7 +8,7 @@ username	languages_primary	languages_secondary	affiliations	email	topics	active_
 7omasz	['java', 'python']	[]	['Pfizer']	tomasz.adamusiak@gmail.com	['bioinformatics', 'clinical informatics', 'medicine', 'ontologies']	0	1	1	0
 88d52bdba0366127fffca9dfa93895	['python']	[]	['CHArt Laboratory EA 4004, Ecole Pratique des Hautes Etudes, PSL Université Paris']	xtuanta@gmail.com	['artificial intelligence', 'data', 'financial data science', 'machine learning']	0	0	0	0
 AdeBytes	['c', 'c++', 'matlab', 'python']	[]	['Department of Geology & Geophysics, Texas A&M University']	adewale@tamu.edu	['geoscience', 'petroleum geology']	0	0	0	0
-Adrianzo	['python 3']	['julia']	[]		['complex diseases', 'epigenetics', 'rare variants', 'variant calling']	0	0	0	0
+Adrianzo	['python']	['julia']	[]		['complex diseases', 'epigenetics', 'rare variants', 'variant calling']	0	0	0	0
 Aguang	['r']	['c++', 'julia']	['Brown University']	august.guang@gmail.com	['bioinformatics', 'machine learning']	0	0	0	0
 Ahm-hussein	['python', 'r']	[]	['Rochester institute of technology']	ahm6644@rit.edu	['data science', 'machine learning']	0	0	0	0
 AhmedArslan	['python', 'r']	[]	['Stanford University']	aarslan@stanford.edu	['bioinformatics', 'computational biology']	0	0	0	0
