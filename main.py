@@ -25,14 +25,20 @@ RULES = DATA.joinpath("rules")
 RULES.mkdir(exist_ok=True, parents=True)
 
 LANGUAGE_BLACKLIST_PATH = RULES.joinpath("language_blacklist.json")
-LANGUAGE_BLACKLIST = {s.lower() for s in json.loads(LANGUAGE_BLACKLIST_PATH.read_text())}
+LANGUAGE_BLACKLIST = {
+    s.lower() for s in json.loads(LANGUAGE_BLACKLIST_PATH.read_text())
+}
 LANGUAGE_MAPPING_PATH = RULES.joinpath("language_mapping.json")
 LANGUAGE_MAPPING = json.loads(LANGUAGE_MAPPING_PATH.read_text())
 LANGUAGE_REWRITES_PATH = RULES.joinpath("language_rewrites.json")
-LANGUAGE_REWRITES: Mapping[str, Optional[str]] = json.loads(LANGUAGE_REWRITES_PATH.read_text())
+LANGUAGE_REWRITES: Mapping[str, Optional[str]] = json.loads(
+    LANGUAGE_REWRITES_PATH.read_text()
+)
 
 AFFILIATION_BLACKLIST_PATH = RULES.joinpath("affiliation_blacklist.json")
-AFFILIATION_BLACKLIST = {s.lower() for s in json.loads(AFFILIATION_BLACKLIST_PATH.read_text())}
+AFFILIATION_BLACKLIST = {
+    s.lower() for s in json.loads(AFFILIATION_BLACKLIST_PATH.read_text())
+}
 AFFILIATION_REWRITES_PATH = RULES.joinpath("affiliation_rewrites.json")
 AFFILIATION_REWRITES = json.loads(AFFILIATION_REWRITES_PATH.read_text())
 
@@ -62,8 +68,8 @@ ID = "1PAPRJ63yq9aPC1COLjaQp8mHmEq3rZUzwUYxTulyu78"
 SHEET_URL = f"https://docs.google.com/spreadsheets/d/{ID}/export"
 HEADER = [
     "username",
-    "language",
-    "language_other",
+    "languages_primary",
+    "languages_secondary",
     "affiliation",
     "email",
     "topics",
@@ -87,21 +93,6 @@ def _strip_split(s: any) -> list[str]:
         entry = LANGUAGE_MAPPING.get(entry, entry)
         rv.append(entry)
     return rv
-
-
-def _move(preferred: any, other: any) -> tuple[str, list[str]]:
-    preferred_list = _strip_split(preferred)
-    other_list = _strip_split(other)
-    if preferred_list:
-        preferred_value, *other_acquired = preferred_list
-    elif other_list:
-        preferred_value = other_list.pop(0)
-        other_acquired = []
-    else:
-        preferred_value = None
-        other_acquired = []
-
-    return preferred_value, sorted(set(other_list).union(other_acquired))
 
 
 def clean_username(username: any) -> Optional[str]:
@@ -140,13 +131,13 @@ def clean_username(username: any) -> Optional[str]:
     return username
 
 
-def clean_language(language: any) -> Optional[str]:
+def clean_languages(language: any) -> list[str]:
     if not isinstance(language, str):
-        return None
+        return []
     language = language.strip()
     language = LANGUAGE_REWRITES.get(language, language)
     if language is None:
-        return None
+        return []
     language = language.replace("pl/pgsql", "plpgsql")
     language = language.replace("c/c++", "c, c++")
     language = language.replace("shell/bash", "bash")
@@ -156,19 +147,19 @@ def clean_language(language: any) -> Optional[str]:
     language = language.replace("/", ",")
     if "(" in language:
         logger.debug(f"FIXME (lang): {language}")
-        return None
+        return []
     if any(c in language for c in FORBIDDEN_CHARACTERS):
         raise ValueError(f"illegal character in language: {language}")
-    return language
+    return _strip_split(language)
 
 
-def clean_topic(topic: any) -> Optional[list[str]]:
+def clean_topic(topic: any) -> list[str]:
     if not isinstance(topic, str):
-        return None
+        return []
     topic = topic.strip()
     topic = TOPIC_REWRITES.get(topic, topic)
     if topic is None:
-        return None
+        return []
     for interjection, replacement in TOPIC_INTERJECTIONS.items():
         topic = topic.replace(interjection, replacement).strip()
     if any(c in topic for c in FORBIDDEN_CHARACTERS):
@@ -223,19 +214,25 @@ def get_df(force: bool = False) -> pd.DataFrame:
             header=None,
             names=HEADER,
             dtype={
-                "language": str,
-                "language_other": str,
+                "languages_primary": str,
+                "languages_secondary": str,
             },
         ),
         force=force,
     )
 
 
+def _nonempty(l: list) -> bool:
+    return 0 < len(l)
+
+
 def main(force: bool = False):
     df = get_df(force=force)
 
     df = df[
-        df.username.map(lambda u: isinstance(u, str) and u.lower() not in USER_BLACKLIST)
+        df.username.map(
+            lambda u: isinstance(u, str) and u.lower() not in USER_BLACKLIST
+        )
     ]
     # Fix username and remove missing
     df.username = df.username.map(clean_username)
@@ -249,20 +246,13 @@ def main(force: bool = False):
     )
 
     df.topics = df.topics.map(clean_topic)
-    # df = df[df.topics.notna()]
+    df = df[df.topics.map(_nonempty)]
 
     df.affiliation = df.affiliation.map(clean_affiliation)
 
-    df.language = df.language.map(clean_language)
-    df.language_other = df.language_other.map(clean_language)
-    df["language"], df["language_other"] = zip(
-        *(
-            _move(preferred, other)
-            for preferred, other in df[["language", "language_other"]].values
-        )
-    )
-    # Discard potential reviewers who have not annotated their preferred language (or did it very wrong)
-    df = df[df.language.notna()]
+    df.languages_primary = df.languages_primary.map(clean_languages)
+    df = df[df.languages_primary.map(_nonempty)]
+    df.languages_secondary = df.languages_secondary.map(clean_languages)
 
     for key in [
         "active_reviews",
@@ -273,11 +263,15 @@ def main(force: bool = False):
         df[key] = df[key].fillna(0.0).astype(int)
 
     topic_counter = Counter(topic for topics in df.topics if topics for topic in topics)
-    topic_df = pd.DataFrame(topic_counter.most_common(), columns=["topic", "count"])
+    topic_df = pd.DataFrame(
+        topic_counter.most_common(), columns=["topic", "count"]
+    ).sort_values(["count", "topic"], ascending=(False, True))
     topic_df.to_csv(TOPICS_PATH, sep="\t", index=False)
 
     affiliation_counter = Counter(a for a in df.affiliation if a and a.strip())
-    affiliation_df = pd.DataFrame(affiliation_counter.most_common(), columns=["affiliation", "count"])
+    affiliation_df = pd.DataFrame(
+        affiliation_counter.most_common(), columns=["affiliation", "count"]
+    ).sort_values(["count", "affiliation"], ascending=(False, True))
     affiliation_df.to_csv(AFFILIATIONS_PATH, sep="\t", index=False)
 
     df = df.sort_values("username")
@@ -285,12 +279,12 @@ def main(force: bool = False):
 
     bio_idx = [
         (
-            row["language"] == "python"
+            "python" in row["languages_primary"]
             and pd.notna(row["email"])
             and any(
-            row["topics"] and x in row["topics"]
-            for x in ("bioinformatics", "computational biology", "networks biology")
-        )
+                row["topics"] and x in row["topics"]
+                for x in ("bioinformatics", "computational biology", "networks biology")
+            )
         )
         for _, row in df.iterrows()
     ]
@@ -302,16 +296,17 @@ def main(force: bool = False):
 
 def to_triples(df: pd.DataFrame, path: Path) -> None:
     triples = set()
-    for username, primary_language, secondary_languages, topics in df[
-        ["username", "language", "language_other", "topics"]
+    for username, languages_primary, languages_secondary, topics in df[
+        ["username", "languages_primary", "languages_secondary", "topics"]
     ].values:
-        triples.add((username, "primary_language", primary_language))
-        for language in secondary_languages:
+        for language in languages_primary:
+            triples.add((username, "primary_language", language))
+        for language in languages_secondary:
             triples.add((username, "secondary_language", language))
         for topic in topics or []:
             triples.add((username, "topic", topic))
     with path.open("w") as file:
-        for s, p, o in triples:
+        for s, p, o in sorted(triples):
             print(s, p, o, sep="\t", file=file)
 
 
