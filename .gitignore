@@ -1,3 +1,4 @@
 .tox
 .ipynb_checkpoints
 old.py
+.DS_Store

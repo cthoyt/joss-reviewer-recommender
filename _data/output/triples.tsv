@@ -51,12 +51,6 @@
 88d52bdba0366127fffca9dfa93895	topic	data
 88d52bdba0366127fffca9dfa93895	topic	financial data science
 88d52bdba0366127fffca9dfa93895	topic	machine learning
-AdeBytes	primary_language	c
-AdeBytes	primary_language	c++
-AdeBytes	primary_language	matlab
-AdeBytes	primary_language	python
-AdeBytes	topic	geoscience
-AdeBytes	topic	petroleum geology
 Adrianzo	primary_language	python
 Adrianzo	secondary_language	julia
 Adrianzo	topic	complex diseases
@@ -587,18 +581,25 @@ Fipanther	secondary_language	fortran
 Fipanther	topic	astronomy and astrophysics
 Fipanther	topic	machine learning
 Fipanther	topic	statistics
+Flowdalic	primary_language	bash
 Flowdalic	primary_language	c
 Flowdalic	primary_language	c++
+Flowdalic	primary_language	haskell
 Flowdalic	primary_language	java
+Flowdalic	primary_language	python
 Flowdalic	primary_language	scala
+Flowdalic	secondary_language	x10
 Flowdalic	topic	communication protocols and implementations (xmpp
+Flowdalic	topic	concurrency
 Flowdalic	topic	concurrency platforms
 Flowdalic	topic	dnssec
 Flowdalic	topic	ldap)
+Flowdalic	topic	many core
 Flowdalic	topic	mqtt)
 Flowdalic	topic	network protocols and implementations (dns
 Flowdalic	topic	operating systems
 Flowdalic	topic	parallel and concurrent programming
+Flowdalic	topic	parallelism
 Flowdalic	topic	system software
 FranciscoReveriano	primary_language	python
 FranciscoReveriano	secondary_language	c++
@@ -624,10 +625,8 @@ Fusionet24	topic	education
 GISerDaiShaoqing	primary_language	r
 GISerDaiShaoqing	secondary_language	python
 GISerDaiShaoqing	topic	geography and spatial statistics
-GISerDaishaoqing	primary_language	r
-GISerDaishaoqing	secondary_language	python
-GISerDaishaoqing	topic	remote sensing and gis
-GISerDaishaoqing	topic	spatial statistics
+GISerDaiShaoqing	topic	remote sensing and gis
+GISerDaiShaoqing	topic	spatial statistics
 Gab0	primary_language	c
 Gab0	primary_language	haskell
 Gab0	primary_language	python
@@ -858,6 +857,7 @@ JesseLivezey	topic	machine learning
 Jessepisel	primary_language	python
 Jessepisel	topic	geology
 Jessepisel	topic	geophysics
+Jessepisel	topic	geoscience
 Jessepisel	topic	machine learning
 Jesusbill	primary_language	javascript
 Jesusbill	primary_language	python
@@ -1840,11 +1840,6 @@ Teuben	primary_language	c++
 Teuben	primary_language	fortran
 Teuben	primary_language	python
 Teuben	topic	astronomy
-Tgerke	primary_language	r
-Tgerke	topic	biostatistics
-Tgerke	topic	epidemiology
-Tgerke	topic	genetics
-Tgerke	topic	public health
 ThomasA	primary_language	python
 ThomasA	secondary_language	matlab
 ThomasA	topic	compressed sensing
@@ -1975,12 +1970,15 @@ WalBytes	primary_language	c
 WalBytes	primary_language	c++
 WalBytes	primary_language	fortran
 WalBytes	primary_language	matlab
+WalBytes	primary_language	python
 WalBytes	secondary_language	python
 WalBytes	secondary_language	shell scripting
 WalBytes	topic	earth science
 WalBytes	topic	geology
 WalBytes	topic	geophysics
+WalBytes	topic	geoscience
 WalBytes	topic	petroleum exploration
+WalBytes	topic	petroleum geology
 WalBytes	topic	petrophysics
 WalBytes	topic	rock physics
 WhiteSymmetry	primary_language	python
@@ -2554,13 +2552,11 @@ allaway	topic	cancer biology
 allaway	topic	chemoinformatics
 allaway	topic	genomics
 allaway	topic	pharmaceuticals
-allenzhu	primary_language	r
-allenzhu	topic	experimental design
-allenzhu	topic	graphics
-allenzhu	topic	reproducible research
-allenzhu	topic	statistics
 allenzhuaz	primary_language	python
 allenzhuaz	primary_language	r
+allenzhuaz	topic	experimental design
+allenzhuaz	topic	graphics
+allenzhuaz	topic	reproducible research
 allenzhuaz	topic	statistics
 alletsee	primary_language	r
 alletsee	topic	data science
@@ -4522,28 +4518,21 @@ diegomcarvalho	primary_language	julia
 diegomcarvalho	primary_language	python
 diegomcarvalho	secondary_language	fortran
 diegomcarvalho	secondary_language	java
+diegomcarvalho	secondary_language	modula-2
 diegomcarvalho	secondary_language	modula2
 diegomcarvalho	secondary_language	pascal
 diegomcarvalho	topic	artificial intelligence
 diegomcarvalho	topic	big data
 diegomcarvalho	topic	cloud computing
+diegomcarvalho	topic	data mining
 diegomcarvalho	topic	distributed computing
+diegomcarvalho	topic	distributed systems
 diegomcarvalho	topic	grid computing
 diegomcarvalho	topic	high performance computing
 diegomcarvalho	topic	machine learning
-diegomoreiracarvalho	primary_language	c
-diegomoreiracarvalho	primary_language	c++
-diegomoreiracarvalho	primary_language	go
-diegomoreiracarvalho	primary_language	julia
-diegomoreiracarvalho	primary_language	python
-diegomoreiracarvalho	secondary_language	modula-2
-diegomoreiracarvalho	secondary_language	pascal
-diegomoreiracarvalho	topic	artificial intelligence
-diegomoreiracarvalho	topic	data mining
-diegomoreiracarvalho	topic	distributed systems
-diegomoreiracarvalho	topic	micro services
-diegomoreiracarvalho	topic	oo
-diegomoreiracarvalho	topic	workflow
+diegomcarvalho	topic	micro services
+diegomcarvalho	topic	oo
+diegomcarvalho	topic	workflow
 diegoonna	primary_language	python
 diegoonna	secondary_language	javascript
 diegoonna	topic	chemometrics
@@ -5313,9 +5302,6 @@ fiveop	secondary_language	javascript
 fiveop	secondary_language	python
 fiveop	topic	mathematics
 fiveop	topic	software engineering
-fjboehm	primary_language	r
-fjboehm	topic	biostatistics
-fjboehm	topic	genetics
 fjramireg	primary_language	matlab
 fjramireg	secondary_language	python
 fjramireg	topic	finite element method
@@ -5330,19 +5316,6 @@ florian-rosenthal	primary_language	matlab
 florian-rosenthal	secondary_language	python
 florian-rosenthal	topic	automatic control
 florian-rosenthal	topic	signal processing
-flowdalic	primary_language	bash
-flowdalic	primary_language	c
-flowdalic	primary_language	c++
-flowdalic	primary_language	haskell
-flowdalic	primary_language	java
-flowdalic	primary_language	python
-flowdalic	primary_language	scala
-flowdalic	secondary_language	x10
-flowdalic	topic	concurrency
-flowdalic	topic	many core
-flowdalic	topic	operating systems
-flowdalic	topic	parallelism
-flowdalic	topic	system software
 fneum	primary_language	julia
 fneum	primary_language	python
 fneum	topic	energy system optimisation models
@@ -6528,9 +6501,6 @@ jeremyklein	primary_language	python
 jeremyklein	secondary_language	java
 jeremyklein	topic	healthcare
 jeremyklein	topic	healthit
-jessepisel	primary_language	python
-jessepisel	topic	geology
-jessepisel	topic	geoscience
 jessie-dotson	primary_language	r
 jessie-dotson	secondary_language	python
 jessie-dotson	topic	asteroids
@@ -8665,10 +8635,6 @@ mnf2014	primary_language	python
 mnf2014	topic	machine learning
 mnf2014	topic	material science
 mnf2014	topic	physics
-moldis-group	primary_language	fortran
-moldis-group	secondary_language	python
-moldis-group	topic	computational chemistry
-moldis-group	topic	materials science
 molgor	primary_language	python
 molgor	secondary_language	r
 molgor	topic	ecology
@@ -9878,6 +9844,7 @@ raghurama123	primary_language	fortran
 raghurama123	primary_language	octave
 raghurama123	primary_language	python
 raghurama123	secondary_language	julia
+raghurama123	secondary_language	python
 raghurama123	topic	computational chemistry
 raghurama123	topic	density functional theory
 raghurama123	topic	materials science
@@ -11545,6 +11512,8 @@ tgerke	secondary_language	sas
 tgerke	topic	biostatistics
 tgerke	topic	cancer research applications
 tgerke	topic	epidemiology
+tgerke	topic	genetics
+tgerke	topic	public health
 tgoelles	primary_language	python
 tgoelles	primary_language	wolfram
 tgoelles	secondary_language	fortran
@@ -12080,10 +12049,6 @@ vissarion	topic	computational geometry
 vissarion	topic	mathematical software
 vissarion	topic	optimization
 vissarion	topic	scientific computing
-vissarion_	primary_language	c++
-vissarion_	secondary_language	python
-vissarion_	topic	computational geometry
-vissarion_	topic	scientific computing
 vitorsr	primary_language	gnu octave
 vitorsr	primary_language	matlab
 vitorsr	primary_language	octave

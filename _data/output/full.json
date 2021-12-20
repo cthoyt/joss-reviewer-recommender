@@ -195,30 +195,6 @@
     "recent_quarter_reviews":0
   },
   {
-    "username":"AdeBytes",
-    "languages_primary":[
-      "c",
-      "c++",
-      "matlab",
-      "python"
-    ],
-    "languages_secondary":[
-
-    ],
-    "affiliations":[
-      "Department of Geology & Geophysics, Texas A&M University"
-    ],
-    "email":"adewale@tamu.edu",
-    "topics":[
-      "geoscience",
-      "petroleum geology"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
     "username":"Adrianzo",
     "languages_primary":[
       "python"
@@ -2097,27 +2073,34 @@
   {
     "username":"Flowdalic",
     "languages_primary":[
+      "bash",
       "c",
       "c++",
+      "haskell",
       "java",
+      "python",
       "scala"
     ],
     "languages_secondary":[
-
+      "x10"
     ],
     "affiliations":[
+      "Friedrich-Alexander University Erlangen-Nürnberg",
       "Friedrich-Alexander University Erlangen-Nürnberg (FAU)"
     ],
     "email":"flow@cs.fau.de",
     "topics":[
       "communication protocols and implementations (xmpp",
+      "concurrency",
       "concurrency platforms",
       "dnssec",
       "ldap)",
+      "many core",
       "mqtt)",
       "network protocols and implementations (dns",
       "operating systems",
       "parallel and concurrent programming",
+      "parallelism",
       "system software"
     ],
     "active_reviews":0,
@@ -2206,30 +2189,12 @@
       "python"
     ],
     "affiliations":[
-      "Deparement of Earth Observation Science, Faculty of Geo-information Science and Earth Observation(ITC), University of Twente"
-    ],
-    "email":"dsq1993qingge@163.com",
-    "topics":[
-      "geography and spatial statistics"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
-    "username":"GISerDaishaoqing",
-    "languages_primary":[
-      "r"
-    ],
-    "languages_secondary":[
-      "python"
-    ],
-    "affiliations":[
+      "Deparement of Earth Observation Science, Faculty of Geo-information Science and Earth Observation(ITC), University of Twente",
       "Department of Earth Observation Science, Faculty of Geo-information Science and Earth Observation(ITC), University of Twente"
     ],
     "email":"dsq1993qingge@163.com",
     "topics":[
+      "geography and spatial statistics",
       "remote sensing and gis",
       "spatial statistics"
     ],
@@ -3089,10 +3054,11 @@
     "topics":[
       "geology",
       "geophysics",
+      "geoscience",
       "machine learning"
     ],
     "active_reviews":0,
-    "total_reviews":0,
+    "total_reviews":1,
     "recent_year_reviews":0,
     "recent_quarter_reviews":0
   },
@@ -6529,29 +6495,6 @@
     "recent_quarter_reviews":0
   },
   {
-    "username":"Tgerke",
-    "languages_primary":[
-      "r"
-    ],
-    "languages_secondary":[
-
-    ],
-    "affiliations":[
-      "Asst Member of Cancer Epidemiology"
-    ],
-    "email":"travis.gerke@moffitt.org",
-    "topics":[
-      "biostatistics",
-      "epidemiology",
-      "genetics",
-      "public health"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
     "username":"ThomasA",
     "languages_primary":[
       "python"
@@ -6908,13 +6851,15 @@
       "c",
       "c++",
       "fortran",
-      "matlab"
+      "matlab",
+      "python"
     ],
     "languages_secondary":[
       "python",
       "shell scripting"
     ],
     "affiliations":[
+      "Department of Geology & Geophysics, Texas A&M University",
       "Department of Geology and Geophysics, Texas A&M University"
     ],
     "email":"adewale@tamu.edu",
@@ -6922,7 +6867,9 @@
       "earth science",
       "geology",
       "geophysics",
+      "geoscience",
       "petroleum exploration",
+      "petroleum geology",
       "petrophysics",
       "rock physics"
     ],
@@ -8921,29 +8868,6 @@
     "recent_quarter_reviews":0
   },
   {
-    "username":"allenzhu",
-    "languages_primary":[
-      "r"
-    ],
-    "languages_secondary":[
-
-    ],
-    "affiliations":[
-      "Merck & Co., Inc."
-    ],
-    "email":"yalin.zhu@merck.com",
-    "topics":[
-      "experimental design",
-      "graphics",
-      "reproducible research",
-      "statistics"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
     "username":"allenzhuaz",
     "languages_primary":[
       "python",
@@ -8957,6 +8881,9 @@
     ],
     "email":"yalin.zhu@merck.com",
     "topics":[
+      "experimental design",
+      "graphics",
+      "reproducible research",
       "statistics"
     ],
     "active_reviews":0,
@@ -15943,48 +15870,25 @@
     "languages_secondary":[
       "fortran",
       "java",
+      "modula-2",
       "modula2",
       "pascal"
     ],
     "affiliations":[
-      "Cefet\/RJ"
+      "Cefet\/RJ",
+      "Federal Centre for Technological Education of Rio de Janeiro - Cefet\/RJ"
     ],
     "email":"d.carvalho@ieee.org",
     "topics":[
       "artificial intelligence",
       "big data",
       "cloud computing",
+      "data mining",
       "distributed computing",
+      "distributed systems",
       "grid computing",
       "high performance computing",
-      "machine learning"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
-    "username":"diegomoreiracarvalho",
-    "languages_primary":[
-      "c",
-      "c++",
-      "go",
-      "julia",
-      "python"
-    ],
-    "languages_secondary":[
-      "modula-2",
-      "pascal"
-    ],
-    "affiliations":[
-      "Federal Centre for Technological Education of Rio de Janeiro - Cefet\/RJ"
-    ],
-    "email":"d.carvalho@ieee.org",
-    "topics":[
-      "artificial intelligence",
-      "data mining",
-      "distributed systems",
+      "machine learning",
       "micro services",
       "oo",
       "workflow"
@@ -18751,27 +18655,6 @@
     "recent_quarter_reviews":0
   },
   {
-    "username":"fjboehm",
-    "languages_primary":[
-      "r"
-    ],
-    "languages_secondary":[
-
-    ],
-    "affiliations":[
-      "University of Wisconsin-Madison"
-    ],
-    "email":"frederick.boehm@gmail.com",
-    "topics":[
-      "biostatistics",
-      "genetics"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
     "username":"fjramireg",
     "languages_primary":[
       "matlab"
@@ -18831,36 +18714,6 @@
     "topics":[
       "automatic control",
       "signal processing"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
-    "username":"flowdalic",
-    "languages_primary":[
-      "bash",
-      "c",
-      "c++",
-      "haskell",
-      "java",
-      "python",
-      "scala"
-    ],
-    "languages_secondary":[
-      "x10"
-    ],
-    "affiliations":[
-      "Friedrich-Alexander University Erlangen-Nürnberg"
-    ],
-    "email":"flow@cs.fau.de",
-    "topics":[
-      "concurrency",
-      "many core",
-      "operating systems",
-      "parallelism",
-      "system software"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -23075,27 +22928,6 @@
     ],
     "active_reviews":0,
     "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
-    "username":"jessepisel",
-    "languages_primary":[
-      "python"
-    ],
-    "languages_secondary":[
-
-    ],
-    "affiliations":[
-      "University of Texas at Austin"
-    ],
-    "email":"jesse.pisel@austin.utexas.edu",
-    "topics":[
-      "geology",
-      "geoscience"
-    ],
-    "active_reviews":0,
-    "total_reviews":1,
     "recent_year_reviews":0,
     "recent_quarter_reviews":0
   },
@@ -30699,27 +30531,6 @@
     "recent_quarter_reviews":0
   },
   {
-    "username":"moldis-group",
-    "languages_primary":[
-      "fortran"
-    ],
-    "languages_secondary":[
-      "python"
-    ],
-    "affiliations":[
-      "Tata Institute of Fundamental Research Hyderabad"
-    ],
-    "email":"ramakrishnan@tifrh.res.in",
-    "topics":[
-      "computational chemistry",
-      "materials science"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
     "username":"molgor",
     "languages_primary":[
       "python"
@@ -34846,7 +34657,8 @@
       "python"
     ],
     "languages_secondary":[
-      "julia"
+      "julia",
+      "python"
     ],
     "affiliations":[
       "Tata Institute of Fundamental Research Hyderabad"
@@ -40784,13 +40596,16 @@
       "sas"
     ],
     "affiliations":[
+      "Asst Member of Cancer Epidemiology",
       "Moffitt Cancer Center"
     ],
     "email":"travis.gerke@moffitt.org",
     "topics":[
       "biostatistics",
       "cancer research applications",
-      "epidemiology"
+      "epidemiology",
+      "genetics",
+      "public health"
     ],
     "active_reviews":0,
     "total_reviews":4,
@@ -42659,6 +42474,7 @@
       "r"
     ],
     "affiliations":[
+      "University of Athens",
       "University of Athens, Greece"
     ],
     "email":"fisikop@gmail.com",
@@ -42673,27 +42489,6 @@
     "active_reviews":0,
     "total_reviews":3,
     "recent_year_reviews":1,
-    "recent_quarter_reviews":0
-  },
-  {
-    "username":"vissarion_",
-    "languages_primary":[
-      "c++"
-    ],
-    "languages_secondary":[
-      "python"
-    ],
-    "affiliations":[
-      "University of Athens"
-    ],
-    "email":"fisikop@gmail.com",
-    "topics":[
-      "computational geometry",
-      "scientific computing"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
     "recent_quarter_reviews":0
   },
   {

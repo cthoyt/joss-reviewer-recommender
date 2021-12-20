@@ -15,6 +15,7 @@ from typing import Mapping, Optional
 
 import pandas as pd
 import pystow
+from tabulate import tabulate
 
 logger = logging.getLogger(__name__)
 
@@ -223,8 +224,8 @@ def get_df(force: bool = False) -> pd.DataFrame:
     )
 
 
-def _nonempty(l: list) -> bool:
-    return 0 < len(l)
+def _nonempty(data: list) -> bool:
+    return 0 < len(data)
 
 
 def main(force: bool = False):
@@ -259,13 +260,6 @@ def main(force: bool = False):
     #################
     # DEDUPLICATION #
     #################
-    username_counter = Counter(df.username)
-    dup_counter = {name for name, count in username_counter.items() if count > 1}
-    logger.info(
-        f"{len(dup_counter)} ({len(dup_counter) / len(username_counter):.2%}) GitHub"
-        f" handles have duplicates of {len(username_counter):,} unique GitHub handles"
-    )
-
     df = pd.DataFrame(
         [
             _aggregate_duplicates(username, sdf)
@@ -273,6 +267,18 @@ def main(force: bool = False):
         ],
         columns=HEADER,
     )
+
+    email_counter = Counter(df.email)
+    dup_email_counter = Counter({
+        email: count
+        for email, count in email_counter.items()
+        if isinstance(email, str) and count > 1
+    })
+    logger.info(
+        f"{len(dup_email_counter)} ({len(dup_email_counter) / len(email_counter):.2%}) emails"
+        f" have duplicates of {len(email_counter):,} unique emails"
+    )
+    logger.info(tabulate(dup_email_counter.most_common(), headers=["email", "count"]))
 
     df = df.drop_duplicates("username", keep="last")
 

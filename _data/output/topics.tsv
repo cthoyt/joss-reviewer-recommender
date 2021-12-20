@@ -1,7 +1,7 @@
 topic	count
 machine learning	352
 bioinformatics	184
-statistics	156
+statistics	155
 visualization	117
 data science	112
 physics	97
@@ -14,23 +14,23 @@ computer vision	56
 astronomy	55
 optimization	54
 neuroscience	52
-artificial intelligence	46
+artificial intelligence	45
 image processing	43
-epidemiology	40
+epidemiology	39
 software engineering	38
-computational chemistry	37
+computational chemistry	36
 signal processing	36
 ecology	35
 computational fluid dynamics	34
 geophysics	33
 mathematics	33
 gis	32
-materials science	32
 psychology	32
 remote sensing	32
-biostatistics	31
 data analysis	31
+materials science	31
 biology	29
+biostatistics	29
 chemistry	29
 computer science	29
 molecular dynamics	27
@@ -38,10 +38,10 @@ oceanography	26
 neuroimaging	25
 social science	25
 time series analysis	25
-genetics	22
 network science	22
-scientific computing	22
 bayesian statistics	21
+genetics	21
+scientific computing	21
 robotics	20
 algorithms	19
 distributed systems	19
@@ -88,15 +88,14 @@ finite element methods	11
 image analysis	11
 modeling	11
 neural networks	11
-operating systems	11
 particle physics	11
 seismology	11
 chemical engineering	10
 computational linguistics	10
 engineering	10
-geology	10
 geosciences	10
 healthcare	10
+operating systems	10
 optics	10
 reproducible research	10
 simulation	10
@@ -105,6 +104,7 @@ web development	10
 computational social science	9
 dynamical systems	9
 finance	9
+geology	9
 geospatial	9
 information theory	9
 linguistics	9
@@ -118,7 +118,6 @@ acoustics	8
 causal inference	8
 cognitive science	8
 combinatorics	8
-computational geometry	8
 computer graphics	8
 condensed matter physics	8
 finite element method	8
@@ -129,6 +128,7 @@ reinforcement learning	8
 semantic web	8
 statistical modeling	8
 cloud computing	7
+computational geometry	7
 control	7
 databases	7
 differential equations	7
@@ -597,7 +597,6 @@ structural mechanics	2
 symbolic regression	2
 system	2
 system programming	2
-system software	2
 technology	2
 tectonic geomorphology	2
 tectonics	2
@@ -2304,6 +2303,7 @@ system calibration	1
 system dynamics	1
 system integration	1
 system modeling	1
+system software	1
 system uitilities	1
 systematic review	1
 systematics	1
