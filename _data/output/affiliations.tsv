@@ -1,40 +1,36 @@
 affiliation	count
-Oak Ridge National Laboratory	15
+Oak Ridge National Laboratory	13
 University of Oxford	13
-Massachusetts Institute of Technology	11
 University of Cambridge	11
 University of Michigan	11
-University of Bristol	10
+Massachusetts Institute of Technology	10
 Stanford University	9
 University College London	9
+University of Bristol	9
 University of Washington	9
-Forschungszentrum Jülich	8
 Northwestern University	8
 University of Wisconsin-Madison	8
 California Institute of Technology	7
+Forschungszentrum Jülich	7
 Imperial College London	7
-Lawrence Livermore National Laboratory	7
 Monash University	7
 Princeton University	7
-UC Berkeley	7
-University of Pennsylvania	7
 Argonne National Laboratory	6
 INRIA	6
 KTH Royal Institute of Technology	6
-McGill University	6
+Lawrence Livermore National Laboratory	6
 Stony Brook University	6
+UC Berkeley	6
 University of Colorado Boulder	6
+University of Pennsylvania	6
 Columbia University	5
 EPFL	5
 ETH Zurich	5
 Johns Hopkins University	5
-Karlsruhe Institute of Technology	5
 Los Alamos National Laboratory	5
+McGill University	5
 Michigan State University	5
 University of Edinburgh	5
-University of Florida	5
-University of Glasgow	5
-University of New South Wales	5
 University of Oslo	5
 University of Southern California	5
 University of Texas at Austin	5
@@ -42,9 +38,8 @@ Arizona State University	4
 Brown University	4
 Cardiff University	4
 Dalhousie University	4
-EMBL-EBI	4
+Karlsruhe Institute of Technology	4
 Lawrence Berkeley National Laboratory	4
-Netherlands eScience Center	4
 Northeastern University	4
 Pacific Northwest National Laboratory	4
 RWTH Aachen University	4
@@ -53,25 +48,24 @@ UCL	4
 University of Arizona	4
 University of California, San Diego	4
 University of Chicago	4
+University of Florida	4
+University of Glasgow	4
 University of Illinois at Urbana-Champaign	4
 University of Manchester	4
+University of New South Wales	4
 University of Oregon	4
 University of Southampton	4
-University of Sydney	4
 Victoria University of Wellington	4
-ARGONNE NATIONAL LABORATORY	3
 Aristotle University of Thessaloniki	3
 Boston University	3
-CSIRO	3
 Carnegie Mellon University	3
 Dartmouth College	3
 Delft University of Technology	3
 Duke University	3
 Durham University	3
-H2O.ai	3
+EMBL-EBI	3
 Harvard Medical School	3
 Harvard University	3
-Icahn School of Medicine at Mount Sinai	3
 Indian Institute of Technology Bombay	3
 Indian Institute of Technology Kanpur	3
 John Innes Centre	3
@@ -79,6 +73,7 @@ King's College London	3
 LMU Munich	3
 Lancaster University	3
 Nanyang Technological University	3
+Netherlands eScience Center	3
 New York University	3
 Newcastle University	3
 Radboud University Nijmegen	3
@@ -88,38 +83,32 @@ Texas A&M University	3
 University of Amsterdam	3
 University of British Columbia	3
 University of California, Berkeley	3
-University of Colorado Denver	3
 University of East Anglia	3
-University of Maryland, College Park	3
 University of Notre Dame	3
+University of Sydney	3
 University of Toronto	3
 Université de Montréal	3
 Utrecht University	3
+ARGONNE NATIONAL LABORATORY	2
 ATLAS, University of Kansas	2
-Aalto University	2
-Aix-Marseille University, Institut de Neurosciences de la Timone	2
 Amazon Web Services	2
-Ambrosys GmbH	2
 Australian National University	2
 Australian Nuclear Science and Technology Organisation	2
 Austrian Research Institute for Artificial Intelligence	2
 Brookhaven National Laboratory	2
-CIEMAT	2
 CNRS	2
+CSIRO	2
 CU Boulder	2
-Chiba Cancer Center	2
 Clemson University	2
 Colorado School of Mines	2
 Cornell University	2
 Curtin University	2
-DTU	2
 Deakin University	2
-Eskisehir Technical University, Department of Statistics	2
-European Spallation Source ERIC	2
 Facebook	2
 Flatiron Institute	2
 Georgia Tech	2
-InSysBio LLC	2
+H2O.ai	2
+Icahn School of Medicine at Mount Sinai	2
 Indiana University	2
 Institut Pasteur	2
 Instituto de Astrofísica de Canarias	2
@@ -127,15 +116,11 @@ Istanbul Technical University	2
 Italian Institute of Technology	2
 KU Leuven	2
 Lawrence Berkeley National Lab	2
-Leibniz Institute for Astrophysics Potsdam	2
-Lenatics Solutions Pvt. Ltd.	2
 Macquarie University	2
 Max Planck Institute for Evolutionary Biology	2
 Memorial Sloan Kettering Cancer Center	2
 Merck & Co., Inc.	2
 Moffitt Cancer Center	2
-NASA Jet Propulsion Laboratory	2
-National Biodefense Analysis and Countermeasures Center	2
 National Renewable Energy Laboratory	2
 Palo Alto Research Center	2
 Peking University	2
@@ -150,7 +135,6 @@ Software Developer	2
 Southern Methodist University	2
 Spanish National Research Council	2
 Swinburne University of Technology	2
-TU Darmstadt	2
 TU Delft	2
 Tata Institute of Fundamental Research Hyderabad	2
 Technische Universität Berlin	2
@@ -162,7 +146,6 @@ Tulane University	2
 U.S. Geological Survey	2
 US EPA	2
 UiT - The Arctic University of Norway	2
-Universidad de Sevilla	2
 University College Cork	2
 University College Dublin	2
 University at Buffalo	2
@@ -173,6 +156,7 @@ University of California Davis	2
 University of California Santa Barbara	2
 University of California, Irvine	2
 University of Canterbury	2
+University of Colorado Denver	2
 University of Connecticut	2
 University of Groningen	2
 University of Illinois	2
@@ -183,6 +167,7 @@ University of Liverpool	2
 University of Liège	2
 University of Luxembourg	2
 University of Maryland	2
+University of Maryland, College Park	2
 University of North Carolina at Chapel Hill	2
 University of Pittsburgh	2
 University of Potsdam	2
@@ -193,11 +178,9 @@ University of Strathclyde	2
 University of Sussex	2
 University of Warsaw	2
 University of Waterloo	2
-University of Western Australia	2
 University of Wisconsin - Madison	2
 Université Laval	2
 Université de Sherbrooke	2
-WEHI	2
 Washington State University	2
 Western University	2
 École Polytechnique Fédérale de Lausanne	2
@@ -215,13 +198,16 @@ ASTRON, Netherlands Institute for Radio Astronomy	1
 ASTRON, te Netherlands Institute for Radio Astronomy	1
 AT&T	1
 Aalborg University	1
+Aalto University	1
 Accenture	1
 Advanced Knowledge in Information Technology	1
 Aether Engineering	1
+Aix-Marseille University, Institut de Neurosciences de la Timone	1
 Alaska Department of Fish and Game, Commercial Fisheries	1
 Allegro.ai	1
 Allen Institute for Brain Science	1
 Amazon	1
+Ambrosys GmbH	1
 Antarctic Research Centre	1
 AnyBody Technology A/S	1
 Apeira Technologies	1
@@ -281,6 +267,7 @@ CHArt Laboratory EA 4004, Ecole Pratique des Hautes Etudes, PSL Université Pari
 CHRU Brest	1
 CHRU Brest, Hôpital Morvan, Laboratoire de Génétique Moléculaire, Brest, France	1
 CIBEREHD, IDIBAPS	1
+CIEMAT	1
 CIIRC CTU	1
 CIRAD, UMR AMAP, Montpellier, FRANCE	1
 CLPU	1
@@ -319,6 +306,7 @@ Centre for Astrophysics and Supercomputing, Swinburne University of Technology, 
 Chair of Photogrammetry and Remote Sensing, Technical University of Munich	1
 Chandra X-ray Center, Center for Astrophysics | Harvard & Smithsonian	1
 Charite University Medicine Berlin /Berlin Institute of Health	1
+Chiba Cancer Center	1
 China University of Geosciences	1
 Cincinnati Children's Hospital Medical Center	1
 City University of Hong Kong	1
@@ -354,6 +342,7 @@ DISIM University of L'Aquila, Italy	1
 DLR Institute of Networked Energy Systems	1
 DM Clinical Pharmacology Resident, Postgraduate Institute of Medical Education and Research (PGIMER), Chandigarh	1
 DOT Loves Data	1
+DTU	1
 DZHW	1
 Dassault Systèmes BIOVIA	1
 Data Engineer, Zalando SE	1
@@ -431,6 +420,7 @@ Emory University	1
 Emory University, Atlanta, GA, USA	1
 Empa - Swiss Federal Laboratories for Materials Science and Technology	1
 Erasmus University Rotterdam	1
+Eskisehir Technical University, Department of Statistics	1
 Eurofins Clinical Genomics	1
 European Molecular Biology Laboratory, Heidelberg, Germany	1
 European Research Institute for Biology of Ageing, Groningen	1
@@ -438,6 +428,7 @@ European School of Political and Social Sciences, Catholic University of Lille, 
 European Southern Observatory	1
 European Southern Overvatory	1
 European Space Agency	1
+European Spallation Source ERIC	1
 European University Institute	1
 European XFEL	1
 Faculty of Law, Economics and Management of Jendouba, Tunisia	1
@@ -531,6 +522,7 @@ Imperial College	1
 Imperial College London & MRC London Institute of Medical Science	1
 Imperial College London, University of Bath	1
 Imperial college London	1
+InSysBio LLC	1
 Independent Researcher (previously IFM Linkoping University)	1
 Indian Institute of Science Education and Research Bhopal, India	1
 Indian Institute of Technology Madras	1
@@ -632,10 +624,12 @@ Lancaster University & Free Software Foundation Europe	1
 Lawrence Berkeley National Labs	1
 Lawrence Berkley National Laboratory	1
 Lead Data Scientist, Salesforce	1
+Leibniz Institute for Astrophysics Potsdam	1
 Leibniz Institute for Ecological Urban and Regional Development	1
 Leibniz Institute of Ecological Urban and Regional Development	1
 Leibniz University Hannover	1
 Leiden University - Leiden Institute of Advanced Computer Science	1
+Lenatics Solutions Pvt. Ltd.	1
 Liberate Science GmbH	1
 Linnaeus University	1
 Liverpool School of Tropical Medicine, UK & Malawi-Liverpool-Wellcome Trust Clinical Research Programme, Blantyre, Malawi	1
@@ -724,6 +718,7 @@ NASA GSFC/University of Maryland	1
 NASA Glenn Research Center	1
 NASA Goddard Space Flight Center/NASA postdoctoral program(URSA)	1
 NASA JPL	1
+NASA Jet Propulsion Laboratory	1
 NATIONAL UNIVERSITY OF TIERRA DEL FUEGO - CONICET ARGENTINA	1
 NAU	1
 NC State University	1
@@ -739,6 +734,7 @@ Nanjing Normal University	1
 Nanjing University	1
 NanoString Technologies Inc	1
 Nantes Hospital	1
+National Biodefense Analysis and Countermeasures Center	1
 National Cancer Institute and University of Cambridge	1
 National Center for Supercomputing Applications, UIUC	1
 National Centre for Atmospheric Science	1
@@ -933,6 +929,7 @@ Swansea University	1
 Swedish Defence Research Agency	1
 Symerio	1
 TU Chemnitz	1
+TU Darmstadt	1
 TU Delft, NL	1
 TU Dublin	1
 TU Wien	1
@@ -1042,6 +1039,7 @@ Universidad Pedagogica y Tecnologica de colombia	1
 Universidad Politécnica de Cartagena (UPCT)	1
 Universidad Tecnológica de Panamá	1
 Universidad de Castilla-La Mancha	1
+Universidad de Sevilla	1
 Universidad de la República	1
 Universidade Federal de Minas Gerais	1
 Universidade Federal de Pernambuco	1
@@ -1171,6 +1169,7 @@ University of Washington (alumna), ILK Labs	1
 University of Washington Information School	1
 University of Washington, University of Maryland	1
 University of Washinton	1
+University of Western Australia	1
 University of Wisconsin-Madison (Assistant Professor of Statistics)	1
 University of Wisconsin–Madison	1
 University of York	1
@@ -1204,6 +1203,7 @@ Vanderbilt University Medical Center	1
 Vienna University of Economics and Business (WU)	1
 Virgina Tech Applied Research Corporation	1
 Virtual Vehicle Research GmbH	1
+WEHI	1
 WU Vienna University of Economics and Business	1
 Washington University School Of Medicine At St Louis	1
 Washington University in St. Louis	1

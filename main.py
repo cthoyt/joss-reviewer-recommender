@@ -70,7 +70,7 @@ HEADER = [
     "username",
     "languages_primary",
     "languages_secondary",
-    "affiliation",
+    "affiliations",
     "email",
     "topics",
     "active_reviews",
@@ -189,18 +189,18 @@ def clean_topic(topic: any) -> list[str]:
     return rv
 
 
-def clean_affiliation(affiliation: any) -> Optional[str]:
+def clean_affiliations(affiliation: any) -> list[str]:
     if not isinstance(affiliation, str):
-        return None
+        return []
     affiliation = affiliation.strip()
     affiliation = AFFILIATION_REWRITES.get(affiliation, affiliation)
     if affiliation is None:
-        return None
+        return []
     if affiliation.lower() in AFFILIATION_BLACKLIST:
-        return None
+        return []
     if any(c in affiliation for c in FORBIDDEN_CHARACTERS):
         raise ValueError(f"invalid character in: {affiliation}")
-    return affiliation
+    return [affiliation]
 
 
 def get_df(force: bool = False) -> pd.DataFrame:
@@ -238,17 +238,10 @@ def main(force: bool = False):
     df.username = df.username.map(clean_username)
     df = df[df.username.notna()]
 
-    username_counter = Counter(df.username)
-    dup_counter = {name for name, count in username_counter.items() if count > 1}
-    logger.info(
-        f"{len(dup_counter)} ({len(dup_counter) / len(username_counter):.2%}) GitHub"
-        f" handles have duplicates of {len(username_counter):,} unique GitHub handles"
-    )
-
     df.topics = df.topics.map(clean_topic)
     df = df[df.topics.map(_nonempty)]
 
-    df.affiliation = df.affiliation.map(clean_affiliation)
+    df.affiliations = df.affiliations.map(clean_affiliations)
 
     df.languages_primary = df.languages_primary.map(clean_languages)
     df = df[df.languages_primary.map(_nonempty)]
@@ -262,18 +255,46 @@ def main(force: bool = False):
     ]:
         df[key] = df[key].fillna(0.0).astype(int)
 
+    #################
+    # DEDUPLICATION #
+    #################
+    username_counter = Counter(df.username)
+    dup_counter = {name for name, count in username_counter.items() if count > 1}
+    logger.info(
+        f"{len(dup_counter)} ({len(dup_counter) / len(username_counter):.2%}) GitHub"
+        f" handles have duplicates of {len(username_counter):,} unique GitHub handles"
+    )
+
+    df = pd.DataFrame(
+        [
+            _aggregate_duplicates(username, sdf)
+            for username, sdf in df.groupby(["username"])
+        ],
+        columns=HEADER,
+    )
+
+    df = df.drop_duplicates("username", keep="last")
+
+    ###########
+    # SUMMARY #
+    ###########
     topic_counter = Counter(topic for topics in df.topics if topics for topic in topics)
     topic_df = pd.DataFrame(
         topic_counter.most_common(), columns=["topic", "count"]
     ).sort_values(["count", "topic"], ascending=(False, True))
     topic_df.to_csv(TOPICS_PATH, sep="\t", index=False)
 
-    affiliation_counter = Counter(a for a in df.affiliation if a and a.strip())
+    affiliation_counter = Counter(
+        affiliation for affiliations in df.affiliations for affiliation in affiliations
+    )
     affiliation_df = pd.DataFrame(
         affiliation_counter.most_common(), columns=["affiliation", "count"]
     ).sort_values(["count", "affiliation"], ascending=(False, True))
     affiliation_df.to_csv(AFFILIATIONS_PATH, sep="\t", index=False)
 
+    ##########
+    # EXPORT #
+    ##########
     df = df.sort_values("username")
     df.to_csv(FULL_PATH, sep="\t", index=False)
 
@@ -292,6 +313,21 @@ def main(force: bool = False):
     bioinformatics_df.to_csv(BIOINFO_PATH, sep="\t", index=False)
 
     to_triples(df, DERIVED.joinpath("triples.tsv"))
+
+
+def _aggregate_duplicates(username: str, sdf: pd.DataFrame):
+    return (
+        username,
+        sorted({i for row in sdf.languages_primary for i in row}),
+        sorted({i for row in sdf.languages_secondary for i in row}),
+        sorted({i for row in sdf.affiliations for i in row}),
+        sdf.iloc[-1].email,
+        sorted({i for row in sdf.topics for i in row}),
+        sum(row for row in sdf.active_reviews),
+        sum(row for row in sdf.total_reviews),
+        sum(row for row in sdf.recent_year_reviews),
+        sum(row for row in sdf.recent_quarter_reviews),
+    )
 
 
 def to_triples(df: pd.DataFrame, path: Path) -> None:
