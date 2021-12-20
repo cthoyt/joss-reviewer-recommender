@@ -58,11 +58,12 @@ TOPIC_INTERJECTIONS = json.loads(TOPIC_INTERJECTIONS_PATH.read_text())
 
 DERIVED = DATA.joinpath("output")
 DERIVED.mkdir(exist_ok=True, parents=True)
-FULL_PATH = DERIVED.joinpath("full.tsv")
 TOPICS_PATH = DERIVED.joinpath("topics.tsv")
 AFFILIATIONS_PATH = DERIVED.joinpath("affiliations.tsv")
-
-BIOINFO_PATH = DERIVED.joinpath("bioinfo.tsv")
+FULL_TSV_PATH = DERIVED.joinpath("full.tsv")
+FULL_JSON_PATH = DERIVED.joinpath("full.json")
+BIOINFO_TSV_PATH = DERIVED.joinpath("bioinfo.tsv")
+BIOINFO_JSON_PATH = DERIVED.joinpath("bioinfo.json")
 
 ID = "1PAPRJ63yq9aPC1COLjaQp8mHmEq3rZUzwUYxTulyu78"
 SHEET_URL = f"https://docs.google.com/spreadsheets/d/{ID}/export"
@@ -296,7 +297,8 @@ def main(force: bool = False):
     # EXPORT #
     ##########
     df = df.sort_values("username")
-    df.to_csv(FULL_PATH, sep="\t", index=False)
+    df.to_csv(FULL_TSV_PATH, sep="\t", index=False)
+    df.to_json(FULL_JSON_PATH, orient="records", indent=2, force_ascii=False)
 
     bio_idx = [
         (
@@ -310,7 +312,8 @@ def main(force: bool = False):
         for _, row in df.iterrows()
     ]
     bioinformatics_df = df[bio_idx]
-    bioinformatics_df.to_csv(BIOINFO_PATH, sep="\t", index=False)
+    bioinformatics_df.to_csv(BIOINFO_TSV_PATH, sep="\t", index=False)
+    bioinformatics_df.to_json(BIOINFO_JSON_PATH, orient="records", indent=2, force_ascii=False)
 
     to_triples(df, DERIVED.joinpath("triples.tsv"))
 
