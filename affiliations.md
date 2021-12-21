@@ -22,6 +22,8 @@ permalink: /affiliations/
 
 <script>
 $(document).ready(function () {
-   $("#affiliation-table").DataTable();
+  $("#affiliation-table").DataTable({
+    "order": [[ 1, "desc" ], [0, "asc"]]
+  });
 });
 </script>

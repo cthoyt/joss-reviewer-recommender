@@ -22,6 +22,8 @@ permalink: /topics/
 
 <script>
 $(document).ready(function () {
-   $("#topic-table").DataTable();
+  $("#topic-table").DataTable({
+    "order": [[ 1, "desc" ], [0, "asc"]]
+  });
 });
 </script>
