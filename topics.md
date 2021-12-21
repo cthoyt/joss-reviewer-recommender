@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Affiliations
-permalink: /affiliations/
+title: Topics
+permalink: /topics/
 ---
-<table id="affiliation-table">
+<table id="topic-table">
 <thead>
 <tr>
 <th>Name</th>
@@ -11,9 +11,9 @@ permalink: /affiliations/
 </tr>
 </thead>
 <tbody>
-{% for row in site.data.output.affiliations %}
+{% for row in site.data.output.topics %}
 <tr>
-<td>{{ row["affiliation"] }}</td>
+<td>{{ row["topic"] }}</td>
 <td>{{ row["count"] }}</td>
 </tr>
 {% endfor %}
@@ -22,6 +22,6 @@ permalink: /affiliations/
 
 <script>
 $(document).ready(function () {
-   $("#affiliation-table").DataTable();
+   $("#topic-table").DataTable();
 });
 </script>
