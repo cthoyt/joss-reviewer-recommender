@@ -26,20 +26,14 @@ RULES = DATA.joinpath("rules")
 RULES.mkdir(exist_ok=True, parents=True)
 
 LANGUAGE_BLACKLIST_PATH = RULES.joinpath("language_blacklist.json")
-LANGUAGE_BLACKLIST = {
-    s.lower() for s in json.loads(LANGUAGE_BLACKLIST_PATH.read_text())
-}
+LANGUAGE_BLACKLIST = {s.lower() for s in json.loads(LANGUAGE_BLACKLIST_PATH.read_text())}
 LANGUAGE_MAPPING_PATH = RULES.joinpath("language_mapping.json")
 LANGUAGE_MAPPING = json.loads(LANGUAGE_MAPPING_PATH.read_text())
 LANGUAGE_REWRITES_PATH = RULES.joinpath("language_rewrites.json")
-LANGUAGE_REWRITES: Mapping[str, Optional[str]] = json.loads(
-    LANGUAGE_REWRITES_PATH.read_text()
-)
+LANGUAGE_REWRITES: Mapping[str, Optional[str]] = json.loads(LANGUAGE_REWRITES_PATH.read_text())
 
 AFFILIATION_BLACKLIST_PATH = RULES.joinpath("affiliation_blacklist.json")
-AFFILIATION_BLACKLIST = {
-    s.lower() for s in json.loads(AFFILIATION_BLACKLIST_PATH.read_text())
-}
+AFFILIATION_BLACKLIST = {s.lower() for s in json.loads(AFFILIATION_BLACKLIST_PATH.read_text())}
 AFFILIATION_REWRITES_PATH = RULES.joinpath("affiliation_rewrites.json")
 AFFILIATION_REWRITES = json.loads(AFFILIATION_REWRITES_PATH.read_text())
 
@@ -134,6 +128,7 @@ def clean_username(username: any) -> Optional[str]:
 
 
 def clean_languages(language: any) -> list[str]:
+    """Clean the language column, parse, and normalize."""
     if not isinstance(language, str):
         return []
     language = language.strip()
@@ -156,6 +151,7 @@ def clean_languages(language: any) -> list[str]:
 
 
 def clean_topic(topic: any) -> list[str]:
+    """Clean the topic column, parse, and normalize."""
     if not isinstance(topic, str):
         return []
     topic = topic.strip()
@@ -192,6 +188,7 @@ def clean_topic(topic: any) -> list[str]:
 
 
 def clean_affiliations(affiliation: any) -> list[str]:
+    """Clean the affiliations column, parse, and normalize."""
     if not isinstance(affiliation, str):
         return []
     affiliation = affiliation.strip()
@@ -200,6 +197,7 @@ def clean_affiliations(affiliation: any) -> list[str]:
         return []
     if affiliation.lower() in AFFILIATION_BLACKLIST:
         return []
+    affiliation = affiliation.removeprefix("The ")
     if any(c in affiliation for c in FORBIDDEN_CHARACTERS):
         raise ValueError(f"invalid character in: {affiliation}")
     return [affiliation]
@@ -229,13 +227,10 @@ def _nonempty(data: list) -> bool:
 
 
 def main(force: bool = False):
+    """Run the normalization script."""
     df = get_df(force=force)
 
-    df = df[
-        df.username.map(
-            lambda u: isinstance(u, str) and u.lower() not in USER_BLACKLIST
-        )
-    ]
+    df = df[df.username.map(lambda u: isinstance(u, str) and u.lower() not in USER_BLACKLIST)]
     # Fix username and remove missing
     df.username = df.username.map(clean_username)
     df = df[df.username.notna()]
@@ -261,19 +256,18 @@ def main(force: bool = False):
     # DEDUPLICATION #
     #################
     df = pd.DataFrame(
-        [
-            _aggregate_duplicates(username, sdf)
-            for username, sdf in df.groupby(["username"])
-        ],
+        [_aggregate_duplicates(username, sdf) for username, sdf in df.groupby(["username"])],
         columns=HEADER,
     )
 
     email_counter = Counter(df.email)
-    dup_email_counter = Counter({
-        email: count
-        for email, count in email_counter.items()
-        if isinstance(email, str) and count > 1
-    })
+    dup_email_counter = Counter(
+        {
+            email: count
+            for email, count in email_counter.items()
+            if isinstance(email, str) and count > 1
+        }
+    )
     logger.info(
         f"{len(dup_email_counter)} ({len(dup_email_counter) / len(email_counter):.2%}) emails"
         f" have duplicates of {len(email_counter):,} unique emails"
@@ -286,9 +280,9 @@ def main(force: bool = False):
     # SUMMARY #
     ###########
     topic_counter = Counter(topic for topics in df.topics if topics for topic in topics)
-    topic_df = pd.DataFrame(
-        topic_counter.most_common(), columns=["topic", "count"]
-    ).sort_values(["count", "topic"], ascending=(False, True))
+    topic_df = pd.DataFrame(topic_counter.most_common(), columns=["topic", "count"]).sort_values(
+        ["count", "topic"], ascending=(False, True)
+    )
     topic_df.to_csv(TOPICS_PATH, sep="\t", index=False)
 
     affiliation_counter = Counter(
@@ -340,6 +334,7 @@ def _aggregate_duplicates(username: str, sdf: pd.DataFrame):
 
 
 def to_triples(df: pd.DataFrame, path: Path) -> None:
+    """Write the dataframe as a triples file."""
     triples = set()
     for username, languages_primary, languages_secondary, topics in df[
         ["username", "languages_primary", "languages_secondary", "topics"]
@@ -352,7 +347,7 @@ def to_triples(df: pd.DataFrame, path: Path) -> None:
             triples.add((username, "topic", topic))
     with path.open("w") as file:
         for s, p, o in sorted(triples):
-            print(s, p, o, sep="\t", file=file)
+            print(s, p, o, sep="\t", file=file)  # noqa:T001
 
 
 if __name__ == "__main__":

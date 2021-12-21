@@ -1,17 +1,17 @@
 affiliation	count
 Oak Ridge National Laboratory	13
+University College London	13
 University of Oxford	13
 University of Cambridge	11
 University of Michigan	11
 Massachusetts Institute of Technology	10
-Stanford University	9
-University College London	9
+Stanford University	10
+Imperial College London	9
 University of Bristol	9
 University of Washington	9
 Northwestern University	8
 California Institute of Technology	7
 Forschungszentrum Jülich	7
-Imperial College London	7
 Monash University	7
 Princeton University	7
 University of Wisconsin-Madison	7
@@ -22,7 +22,9 @@ Lawrence Livermore National Laboratory	6
 Stony Brook University	6
 UC Berkeley	6
 University of Colorado Boulder	6
+University of Edinburgh	6
 University of Pennsylvania	6
+University of Sheffield	6
 Columbia University	5
 EPFL	5
 ETH Zurich	5
@@ -30,9 +32,11 @@ Johns Hopkins University	5
 Los Alamos National Laboratory	5
 McGill University	5
 Michigan State University	5
-University of Edinburgh	5
+University of California, San Diego	5
 University of Oslo	5
 University of Southern California	5
+University of Sydney	5
+University of Texas at Austin	5
 Arizona State University	4
 Brown University	4
 Cardiff University	4
@@ -42,10 +46,7 @@ Lawrence Berkeley National Laboratory	4
 Northeastern University	4
 Pacific Northwest National Laboratory	4
 RWTH Aachen University	4
-The University of Sheffield	4
-UCL	4
 University of Arizona	4
-University of California, San Diego	4
 University of Chicago	4
 University of Florida	4
 University of Glasgow	4
@@ -54,9 +55,9 @@ University of Manchester	4
 University of New South Wales	4
 University of Oregon	4
 University of Southampton	4
-University of Texas at Austin	4
 Victoria University of Wellington	4
 Aristotle University of Thessaloniki	3
+Australian National University	3
 Boston University	3
 Carnegie Mellon University	3
 Dartmouth College	3
@@ -76,23 +77,24 @@ Nanyang Technological University	3
 Netherlands eScience Center	3
 New York University	3
 Newcastle University	3
+Pennsylvania State University	3
 Radboud University Nijmegen	3
 Space Telescope Science Institute	3
 Stockholm University	3
 Texas A&M University	3
+University of Adelaide	3
 University of Amsterdam	3
 University of British Columbia	3
 University of California, Berkeley	3
 University of East Anglia	3
+University of Liverpool	3
 University of Notre Dame	3
-University of Sydney	3
 University of Toronto	3
 Université de Montréal	3
 Utrecht University	3
 ARGONNE NATIONAL LABORATORY	2
 ATLAS, University of Kansas	2
 Amazon Web Services	2
-Australian National University	2
 Australian Nuclear Science and Technology Organisation	2
 Austrian Research Institute for Artificial Intelligence	2
 Brookhaven National Laboratory	2
@@ -116,15 +118,16 @@ Istanbul Technical University	2
 Italian Institute of Technology	2
 KU Leuven	2
 Lawrence Berkeley National Lab	2
+MITRE Corporation	2
 Macquarie University	2
 Max Planck Institute for Evolutionary Biology	2
 Memorial Sloan Kettering Cancer Center	2
 Moffitt Cancer Center	2
 National Renewable Energy Laboratory	2
+Open University	2
 Palo Alto Research Center	2
 Peking University	2
 Penn State University	2
-Pennsylvania State University	2
 Polytechnique Montreal	2
 Postdoctoral Research Associate	2
 Potsdam Institute for Climate Impact Research (PIK)	2
@@ -135,11 +138,8 @@ Southern Methodist University	2
 Spanish National Research Council	2
 Swinburne University of Technology	2
 TU Delft	2
+Technical University of Denmark	2
 Technische Universität Berlin	2
-The MITRE Corporation	2
-The University of Adelaide	2
-The University of Melbourne	2
-The University of Sydney	2
 Tulane University	2
 U.S. Geological Survey	2
 US EPA	2
@@ -161,17 +161,17 @@ University of Illinois	2
 University of Iowa	2
 University of Kansas	2
 University of Leeds	2
-University of Liverpool	2
 University of Liège	2
 University of Luxembourg	2
 University of Maryland	2
 University of Maryland, College Park	2
+University of Melbourne	2
 University of North Carolina at Chapel Hill	2
 University of Pittsburgh	2
 University of Potsdam	2
+University of Queensland	2
 University of Rhode Island	2
 University of Rochester	2
-University of Sheffield	2
 University of Strathclyde	2
 University of Sussex	2
 University of Warsaw	2
@@ -299,6 +299,7 @@ Center for Devices and Radiological Health (CDRH), U.S. Food and Drug Administra
 Center for Systems Biology Dresden	1
 Center of Computation & Technology (LSU)	1
 Centers for Disease Control and Prevention	1
+Centre Nacional d'Anàlisi Genòmica (CNAG-CRG)	1
 Centre for  the Advanced Study of Collective Behaviour, Konstanz	1
 Centre for Astrophysics and Supercomputing, Swinburne University of Technology, PO Box 218, Hawthorn, VIC 3122, Australia	1
 Chair of Photogrammetry and Remote Sensing, Technical University of Munich	1
@@ -334,20 +335,20 @@ Coventry University	1
 Crunch Cloud Analytics	1
 CurrencyFair	1
 Currently Steno Diabetes Center Copenhagen	1
+Cyprus Institute	1
 DECHEMA e.V.	1
 DESY	1
 DISIM University of L'Aquila, Italy	1
 DLR Institute of Networked Energy Systems	1
 DM Clinical Pharmacology Resident, Postgraduate Institute of Medical Education and Research (PGIMER), Chandigarh	1
 DOT Loves Data	1
-DTU	1
 DZHW	1
+Danish Agency for Data Supply and Efficiency	1
 Dassault Systèmes BIOVIA	1
 Data Engineer, Zalando SE	1
 Data Intuitive / VIB / Ghent University	1
 Data Science Brigade	1
 Data Science Indonesia	1
-Data Scientist in Industry	1
 Data Scientist, freelance biostats projects + HERE Technologies	1
 Deep Learning Associate at PyImageSearch	1
 Deltares	1
@@ -449,6 +450,7 @@ Florida International University, Department of Psychology	1
 Florida State University	1
 Forensic Architecture	1
 Forschungszentrum Juelich, IEK-3	1
+Francis Crick Institute	1
 Fraunhofer IESE	1
 Fraunhofer Institute for Molecular Biology and Applied Ecology, Department of Bioresources, Winchester Str. 2, 35394 Giessen, Germany	1
 Fraunhofer-Institut für Experimentelles Software Engineering IESE	1
@@ -494,6 +496,7 @@ Helmholtz Centre for Environmental Research	1
 Helmholtz-Zentrum Geesthacht	1
 Hive Battery Labs	1
 Hochschulbibliothekszentrum NRW (hbz)	1
+Hong Kong University of Science and Technology	1
 Horizon Discovery Ltd.	1
 Humboldt-Universität zu Berlin	1
 Hylleraas Centre for Quantum Molecular Sciences	1
@@ -516,10 +519,8 @@ IRSST	1
 IRSTEA	1
 ISEG Lisbon School of Economics and Management	1
 ITB	1
-Imperial College	1
 Imperial College London & MRC London Institute of Medical Science	1
 Imperial College London, University of Bath	1
-Imperial college London	1
 InSysBio LLC	1
 Independent Researcher (previously IFM Linkoping University)	1
 Indian Institute of Science Education and Research Bhopal, India	1
@@ -558,6 +559,7 @@ Institute of Environmental Science and Research Limited (ESR)	1
 Institute of Graduate Studies and Research	1
 Institute of Microbiology of the Czech Academy of Sciences	1
 Institute of Microbiology, Czech Academy of Sciences	1
+Institute of Optics, University of Rochester, USA	1
 Institute of Physics, Nicolaus Copernicus University, Toruń, Poland	1
 Institute of Physiology of the Czech Academy of Science	1
 Institute of Technical Medicine (ITeM), Furtwangen University (HFU), Jakob-Kienzle-Strasse 17, 78054 Villingen-Schwenningen, Deutschland	1
@@ -577,10 +579,12 @@ International institute of information technology	1
 Isfahan University of Technology	1
 Istanbul University	1
 Italian Institute of Technology (IIT)	1
+Jackson Laboratory	1
 Jacob Barhak	1
 Jacobs University	1
 Jadavpur University	1
 Jagiellonian University, Kraków, Poland	1
+James Hutton Institute	1
 Jiangsu Normal University	1
 John Innes Centre, Norwich, UK	1
 Johns Hopkins Medical Institute	1
@@ -702,6 +706,7 @@ Ministero della Cultura, Italy	1
 Minnesota State University Moorhead	1
 Mississippi State University	1
 Molecular Medicine Program, The Hospital for Sick Children, Toronto, ON, Canada	1
+Molecular Sciences Software Institute	1
 Monash Bioinformatics Platform	1
 Monash university	1
 Montana State University	1
@@ -773,6 +778,7 @@ ORNL	1
 Observatorio Nacional	1
 Observatório Nacional, Rio de Janeiro, Brazil	1
 Oden Institute, UT Austin	1
+Ohio State University	1
 Ohio University	1
 Okinawa Institute of Science and Technology (OIST) Graduate University	1
 Omaha's Henry Doorly Zoo and Aquarium	1
@@ -781,7 +787,6 @@ One Codex, San Francisco	1
 Open Data Kit	1
 Open Force Field Initiative/University of Colorado Boulder	1
 Open Source @ Google	1
-Open University	1
 OpenTeams	1
 Optimization and Control Engineer	1
 Oregon Health & Science University	1
@@ -797,9 +802,9 @@ Paul Smith's College	1
 Peltarion (Sweden) and Radboud University (The Netherlands)	1
 Perelman School of Medicine, University of Pennsylvania	1
 Perimeter Institute for Theoretical Physics	1
+Peter Doherty Institute for Infection and Immunity	1
 Pew Research Center	1
 Pfizer	1
-PhD Candidate, Stanford University	1
 PhD candidate Pompeu Fabra University	1
 PhD. Student in Physics at GTU	1
 Physics Department, Sapienza U niversity of Rome	1
@@ -920,6 +925,7 @@ Staffordshire University	1
 Stanford University Research Computing	1
 Starschema Ltd	1
 State Key Laboratory of Grasslands and Agro-ecosystems, School of Life Sciences, Lanzhou University, Lanzhou, 730000, Gansu, China	1
+State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences	1
 State University of Campinas	1
 Stogl Robotics Consulting	1
 Student at Tecnologico de Monterrey	1
@@ -940,7 +946,6 @@ Tarleton State University	1
 Tata Institute of Fundamental Research Hyderabad	1
 Technical University of Cluj-Napoca	1
 Technical University of Darmstadt	1
-Technical University of Denmark	1
 Technical University of Munich (TUM)	1
 Technische Universität München	1
 Telespazio Germany GmbH	1
@@ -949,32 +954,6 @@ Texas A&M AgriLife Research	1
 Texas A&M University, US Army Research Lab	1
 Texas Advanced Computing Center	1
 Texas Biomedical Research Institute	1
-The Australian National University	1
-The Centre Nacional d'Anàlisi Genòmica (CNAG-CRG)	1
-The Cyprus Institute	1
-The Danish Agency for Data Supply and Efficiency	1
-The Francis Crick Institute	1
-The Hong Kong University of Science and Technology	1
-The Institute of Optics, University of Rochester, USA	1
-The Jackson Laboratory	1
-The James Hutton Institute	1
-The Molecular Sciences Software Institute	1
-The Ohio State University	1
-The Open University	1
-The Pennsylvania State University	1
-The Peter Doherty Institute for Infection and Immunity	1
-The State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences	1
-The University of Alabama in Huntsville	1
-The University of Edinburgh	1
-The University of Liverpool	1
-The University of Newcastle	1
-The University of Queensland	1
-The University of Texas Health Science Center at Houston	1
-The University of Texas at Arlington	1
-The University of Texas at Austin	1
-The University of Texas at Dallas	1
-The University of Texas, Arlington	1
-The Walter and Eliza Hall Institute of Medical Research	1
 Theiagen Genomics	1
 Toposens GmbH	1
 Toshiba	1
@@ -999,7 +978,6 @@ UC Santa Cruz	1
 UCL Great Ormond Street Institute of Child Health, University College London	1
 UCLA	1
 UCLA Department of Mathematics	1
-UCSD	1
 UENF	1
 UFRGS	1
 UIUC / NCSA	1
@@ -1061,7 +1039,7 @@ University Of Washington	1
 University medical center Utrecht	1
 University o Washington	1
 University of Aberdeen	1
-University of Adelaide	1
+University of Alabama in Huntsville	1
 University of Alberta	1
 University of Applied Sciences Upper Austria	1
 University of Arkansas	1
@@ -1141,13 +1119,13 @@ University of Montana, Numerical Terradynamic Simulation Group	1
 University of Münster	1
 University of Nebraska Omaha	1
 University of Nebraska-Lincoln	1
+University of Newcastle	1
 University of North Dakota	1
 University of North Texas Health Science Center	1
 University of Nottingham	1
 University of Oslo, Department of Mathematics	1
 University of Patras	1
 University of Peloponnese, Greece	1
-University of Queensland	1
 University of Saarland	1
 University of Sao Paulo	1
 University of Science and Technology Houari Boumediene	1
@@ -1158,6 +1136,10 @@ University of Surrey	1
 University of São Paulo	1
 University of Tasmania	1
 University of Tennessee-Knoxville	1
+University of Texas Health Science Center at Houston	1
+University of Texas at Arlington	1
+University of Texas at Dallas	1
+University of Texas, Arlington	1
 University of Tokyo	1
 University of Tübingen, Germany	1
 University of Vaasa	1
@@ -1205,6 +1187,7 @@ Virgina Tech Applied Research Corporation	1
 Virtual Vehicle Research GmbH	1
 WEHI	1
 WU Vienna University of Economics and Business	1
+Walter and Eliza Hall Institute of Medical Research	1
 Washington University School Of Medicine At St Louis	1
 Washington University in St. Louis	1
 Weizmann Institute of Science	1

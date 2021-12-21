@@ -30,10 +30,10 @@ Atif-Anwer	['matlab', 'python']	['c#', 'c++']	['Universiti Teknologi PETRONAS']	
 AtrCheema	['python']	['i prefer only python']	['Ulsan national institute of science and technology']	ather_abbas786@yahoo.com	['hydrology', 'water quality and quantity modeling']	0	0	0	0
 AvianaGlobal	['python', 'r', 'sql']	['bash', 'go', 'javascript', 'julia', 'php', 'sas', 'scala', 'stata', 'vba']	['George Washington University']	mdjhnsn@gwu.edu	['asset pricing', 'causal inference', 'corporate finance', 'data science', 'economics', 'machine learning', 'statistics']	0	0	0	0
 BabakNSafa	['matlab']	[]	[]	bsafa3@gatech.edu	['biomechanics']	0	0	0	0
-Balaje	['c++', 'matlab']	['python']	['The University of Newcastle']	balaje6@gmail.com	['finite element method', 'fluid structure interaction', 'virtual element methods']	0	1	1	1
+Balaje	['c++', 'matlab']	['python']	['University of Newcastle']	balaje6@gmail.com	['finite element method', 'fluid structure interaction', 'virtual element methods']	0	1	1	1
 BarryDeCicco	['r', 'sas']	['sql']	[]	bdecicco2001@yahoo.com	['statistical analysis', 'statistics']	0	1	0	0
 BasTesterink	['java', 'prolog']	['javascript', 'python']	['Dutch National Police']	bas.testerink@gmail.com	['agent oriented programming', 'formal logic']	0	1	0	0
-BatoolMM	['r and python']	[]	['The University of Liverpool']	batool@liverpool.ac.uk	['computational biology and bioinformatics']	0	0	0	0
+BatoolMM	['r and python']	[]	['University of Liverpool']	batool@liverpool.ac.uk	['computational biology and bioinformatics']	0	0	0	0
 BioAlvaro	['r']	[]	['Institute of Physiology of the Czech Academy of Science']	alvaro.sanchez@fgu.cas.cz	['genomics', 'proteomics']	0	0	0	0
 BjornFJohansson	['python']	[]	['University of Minho']	bjorn_johansson@bio.uminho.pt	['bioinformatics']	0	0	0	0
 Bkarlovitz	['java', 'javascript', 'python', 'ruby']	[]	['Not affiliated']	bryan@alluresecurity.com	['cloud computing', 'saas']	0	0	0	0
@@ -45,7 +45,7 @@ Bsingstad	['python']	[]	['University of Oslo']	bjorn_sing@hotmail.com	['signal p
 CBenghi	['c#']	['c', 'c++']	['Northumbria University']	claudio.benghi@northmbria.ac.uk	['architecture', 'bim', 'civil engineering', 'construction', 'gis']	1	3	0	0
 CELavecchia	['c', 'c++', 'matlab']	['python']	['university of Birmingham']	lavecchia.carolina@gmail.com	['biomechanics', 'robotics']	0	0	0	0
 CFGrote	['ada', 'c', 'c++', 'fortran', 'python', 'r']	['awk', 'java', 'perl']	['Max-Planck-Institute for Evolutionary Biology']	carsten.fortmann-grote@evolbio.mpg.de	['- atomic physics', '- evolutionary models', '- extreme fields', '- genetic analysis pipelines', '- many body physics', '- plasma physics', '- quantum electrodynamics', '- sequence alignment', '- stochastic simulations', '- x-ray optics', '- x-ray plasma diagnostics', 'biology:', 'physics:', 'rna seq']	1	3	0	0
-Cadair	['python']	[]	['The University of Sheffield']	stuart@cadair.com	['astronomy', 'solar physics']	0	2	0	0
+Cadair	['python']	[]	['University of Sheffield']	stuart@cadair.com	['astronomy', 'solar physics']	0	2	0	0
 CamDavidsonPilon	['python']	[]	['University of Guelph']	cam.davidson.pilon@gmail.com	['mle', 'numerical methods', 'survival analysis']	0	2	2	0
 CameronDevine	['python']	['c++', 'javascript', 'matlab']	['University Of Washington']	camdev@uw.edu	['control systems', 'robotics']	0	2	0	0
 Chilipp	['python']	['fortran']	['Université de Lausanne']	philipp.sommer@unil.ch	['climate science', 'earth sciences', 'graphical user interface', 'mpi', 'parallelization', 'visualization']	0	9	1	0
@@ -122,7 +122,7 @@ JannisHoch	['python']	[]	['Utrecht University']	jannishoch@gmail.com	['flood ris
 JaroslavHron	['c', 'd', 'fortran', 'python']	['c++']	['Mathematical Institute, Charles University, Prag, Czech Republic']	jaroslav.hron@mff.cuni.cz	['computational fluid dynamics', 'fem', 'iterative solvers', 'linear algebra', 'numerical software']	0	3	2	2
 JeffWalton-PSC	['fortran', 'python']	['c']	"[""Paul Smith's College""]"	jwalton@paulsmiths.edu	['celestial mechanics', 'data analysis', 'image processing', 'remote sensing']	0	1	0	0
 JeffreyCHoover	['r']	[]	['ATLAS, University of Kansas']	jhoover4@ku.edu	['data processing', 'modeling', 'psychometrics', 'statistics']	0	0	0	0
-JesperDramsch	['matlab', 'python']	['octave']	['DTU']	jesper@dramsch.net	['geoscience', 'machine learning', 'seismic']	0	4	0	0
+JesperDramsch	['matlab', 'python']	['octave']	['Technical University of Denmark']	jesper@dramsch.net	['geoscience', 'machine learning', 'seismic']	0	4	0	0
 JesseLivezey	['python']	[]	['Lawrence Berkeley National Lab']	jesse.livezey@gmail.com	['data analysis', 'machine learning']	0	0	0	0
 Jessepisel	['python']	[]	['University of Texas at Austin']	jesse.pisel@austin.utexas.edu	['geology', 'geophysics', 'geoscience', 'machine learning']	0	1	0	0
 Jesusbill	['javascript', 'python']	[]	['Aether Engineering']	ipc@aethereng.com	['openbim', 'seismic design of structures', 'structural engineering', 'wood structures']	0	0	0	0
@@ -132,7 +132,7 @@ Jminnier	['r']	['python', 'sas']	['Oregon Health & Science University']	minnier@
 JohnCoene	['r']	[]	['World Economic Forum']	jcoenep@gmail.com	['data processing', 'htmlwidgets', 'keras', 'network science', 'visualization']	0	2	0	0
 JonasMoss	['r']	[]	['University of Oslo']	jonas.gjertsen@gmail.com	['data science', 'statistics']	0	3	1	1
 JonathanReardon	['bash', 'python', 'r', 'shell scripting']	[]	['Durham University']	jonathanjreardon@gmail.com	['machine learning', 'neuroimaging', 'neuroscience', 'psychology', 'statistics', 'stimulus presentation', 'visualization']	0	6	2	0
-JonnyTran	['python']	['java', 'javascript', 'r']	['The University of Texas at Arlington']	nhat.tran@uta.edu	['bioinformatics', 'machine learning']	0	1	1	0
+JonnyTran	['python']	['java', 'javascript', 'r']	['University of Texas at Arlington']	nhat.tran@uta.edu	['bioinformatics', 'machine learning']	0	1	1	0
 Jose-Augusto-C-M	['javascript', 'latex', 'python', 'vba.']	['javascript', 'python']	['Universidade federal de mato grosso do sul - UFMS - Brazil']	jose.a@ufms.br	['machine learning', 'remote sensing', 'water', 'wfe nexus']	0	1	1	1
 JoshKarpel	['python']	[]	['University of Wisconsin - Madison']	josh.karpel@gmail.com	['computational physics', 'math', 'physics', 'visualization']	0	2	0	0
 JostMigenda	['python']	[]	['King’s College London']	jost.migenda@kcl.ac.uk	['astrophysics', 'particle physics']	0	1	1	0
@@ -183,7 +183,7 @@ Nachootal	['ruby']	['c']	['Oss enthusiast and telecommunications engineer']	nach
 Naeemkh	['python', 'r']	['matlab', 'r']	['Harvard University', 'University of Memphis']	nkhoshnevis@fas.harvard.edu	['applied science', 'applied science (geophysics)', 'causal inference', 'engineering', 'machine learning', 'oop', 'signal processing', 'statistics']	0	0	0	0
 Narayana-Rao	['c++', 'html', 'python']	['java', 'javascript']	['MRSLab, CSRE, IIT Bombay']	narayanarao.bhogapurapu@gmail.com	['crop', 'qgis', 'remote sensing', 'sar', 'soil']	0	0	0	0
 NatalieThurlby	['python']	['bash', 'r']	['University of Bristol']	natalie.thurlby@bristol.ac.uk	['computational biology']	0	0	0	0
-Nathaniel-Haines	['r', 'stan']	[]	['The Ohio State University']	haines.175@osu.edu	['cognitive science', 'computational modeling', 'simulation', 'task design']	0	1	1	0
+Nathaniel-Haines	['r', 'stan']	[]	['Ohio State University']	haines.175@osu.edu	['cognitive science', 'computational modeling', 'simulation', 'task design']	0	1	1	0
 Nazeeefa	['awk', 'bash', 'python', 'r']	[]	['Lund University']	fatima.nazeefa@gmail.com	['bioinformatics', 'biostatistics', 'computational biology', 'genomics']	0	0	0	0
 Nheyer	['c++', 'python', 'r']	[]	['California State University Monterey Bay']	nheyer@csumb.edu	['genomics', 'mathematics']	0	0	0	0
 Nick-gauthier	['r']	['netlogo', 'python']	['Arizona State University']	nicolas.gauthier@asu.edu	['agent-based modeling', 'climate modeling', 'generalized additive models', 'network science', 'spatial statistics']	0	0	0	0
@@ -230,7 +230,7 @@ RohitRathore1	['c', 'c++', 'julia', 'python']	['javascript']	"[""Master's Studen
 RomainAzais	['python', 'r']	[]	['INRIA']	romain.azais@gmail.com	['combinatorics', 'estimation', 'kernel methods', 'markov processes', 'regression']	0	0	0	0
 Ruchirtewari	['erlang', 'java', 'python']	['scala']	['Nebbiolo Technologies']	ruchir@acm.org	['devsecops', 'networking', 'security']	0	0	0	0
 RuneBlaze	['haskell', 'julia']	['clojure', 'javascript', 'python', 'ruby']	['University of North Carolina at Chapel Hill']	lbq@live.unc.edu	['bioinformatics', 'web development']	0	0	0	0
-S-canchi	['r', 'unix']	['matlab']	['UCSD']	scanchi@ucsd.edu	['bioinformatics', 'genetics', 'regression models']	0	0	0	0
+S-canchi	['r', 'unix']	['matlab']	['University of California, San Diego']	scanchi@ucsd.edu	['bioinformatics', 'genetics', 'regression models']	0	0	0	0
 SRSteinkamp	['matlab', 'python']	[]	['None currently']	sr.steinkamp@mailbox.org	['fmri)', 'modeling', 'neuroimaging (eeg']	0	0	0	0
 SWgeoscience	['r']	['python']	['University of Exeter']	c.m.yeomans@exeter.ac.uk	['geoscience']	0	0	0	0
 SabbirSaleh	['c']	['c++']	['City University, Dhaka']	saleh.sabbir.aiub@gmail.com	['agile', 'service oriented architecture', 'software engineering', 'software evolution', 'software project management']	0	0	0	0
@@ -259,7 +259,7 @@ SuperKam91	['c++', 'fortran', 'python']	['bash shell script']	['University of Ca
 Suresh-lab	['c', 'c++', 'matlab', 'r']	['java', 'perl', 'python']	['Johns Hopkins University']	ksuresh2@jhmi.edu	['analysis of sequencing data', 'especially processing of microscopic images', 'medicine', 'statistical modeling']	0	0	0	0
 SvenVanPoucke	['python']	['rapidminer']	['Ziekenhuis Oost-Limburg']	svanpoucke@gmail.com	['medicine']	0	0	0	0
 TA3	['javascript', 'php']	['bash', 'python']	['University of Huddersfield']	taha.al-jody@hud.ac.uk	['distributed systems', 'high performance computing', 'security', 'unix systems']	0	0	0	0
-TGuillerme	['r']	[]	['The University of Queensland']	guillert@tcd.ie	['macroevolution']	0	0	0	0
+TGuillerme	['r']	[]	['University of Queensland']	guillert@tcd.ie	['macroevolution']	0	0	0	0
 TJFord	['c', 'c++']	['fortran', 'python']	['Northern Illinois University']	jifutan@niu.edu	['computational fluid dynamics', 'finite element method', 'fluid solid interaction', 'high performance computing', 'immersed boundary method', 'lattice boltzmann method']	0	0	0	0
 TLCFEM	['c++']	['c', 'fortran', 'go', 'matlab', 'python']	['University of Canterbury']	tlcfem@gmail.com	['fem']	0	1	1	1
 TahiriNadia	['c', 'c++', 'html', 'java', 'python', 'r']	['javascript', 'matlab']	['Université de Sherbrooke']	Nadia.Tahiri@USherbrooke.ca	['bioinformatics', 'classification', 'clustering', 'machine learning', 'public health', 'risk assessment']	1	1	0	0
@@ -273,7 +273,7 @@ TomDonoghue	['python']	[]	['University of California, San Diego']	tdonoghue.rese
 TomGoffrey	['fortran', 'python']	['c', 'c++']	['University of Warwick']	t.goffrey.1@warwick.ac.uk	['(large )linear systems', 'arbitrary', 'astrophysics (my main area of expertise is in stellar physics', 'but i also have some background in planetary physics)', 'finite volume methods', 'hydrodynamics (shock capturing and modeling in particular)', 'lagrangian meshes', 'magnetohydrodynamics (i have worked a lot on non-ideal mhd in particular)', 'multi-material flow', 'plasma physics', 'radiation transport', 'time-integration methods']	0	3	1	1
 TomKellyGenetics	['bash', 'python', 'r', 'shell']	['julia', 'mathematica', 'matlab', 'octave', 'rust', 'wolfram']	[]	tom.kelly@riken.jp	['(bio)statistical analysis', 'bioinformatics', 'genomics data', 'graph theory', 'high performance computing', 'networks biology', 'parallel computing', 'single-cell analysis']	0	2	2	0
 TomasBeuzen	['python']	['matlab', 'r']	['University of British Columbia']	tomas.beuzen@gmail.com	['coastal', 'earth science', 'remote sensing', 'water']	0	1	1	0
-UTH-Tuan	['c', 'c++', 'delphi', 'java', 'objective-c', 'pascal']	['c#']	['The University of Texas Health Science Center at Houston']	muhammad.f.amith@uth.tmc.edu	['agent architecture', 'health informatics', 'human computer interaction', 'iot', 'natural language processing', 'ontologies', 'semantic web', 'software architecture', 'software engineering']	1	1	0	0
+UTH-Tuan	['c', 'c++', 'delphi', 'java', 'objective-c', 'pascal']	['c#']	['University of Texas Health Science Center at Houston']	muhammad.f.amith@uth.tmc.edu	['agent architecture', 'health informatics', 'human computer interaction', 'iot', 'natural language processing', 'ontologies', 'semantic web', 'software architecture', 'software engineering']	1	1	0	0
 VNNikolaidis	['c++', 'r']	[]	['University of Peloponnese, Greece']	vnikolaidis@hotmail.com	['data analysis', 'software engineering']	0	0	0	0
 VarIr	['python']	[]	['Austrian Research Institute for Artificial Intelligence']	roman.feldbauer@ofai.at	['bioinformatics', 'computational biology', 'data mining', 'machine learning']	0	0	0	0
 ViniciusBRodrigues	['r and latex']	['lua']	['Instituto Federal de Educação - Ouro Preto (IFMG-OP)']	viniciusbrbio@gmail.com	['behaviour ecology', 'ecology', 'statistics']	1	3	0	0
@@ -284,7 +284,7 @@ WhiteSymmetry	['python']	['q#']	['PhD. Student in Physics at GTU']	mkececi@mehme
 Williamsmj	['python']	[]	['Cloudera']	mike@mike.place	['data processing esp. astrophysics', 'machine learning', 'visualization']	0	0	0	0
 Yuri-M-Dias	['c++', 'java', 'python', 'r', 'ruby', 'rust']	['julia']	['National Institute for Space Research (INPE)']	yurimathe.yp@gmail.com	['aerospace', 'data cubes', 'databases', 'olap', 'satellites', 'telemetry']	0	0	0	0
 Zac-HD	['python']	[]	['Australian National University']	zac.hatfield.dodds@anu.edu.au	['geographic information systems', 'remote sensing', 'software engineering', 'visualization']	0	0	0	0
-ZijieZhaoMMHW	['matlab']	['r']	['School of Earth Science, The University of Melbourne', 'The University of Melbourne']	zijiezhaomj@gmail.com	['climate science', 'geoscience', 'meteorology', 'oceanography']	0	0	0	0
+ZijieZhaoMMHW	['matlab']	['r']	['School of Earth Science, The University of Melbourne', 'University of Melbourne']	zijiezhaomj@gmail.com	['climate science', 'geoscience', 'meteorology', 'oceanography']	0	0	0	0
 Ziqi-Li	['python']	[]	['University of Illinois']	liziqi1992@gmail.com	['gis', 'mapping', 'spatial analysis']	0	0	0	0
 Ziqian-xia	['r']	[]	['Nanchang University']	Ziqian.research@gmail.com	['environment，psychometrics，graphics']	0	0	0	0
 a-r-j	['python', 'r']	[]	['University of Cambridge']	arj39@cam.ac.uk	['bioinformatics', 'machine learning']	0	1	0	0
@@ -325,7 +325,7 @@ adrn	['python']	['c', 'cython', 'if necessary']	['Flatiron Institute']	adrianmpw
 adswa	['python']	[]	['Institute for Neuroscience and Medicine, Research Center Juelich, Germany']	adina.wagner@t-online.de	['data management', 'neuroscience', 'psychology']	0	1	0	0
 aebergl	['matlab']	[]	['Moffitt Cancer Center']	anders.berglund@moffitt.org	['bioinformatics']	0	0	0	0
 afrendeiro	['python', 'r']	[]	['CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences']	afrendeiro@gmail.com	['bioinformatics', 'computational biology']	0	0	0	0
-afrubin	['python']	['c', 'r']	['The Walter and Eliza Hall Institute of Medical Research']	alan.rubin@wehi.edu.au	['bioinformatics', 'computational biology', 'genetics', 'genomics', 'protein science']	0	6	1	1
+afrubin	['python']	['c', 'r']	['Walter and Eliza Hall Institute of Medical Research']	alan.rubin@wehi.edu.au	['bioinformatics', 'computational biology', 'genetics', 'genomics', 'protein science']	0	6	1	1
 agisga	['python', 'r']	['ruby']	['Center for Devices and Radiological Health (CDRH), U.S. Food and Drug Administration (FDA)']	alexej.go@gmail.com	['machine learning', 'medical imaging', 'statistics']	0	2	0	0
 agricolab	['matlab', 'python']	['c', 'julia']	['Translational Neurosurgery, University Hospital Tübingen']	robert.guggenberger@uni-tuebingen.de	['brain stimulation', 'brain-computer-interface', 'computational psychology', 'digital signal processing', 'eeg', 'meg signal processing', 'neuroscience', 'real-time analysis', 'reinforcement learning', 'systems neuroscience']	0	2	0	0
 ahurriyetoglu	['python']	[]	[]		['data mining', 'machine learning', 'natural language processing']	1	1	0	0
@@ -387,7 +387,7 @@ andrewfowlie	['c++', 'python']	['c', 'fortan']	['Nanjing Normal University']	and
 andrewheiss	['r']	['python']	['Brigham Young University']	andrewheiss@gmail.com	['politics']	1	5	0	0
 andrewryh	['c++', 'python']	['fortran']	['Argonne National Laboratory']	arykhlevskii@anl.gov	['scientific software for nuclear or mechanical engineering']	0	0	0	0
 andrewsanchez	['python']	['bash']	[]	andrew.as@pm.me	['data software', 'high performance computing']	0	0	0	0
-andrewtarzia	['python']	['a', 'n']	['Imperial college London']	andrew.tarzia@gmail.com	['chemistry', 'chemoinformatics']	2	2	0	0
+andrewtarzia	['python']	['a', 'n']	['Imperial College London']	andrew.tarzia@gmail.com	['chemistry', 'chemoinformatics']	2	2	0	0
 andreysmelter	['python', 'r']	['c++']	['University of Kentucky Markey Cancer Center']	andrey.smelter@gmail.com	['bioinformatics', 'software engineering']	0	2	0	0
 andyfaff	['python']	['igor pro']	['Australian Nuclear Science and Technology Organisation']	andrew.nelson@ansto.gov.au	['neutron scattering', 'physical chemistry']	0	0	0	0
 anibalsolon	['python']	['c', 'elixir', 'haskell', 'java', 'javascript', 'matlab', 'r', 'rust', 'shell']	['University of Texas at Austin']	anibalsolon@gmail.com	['high performance computing', 'machine learning', 'neuroscience', 'statistics']	0	1	0	0
@@ -418,7 +418,7 @@ artgoldberg	['python']	[]	['Mount Sinai School of Medicine']	Arthur.Goldberg@mss
 arthur-e	['python']	['javascript']	['University of Montana, Numerical Terradynamic Simulation Group']	endsley@umich.edu	['earth science', 'environmental science', 'geography', 'remote sensing', 'spatial sciences']	1	1	0	0
 arunmano121	['bash', 'python']	['bash']	['SAS Institute']	arunmano121@outlook.com	['analytics', 'artificial intelligence', 'big data', 'class imbalance', 'classification', 'data analytics', 'defect detection and quantification', 'gradient boosting', 'machine learning', 'neural networks', 'nondestructive testing', 'regression', 'statistical modeling', 'structural engineering', 'structural health monitoring', 'visualization']	0	3	3	0
 arvestad	['c', 'c++', 'python']	['perl']	['Stockholm University']	arve@math.su.se	['bioinformatics']	0	0	0	0
-asafpr	['python', 'r']	[]	['The Jackson Laboratory']	asaf.peer@jax.org	['microbiology', 'next-generation sequencing', 'statistical genomics']	0	0	0	0
+asafpr	['python', 'r']	[]	['Jackson Laboratory']	asaf.peer@jax.org	['microbiology', 'next-generation sequencing', 'statistical genomics']	0	0	0	0
 ashkelly	['c', 'python']	[]	['Durham University']	a.j.kelly@durham.ac.uk	['astrophysics', 'n-body', 'numerical methods', 'scientific computing', 'visualization']	0	0	0	0
 ashok-arora	['c++', 'python', 'shell']	['assembly', 'html', 'js', 'lua']	[]	arora8715@gmail.com	['artificial intelligence', 'cmake', 'computer vision', 'open source software']	0	0	0	0
 ashwinvis	['python']	['c', 'c++', 'fortran', 'rust']	['KTH, Sweden', 'Stockholm University']	ashwinvis+joss@protonmail.com	['atmospheric science', 'atmospheric sciences', 'fluid dynamics', 'fluid mechanics', 'high-performance computing', 'meteorology', 'numerical methods', 'oceanography', 'scientific computing', 'turbulence']	0	6	4	2
@@ -480,7 +480,7 @@ biozit	['c', 'java', 'python']	[]	['UNICAMP']	fabio.andrijauskas@gmail.com	['hig
 biswapriyamisra	['r']	[]	['Texas Biomedical Research Institute']	bbmisraccb@gmail.com	['gc-ms', 'lc-ms', 'mass spectrometry', 'metabolomics', 'network science', 'pathways']	0	1	0	0
 bjmorgan	['python']	['fortran']	[]		['materials science', 'solid-state chemistry', 'solid-state physics']	0	1	0	0
 blakeaw	['c', 'c++', 'python']	['bash', 'tcl']	[]	blakeaw1102@gmail.com	['bayesian inference', 'biophysics', 'information theory', 'model selection', 'molecular simulation and analysis', 'networks biology', 'parameter estimation', 'systems biology']	0	2	1	1
-blbentley	['matlab', 'python', 'r']	['c', 'c++']	['The Open University']	bbentley@cantab.net	['bioinformatics', 'computational biology', 'neuroscience']	0	0	0	0
+blbentley	['matlab', 'python', 'r']	['c', 'c++']	['Open University']	bbentley@cantab.net	['bioinformatics', 'computational biology', 'neuroscience']	0	0	0	0
 bleyerj	['python']	['matlab']	[]	jeremy.bleyer@enpc.fr	['computational mechanics', 'convex optimization']	0	0	0	0
 bliiir	['python', 'sql']	['r']	['Software Developer']	rasgroth@gmail.com	['astronomy', 'finance', 'time series analysis']	0	0	0	0
 blsqr	['c++', 'python']	[]	['Institute of Environmental Physics, University of Heidelberg, Germany']	yunus.sevinchan@iup.uni-heidelberg.de	['complex systems science', 'data processing pipelines', 'modelling frameworks', 'network models', 'theoretical ecology']	0	1	1	1
@@ -518,13 +518,13 @@ calum-chamberlain	['python']	[]	['Victoria University of Wellington']	calum.cham
 camillescott	['c', 'c++', 'cython', 'python']	['java', 'javascript', 'r', 'ruby']	['University of California Davis']	camille.scott.w@gmail.com	['bioinformatics', 'computational biology', 'graph theory', 'network analysis', 'testing', 'visualization', 'workflow tools']	0	2	1	1
 canerturkmen	['python']	['r']	[]	turkmen.ac@gmail.com	['data science', 'machine learning', 'statistics']	0	0	0	0
 capitalaslash	['c++', 'python']	['c', 'fortran']	['ENEA']	ant.cervone@gmail.com	['atmospheric dispersion', 'computational fluid dynamics', 'finite elements']	0	0	0	0
-carleshf	['python', 'r']	['java', 'javascript']	"[""The Centre Nacional d'Anàlisi Genòmica (CNAG-CRG)""]"	carles.hernandez@cnag.crg.eu	['bioinformatics', 'biomedicine', 'data analysis']	0	0	0	0
+carleshf	['python', 'r']	['java', 'javascript']	"[""Centre Nacional d'Anàlisi Genòmica (CNAG-CRG)""]"	carles.hernandez@cnag.crg.eu	['bioinformatics', 'biomedicine', 'data analysis']	0	0	0	0
 carlosjoseRG	['c', 'c++', 'ros']	[]	['Beta Robots, SL']	carlos@beta-robots.com	['robotics']	0	0	0	0
 casteer	['c++']	['c', 'python']	"[""St Mary's University, Twickenham""]"	Christopher.steer@stmarys.ac.uk	['physics and software for instrumentation']	0	0	0	0
 castelao	['python', 'rust']	['matlab']	['Scripps Institution of Oceanography']	castelao@ucsd.edu	['geosciences', 'machine learning', 'oceanography']	0	1	0	0
 cavestruz	['python']	[]	[]	cavestru@umich.edu	['astronomy', 'astrophysics', 'cosmology']	0	0	0	0
 cbrueffer	['python', 'r']	['c']	[]		['bioinformatics']	0	1	0	0
-cc-a	['c', 'fortran', 'python']	['c++']	['Imperial College']	c.cave-ayland@imperial.ac.uk	['engineering', 'physical sciences']	0	0	0	0
+cc-a	['c', 'fortran', 'python']	['c++']	['Imperial College London']	c.cave-ayland@imperial.ac.uk	['engineering', 'physical sciences']	0	0	0	0
 ccaprani	['c++', 'matlab', 'python']	[]	['Monash University']	colin.caprani@monash.edu	['engineering', 'statistics']	0	0	0	0
 cdcrabtree	['r']	[]	[]		['statistics', 'visualization']	0	1	0	0
 cddesja	['r']	['python']	"[""St. Michael's College""]"	cddesjardins@gmail.com	['data science', 'ecology', 'statistics']	0	1	1	0
@@ -532,7 +532,7 @@ ceb8	['python']	['c', 'c#', 'c++', 'javascript', 'perl']	['Space Telescope Scien
 cedricchevalier19	['c', 'c++', 'rust']	[]	['CEA']	cedric.chevalier@cea.fr	['combinatorics', 'mesh datastructure', 'parallel programming']	0	1	0	0
 celliern	['python']	['julia', 'scilab']	['Université Savoie Mont-Blanc']	contact@nicolas-cellier.net	['computational fluid dynamic', 'data science', 'reproducible research']	0	1	0	0
 cescalara	['c', 'c++', 'python', 'stan']	['fortran', 'julia']	['Technische Universität München']	capel.francesca@gmail.com	['astrophysics', 'statistics']	0	2	2	0
-cgaray	['python']	[]	['The MITRE Corporation']	cgaray@mitre.org	['bioinformatics', 'computational biology']	0	0	0	0
+cgaray	['python']	[]	['MITRE Corporation']	cgaray@mitre.org	['bioinformatics', 'computational biology']	0	0	0	0
 chadagreene	['matlab']	[]	[]	chad@chadagreene.com	['climate', 'glaciology', 'oceanography']	0	1	0	0
 chainsawriot	['r']	['lisp', 'python']	['Mannheimer Zentrum für Europäische Sozialforschung']	chung-hong.chan@mzes.uni-mannheim.de	['communication studies', 'digital humanties', 'political science', 'social science']	0	2	1	1
 changhoonhahn	['python']	['fortran']	['Princeton University']	changhoon.hahn@princeton.edu	['astronomy', 'cosmology', 'statistics']	0	1	1	0
@@ -544,7 +544,7 @@ cheloff	['python', 'r']	[]	['UTC']	marceloamores61@gmail.com	['cosmology', 'envi
 chennachaos	['c++', 'fortran', 'python']	[]	['Swansea University']	c.kadapa@swansea.ac.uk	['computational fluid dynamics', 'finite element analysis', 'fluid-structure interaction', 'structural dynamics']	0	7	3	1
 chkoar	['python']	[]	['University of Patras']	char@upatras.gr	['data mining', 'global optimization', 'machine learning']	1	1	0	0
 chlalanne	['r', 'stata']	['clojure', 'julia', 'mathematica', 'python']	['INSERM']	ch.lalanne@gmail.com	['biostatistics', 'statistical computing', 'visualization']	0	1	0	0
-chouj	['matlab']	[]	['The State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences']	xuchi@scsio.ac.cn	['oceanography']	0	0	0	0
+chouj	['matlab']	[]	['State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences']	xuchi@scsio.ac.cn	['oceanography']	0	0	0	0
 chpriyal	['bluespec verilog', 'c++', 'python', 'verilog']	[]	['BITS Pilani']	f20160378@goa.bits-pilani.ac.in	['computer architecture']	0	0	0	0
 chrisbrickhouse	['js', 'php', 'praatscript', 'python', 'r']	['css', 'html', 'less', 'lua', 'perl']	['Stanford University']	brickhouse@stanford.edu	['acoustics', 'anthropology', 'linguistics']	0	1	1	1
 chrisleaman	['python']	[]	['University of New South Wales']	c.leaman@unsw.edu.au	['beach erosion', 'coastal engineering', 'coastal geomorphology']	0	2	1	1
@@ -556,7 +556,7 @@ cimentadaj	['r']	[]	['Max Planck Institute of Demography', 'PhD candidate Pompeu
 cjbarrie	['r']	['python']	['University of Edinburgh']	christopher.barrie@ed.ac.uk	['apis', 'natural language processing', 'social science']	1	2	1	0
 cjwu	['c', 'c#', 'c++', 'java', 'javascript', 'python']	['go', 'r']	['Department of Computer Science and Information Engineering, Chang Gung University']	cjwu@mail.cgu.edu.tw	['internet application', 'mobile app', 'network systems', 'system uitilities']	0	0	0	0
 cknoll	['python']	[]	['Dresden University of Technology']	carsten.knoll@tu-dresden.de	['control theory', 'knowledge representation', 'system dynamics']	0	0	0	0
-clauswilke	['r']	['c++', 'python']	['The University of Texas at Austin']	wilke@austin.utexas.edu	['bioinformatics', 'computational biology', 'data science', 'visualization']	0	4	1	0
+clauswilke	['r']	['c++', 'python']	['University of Texas at Austin']	wilke@austin.utexas.edu	['bioinformatics', 'computational biology', 'data science', 'visualization']	0	4	1	0
 clemaitre58	['c++', 'python']	['matlab']	['Apeira Technologies']	c.lemaitre@apeira-technologies.fr	['aerodynamics', 'computational fluid dynamics', 'computer vision', 'data minirg', 'machine learning']	1	2	0	0
 clinssen	['c', 'c++', 'java', 'python']	[]	['Forschungszentrum Jülich']	c.linssen@fz-juelich.de	['computational neuroscience']	0	0	0	0
 cmaimone	['python', 'r']	[]	['Northwestern University']	christina.maimone@northwestern.edu	['general data manipulation', 'natural language processing', 'social science', 'visualization']	0	5	3	2
@@ -599,7 +599,7 @@ cultpenguin	['matlab', 'python']	[]	['Department of Geoscience, Aarhus Universit
 cxwx	['c++', 'python']	['c++', 'python']	[]	chenxu@ihep.ac.cn	['astronomy', 'cosmic rays', 'gamma rays']	0	0	0	0
 czxa	['r', 'stata']	['latex', 'python']	['Shandong University, China']	czxjnu@163.com	['economics', 'finance']	0	0	0	0
 d-chambers	['python']	[]	['national institute for occupational safety and health']	derrick.ja.chambers@gmail.com	['geophysics', 'geotechnical', 'seismology']	0	0	0	0
-da5nsy	['matlab']	[]	['UCL']	dannygarside@outlook.com	['colorimetry', 'colour vision']	1	1	0	0
+da5nsy	['matlab']	[]	['University College London']	dannygarside@outlook.com	['colorimetry', 'colour vision']	1	1	0	0
 daissi	['python', 'r', 'shell script']	['perl']	['University Heart Center Hamburg, Germany']	bob.dybian@gmail.com	['omics analyses', 'reproducibility', 'system integration', 'workflow development']	0	3	0	0
 dalg24	['c++', 'python']	[]	[]	lebrungrandt@ornl.gov	['finite elements', 'geometric search', 'particle-based simulations', 'performance portability']	0	0	0	0
 dalonsoa	['python']	[]	['Imperial College London']	d.alonso-alvarez@imperial.ac.uk	['physics', 'semiconductors', 'solar cells', 'solar energy']	1	2	0	0
@@ -621,7 +621,7 @@ datakid	['bash', 'python']	[]	['University of New South Wales']	datakid@gmail.co
 davekinkead	['javascript', 'ruby']	[]	['University of Queensland']	d.kinkead@uq.edu.au	['computational philosophy', 'digital humanities']	0	2	0	0
 davidbeckingsale	['c++']	['c', 'fortran', 'python']	['Lawrence Livermore National Laboratory']	beckingsale1@llnl.gov	['gpus', 'high-performance computing', 'parallel programming models', 'scientific software']	0	2	0	0
 daviddewhurst	['c', 'matlab', 'python', 'r']	['clojure', 'julia', 'scala']	['University of Vermont']	drd@davidrushingdewhurst.com	['bayesian statistics', 'computational finance', 'econ', 'signal processing', 'statistical physics', 'time series analysis']	0	2	0	0
-davidwilby	['matlab', 'python']	[]	['The University of Sheffield']	d.wilby@sheffield.ac.uk	['biology', 'mathematics', 'physics', 'research computing']	0	0	0	0
+davidwilby	['matlab', 'python']	[]	['University of Sheffield']	d.wilby@sheffield.ac.uk	['biology', 'mathematics', 'physics', 'research computing']	0	0	0	0
 davismcc	['python', 'r']	['julia']	"[""St Vincent's Institute of Medical Research""]"	dmccarthy@svi.edu.au	['bioinformatics', 'genomics', 'machine learning', 'quantitative genetics', 'single-cell genomics', 'statistics', 'transcriptomics', 'visualization']	0	0	0	0
 dawbarton	['c', 'julia', 'matlab', 'pascal', 'python']	['c++']	['University of Bristol']	david.barton@bristol.ac.uk	['applied mathematics', 'differential equations', 'dynamical systems']	0	4	1	0
 db87	['c', 'cython', 'python']	['c++', 'matlab']	['University of Adelaide']	daniel.d.brown@adelaide.edu.au	['gravitational waves', 'physics']	0	0	0	0
@@ -727,7 +727,7 @@ erahulkulkarni	['c', 'python', 'shell script']	['c++', 'java', 'julia']	['Assist
 erik-whiting	['c#', 'java', 'php', 'python', 'ruby']	['javascript', 'perl', 'sql']	['University of Houston - Clear Lake']	erik@erikwhiting.com	['databases', 'information systems', 'software architecture', 'software engineering']	0	1	1	1
 esadr	['c++', 'python']	[]	['Clemson University']	esadrfa@g.clemson.edu	['biomedical', 'classification', 'data science', 'healthcare', 'machine learning', 'natural language processing', 'support vector machine']	0	0	0	0
 eschnett	['c', 'c++', 'fortran', 'haskell', 'julia', 'mathematica', 'python']	[]	['Perimeter Institute for Theoretical Physics']	schnetter@gmail.com	['astrophysics']	0	3	1	0
-esteinig	['python', 'r', 'rust']	[]	['The Peter Doherty Institute for Infection and Immunity']	eike.steinig@unimelb.edu.au	['genomic epidemiology', 'infectious diseases', 'nanopore', 'phylodynamics', 'population genomics']	0	1	1	0
+esteinig	['python', 'r', 'rust']	[]	['Peter Doherty Institute for Infection and Immunity']	eike.steinig@unimelb.edu.au	['genomic epidemiology', 'infectious diseases', 'nanopore', 'phylodynamics', 'population genomics']	0	1	1	0
 eteq	['c', 'c++', 'python']	[]	['Space Telescope Science Institute']	erik.tollerud@gmail.com	['astronomy', 'astrophysics', 'other physics depending on complexity', 'reproducibility']	0	3	1	0
 ethan-nelson	['fortran', 'javascript', 'python']	['html', 'idl', 'matlab']	['California Institute of Technology']	enelson@jpl.nasa.gov	['atmospheric science', 'volunteered geographic information']	0	1	0	0
 ethanwharris	['java', 'python']	[]	['University of Southampton']	ewah1g13@ecs.soton.ac.uk	['computer vision', 'machine learning']	0	2	0	0
@@ -747,7 +747,7 @@ fboehm	['r']	['none at this time']	['University of Wisconsin-Madison']	frederick
 fccoelho	['python']	['d', 'javascript']	['Fundação Getulio Vargas']	fccoelho@gmail.com	['machine learning', 'math', 'natural language processing', 'statistics']	0	1	0	0
 fcdimitr	['c', 'c++', 'matlab']	['julia']	['Aristotle University of Thessaloniki']	fcdimitr@auth.gr	['numerical analysis', 'parallel computing']	0	0	0	0
 fdmatoz	['c++', 'cuda', 'python']	[]	['Institute of Theoretical Physics, University of Warsaw']	daniel.matoz@fuw.edu.pl	['active matter', 'elasticity and geometry', 'statistical physics']	0	0	0	0
-fdroessler	['python']	[]	['Data Scientist in Industry']	roessler.fd@gmail.com	['agent-based modeling', 'computational chemistry', 'molecular dynamics simulation']	0	1	0	0
+fdroessler	['python']	[]	[]	roessler.fd@gmail.com	['agent-based modeling', 'computational chemistry', 'molecular dynamics simulation']	0	1	0	0
 feddelegrand7	['r']	[]	['National Higher School of Statistics and Applied Economics (ENSSEA)']	ihaddaden.fodeil@gmail.com	['banking', 'data envelopment analysis', 'economics', 'finance']	0	0	0	0
 federeghe	['c', 'c++']	['matlab', 'python']	['Politecnico di Milano']	federico.reghenzani@polimi.it	['embedded systems', 'operating systems', 'real-time computing', 'wcet analyses']	1	1	0	0
 felipeZ	['c++', 'python', 'python rust c++', 'rust']	['haskell']	['Netherlands eScience Center']	tifonzafel@gmail.com	['computational chemistry', 'computational chemistry materials science']	0	2	2	0
@@ -800,7 +800,7 @@ gdancik	['python', 'r']	['c', 'c++', 'java']	['Eastern Connecticut State Univers
 gdev7	['c++', 'fortran90', 'python']	['c']	['Indian Institute of Technology Kanpur']	halderprosun7@gmail.com	['chemical engineering', 'molecular simulation', 'physical chemistry']	0	0	0	0
 geoffbacon	['python']	[]	['UC Berkeley']	bacon@berkeley.edu	['computational linguistics', 'natural language processing']	0	2	0	0
 georgebisbas	['c', 'matlab', 'python']	[]	['Imperial College London']	g.bisbas18@imperial.ac.uk	['high performance computing']	0	0	0	0
-georgiastuart	['c', 'c++', 'python']	['java', 'javascript', 'matlab', 'r']	['Oden Institute, UT Austin', 'The University of Texas at Dallas']	georgia.stuart@austin.utexas.edu	['computational science', 'geophysics', 'particle tracking', 'statistics', 'uncertainty quantification', 'wave propagation']	2	2	0	0
+georgiastuart	['c', 'c++', 'python']	['java', 'javascript', 'matlab', 'r']	['Oden Institute, UT Austin', 'University of Texas at Dallas']	georgia.stuart@austin.utexas.edu	['computational science', 'geophysics', 'particle tracking', 'statistics', 'uncertainty quantification', 'wave propagation']	2	2	0	0
 gflofst	['bash', 'c', 'c++']	['fortran', 'java', 'python']	['Sandia National Labs']	gflofst@sandia.gov	['io', 'reproducibility', 'storage', 'workflow']	0	2	1	1
 ghammad	['python']	['c++', 'matlab']	['University of Liège']	gregory.hammad@hotmail.fr	['high-energy physics', 'neuroscience', 'physics', 'time series analysis']	0	0	0	0
 ghislainv	['python', 'r']	[]	['CIRAD, UMR AMAP, Montpellier, FRANCE']	ghislain.vieilledent@cirad.fr	['bayesian statistics', 'community ecology', 'conservation biology', 'ecology', 'landscape ecology', 'tropical forest ecology']	0	0	0	0
@@ -848,7 +848,7 @@ hello	['c', 'c++', 'java']	['python']	['IMS, Noida']	asmita.yadav85@gmail.com	['
 henrik227	['python']	['julia']	['RWTH Aachen University']	barthels@aices.rwth-aachen.de	['linear algebra', 'pattern matching', 'program generation', 'symbolic computations']	0	3	0	0
 henrykironde	['python']	['c++', 'julia', 'r']	['University of Florida']	henrykironde@gmail.com	['data science', 'security']	2	5	2	1
 herrsalmi	['c++', 'java']	['python', 'r']	['Marrow bone adiposity lab']	ayyoub.salmi@univ-littoral.fr	['bioinformatics']	0	0	0	0
-hertzsprung	['c++', 'fortran', 'python']	['c', 'java']	['The University of Sheffield']	js102@zepler.net	['computational hydraulics', 'gis', 'meteorology']	0	1	1	0
+hertzsprung	['c++', 'fortran', 'python']	['c', 'java']	['University of Sheffield']	js102@zepler.net	['computational hydraulics', 'gis', 'meteorology']	0	1	1	0
 hiendn	['r']	['octave', 'python']	['La Trobe University']	h.nguyen5@latrobe.edu.au	['artificial intelligence', 'machine learning', 'neural networks', 'statistics']	0	1	0	0
 highlando	['python']	['matlab']	['￼ Max Planck Institute for Dynamics of Complex Technical Systems // Otto-von-Guericke University Magdeburg']	heiland@mpi-magdeburg.mpg.de	['computational fluid dynamics', 'model reduction', 'numerical solution of odes', 'partial differential equations']	0	1	0	0
 hiraksarkar	['c++', 'python']	['c']	['University of Maryland']	hsarkar@cs.umd.edu	['bioinformatics', 'computational biology']	1	1	0	0
@@ -878,7 +878,7 @@ igarizio	['python']	[]	[]	iacopo.garizio@gmail.com	['economics', 'game theory', 
 ihrke	['c', 'python', 'r']	['c++', 'matlab', 'perl']	['UiT - The Arctic University of Norway']	matthias.mittner@uit.no	['neuroscience', 'psychology', 'signal-analysis', 'statistics']	0	0	0	0
 iimog	['javascript', 'perl', 'python', 'r']	['java', 'php']	['Comprehensive Heart Failure Center, University Hospital Würzburg, Germany']	Ankenbrand_M@ukw.de	['dna metabarcoding', 'genomics', 'molecular ecology', 'phylogenetics']	0	2	1	0
 ikayz	['javascript', 'kotlin']	['c#', 'php']	['Developer Circles Lusaka']	ikayz@live.com	['user experience', 'user interfaces']	0	0	0	0
-iliarasskazov	['matlab']	['fortran']	['The Institute of Optics, University of Rochester, USA']	il.rasskazov@gmail.com	['electromagnetism', 'light scattering', 'optics', 'photonics']	0	0	0	0
+iliarasskazov	['matlab']	['fortran']	['Institute of Optics, University of Rochester, USA']	il.rasskazov@gmail.com	['electromagnetism', 'light scattering', 'optics', 'photonics']	0	0	0	0
 iljah	['c++', 'python']	['c', 'fortran', 'javascript', 'opencl']	['Finnish Meteorological Institute']	ilja.honkonen@fmi.fi	['computational physics', 'high performance computing']	0	6	1	0
 imw	['golang', 'python', 'rust']	[]	[]	isaac@iwilder.net	['distributed systems', 'network systems']	0	0	0	0
 inakleinbottle	['python', 'rust']	['c', 'c++', 'matlab']	['University of East Anglia']	Sam.Morley@uea.ac.uk	['mathematics']	1	3	1	0
@@ -897,7 +897,7 @@ j-andrews7	['python', 'r']	['bash']	"[""St. Jude Children's Research Hospital""]
 j3r3m1	['groovy', 'python', 'sql']	[]	['University of Gothenburg']	jeremy.bernard@zaclys.net	['climate', 'energy', 'gis']	0	0	0	0
 jGaboardi	['python']	[]	['Penn State University']	jgaboardi@gmail.com	['network analysis', 'spatial analysis']	0	0	0	0
 ja-thomas	['r']	['python']	['Ludwig-Maximilians-University Munich']	janek.thomas@stat.uni-muenchen.de	['machine learning', 'statistics']	0	1	0	0
-jackbrookes	['c#', 'unity']	['python', 'r']	['UCL']	jbrookes187@gmail.com	['human behaviour analysis', 'human movement', 'virtual reality']	0	0	0	0
+jackbrookes	['c#', 'unity']	['python', 'r']	['University College London']	jbrookes187@gmail.com	['human behaviour analysis', 'human movement', 'virtual reality']	0	0	0	0
 jacobmerson	['c++', 'python']	[]	['Rensselaer Polytechnic Institute']	mersoj@rpi.edu	['biomechanics', 'computer science', 'fibrous materials', 'gpu', 'high performance computing (hpc)']	0	0	0	0
 jacobsoj	['r']	[]	"[""Queen's University, Canada""]"	jill.jacobson@queensu.ca	['assumptions', 'confidence intervals', 'effect size', 'factor analysis', 'meta-analysis', 'multilevel modeling', 'multiple regression', 'reliability', 'statistical power', 'statistics', 'structural equation modeling']	1	2	0	0
 jaeyk	['r']	['python']	['University of California, Berkeley']	jaeyeonkim@berkeley.edu	['machine learning', 'modeling', 'natural language processing', 'programs for data wrangling', 'visualization']	0	1	0	0
@@ -911,11 +911,11 @@ jamesrhester	['julia', 'python']	['c', 'c++', 'fortran']	['Australian Nuclear Sc
 jamiebramwell	['c++']	['fortran', 'python']	[]	bramwell1@llnl.gov	['finite element methods', 'high performance computing', 'nonlinear multiphysics simulation']	0	0	0	0
 jamiehadd	['matlab', 'python']	[]	['UCLA']	jamie.lynn.haddock@gmail.com	['machine learning', 'matrix factorization', 'numerical linear algebra', 'optimization', 'tensor decomposition', 'topic modeling']	0	0	0	0
 jamiejquinn	['c++', 'cuda', 'python']	['fortran', 'javascript']	['University College London']	jjquinn42@gmail.com	['computational fluid dynamics', 'magnetohydrodynamics', 'ordinary differential equations', 'partial differential equations']	0	0	0	0
-janash	['python']	[]	['The Molecular Sciences Software Institute']	janash@vt.edu	['computational molecular science', 'materials science']	0	1	1	1
+janash	['python']	[]	['Molecular Sciences Software Institute']	janash@vt.edu	['computational molecular science', 'materials science']	0	1	1	1
 janfb	['python']	['matlab']	[]	jan.boelts@mailbox.org	['approximate bayesian computation', 'computational neuroscience', 'likelihood-free inference', 'model comparison', 'simulation-based inference']	0	1	1	0
 janfreyberg	['python', 'r']	[]	['ASI Data Science']	jan.freyberg@gmail.com	['data science', 'machine learning', 'neuroscience', 'psychology']	1	7	3	0
 jankatins	['python']	['r']	[]		['network analysis', 'visualization']	0	3	0	0
-janpb	['python']	['c++', 'perl']	['The University of Sydney']	jan.buchmann@sydney.edu.au	['bioinformatics']	0	0	0	0
+janpb	['python']	['c++', 'perl']	['University of Sydney']	jan.buchmann@sydney.edu.au	['bioinformatics']	0	0	0	0
 japindado	['octave', 'python']	[]	['Pindiac LLC']	japindado@pindiac.com	['bioinformatics', 'machine learning']	0	0	0	0
 jarrah42	['c', 'c++', 'fortran', 'java', 'python']	['c#', 'forth', 'go', 'javascript', 'julia', 'perl', 'ruby', 'rust', 'swift']	['Oak Ridge National Laboratory']	g.watson@computer.org	['debugging', 'development tools', 'distributed systems', 'high performance', 'internet of things', 'operating systems', 'parallel programming', 'performance analysis', 'scientific computing', 'security', 'software engineering', 'user interfaces', 'web development']	0	2	2	0
 jarvist	['c', 'julia', 'python']	[]	['Imperial College London, University of Bath']	jarvist.frost@ic.ac.uk	['computational physics', 'markov chain monte carlo', 'path-integrals', 'tight-binding']	0	3	1	0
@@ -1041,7 +1041,7 @@ kauedesousa	['r']	[]	['Inland Norway University & Bioversity International']	k.d
 kavir1698	['julia']	[]	['University of Zurich']	arv.kavir@gmail.com	['agent-based modeling', 'bioinformatics', 'computational biology']	0	0	0	0
 kbarnhart	['python']	['r']	['University of Colorado at Boulder']	barnhark@colorado.edu	['geology', 'geomorphology']	0	2	0	0
 kbenoit	['r']	[]	['London School of Economics and Political Science']	kbenoit@lse.ac.uk	['analytics', 'natural language processing', 'reproducibility', 'social science']	0	3	0	0
-kbevers	['c', 'python']	[]	['The Danish Agency for Data Supply and Efficiency']	kreve@sdfe.dk	['geodesy', 'geophysics', 'geospatial analysis', 'gis']	0	1	0	0
+kbevers	['c', 'python']	[]	['Danish Agency for Data Supply and Efficiency']	kreve@sdfe.dk	['geodesy', 'geophysics', 'geospatial analysis', 'gis']	0	1	0	0
 kblin	['c', 'go', 'javascript', 'python', 'rust', 'typescript']	['c++', 'obj-c', 'ocaml']	['Technical University of Denmark']	kblin@biosustain.dtu.dk	['bioinformatics', 'genomics', 'web services']	0	3	1	1
 kczimm	['go', 'python']	['matlab', 'octave']	['Marquette University']	kevinczimmerman@gmail.com	['image processing', 'linear algebra', 'signal processing', 'statistics']	0	2	0	0
 kdirek	['python', 'r', 'sql']	['bash', 'perl']	['University College London']	k.direk@ucl.ac.uk	['all']	0	0	0	0
@@ -1067,12 +1067,12 @@ kislerdm	['go', 'javascript', 'kotlin', 'python', 'rust']	['dart', 'haskell', 'j
 kjappelbaum	['python']	['c']	['EPFL']	kevin.jablonka@epfl.ch	['chemistry', 'materials science', 'physics']	0	1	0	0
 klemenjak	['python']	['c']	['University of Klagenfurt']	klemenjak@ieee.org	['energy forecasting', 'load disaggregation', 'nilm']	0	0	0	0
 klmedeiros	['r', 'sql']	['python']	['Data Scientist, freelance biostats projects + HERE Technologies']	kaelenmedeiros@gmail.com	['biostatistics', 'epidemiology', 'public health (have been published on all 3 topics)']	1	4	0	0
-kmarkert	['python']	['javascript']	['The University of Alabama in Huntsville']	kel.markert@gmail.com	['earth science', 'google earth engine', 'hydrology', 'remote sensing']	0	0	0	0
+kmarkert	['python']	['javascript']	['University of Alabama in Huntsville']	kel.markert@gmail.com	['earth science', 'google earth engine', 'hydrology', 'remote sensing']	0	0	0	0
 kmichael08	['python']	[]	['University of Warsaw']	kuzba.michal@gmail.com	['interpretable machine learning', 'machine learning', 'natural language processing', 'statistics']	2	2	0	0
 kokan	['c', 'c++']	['go']	[]	kokaipeter@gmail.com	['compiler', 'log collection']	0	0	0	0
 koldunovn	['python']	[]	['MARUM/AWI']	koldunovn@gmail.com	['climate modeling', 'earth system science', 'oceanography']	0	1	0	0
 konstantinstadler	['gams', 'python']	['matlab']	['Industrial Ecology Programme, NTNU - Norwegian University of Science and Technology, Trondheim, Norway']	konstantin.stadler@ntnu.no	['economics', 'industrial ecology', 'life cycle assessment (lca)', 'multi regional input output analysis (mrio)', 'other quantitative sustainability software']	0	1	1	0
-kortschak	['go']	['c', 'perl']	['The University of Adelaide']	dan.kortschak@adelaide.edu.au	['genomics']	0	1	0	0
+kortschak	['go']	['c', 'perl']	['University of Adelaide']	dan.kortschak@adelaide.edu.au	['genomics']	0	1	0	0
 kose-y	['julia', 'python']	['c', 'matlab', 'r']	['Seoul National University']	syko0507@snu.ac.kr	['statistics']	0	1	0	0
 kostadus	['c++']	['cuda']	['University of Zaragoza']	konstantinos.mountris@gmail.com	['biomedical engineering']	0	0	0	0
 kostunin	['python']	['bash', 'c++', 'mathematica', 'php']	['DESY']	dmitriy.kostunin@desy.de	['astroparticle physics']	0	1	1	0
@@ -1152,7 +1152,7 @@ makyol	['python']	['r', 'scala']	['Middle East Technical University']	akyol.mehm
 malcolmbarrett	['r']	[]	['University of Southern California']	malcolmbarrett@gmail.com	['epidemiology', 'public health']	0	0	0	0
 malmans2	['matlab', 'python']	[]	['Johns Hopkins University']	mattia.almansi@jhu.edu	['earth and planetary sciences', 'geophysical fluid dynamics', 'oceanography']	0	2	1	0
 malmaud	['julia', 'python']	['javascript', 'matlab', 'typescript']	['Massachusetts Institute of Technology']	malmaud@gmail.com	['bayesian statistics', 'machine learning', 'physics simulators']	2	7	0	0
-malramsay64	['cython', 'python']	[]	['The University of Sydney']	malramsay64@gmail.com	['chemistry', 'molecular dynamics']	0	4	0	0
+malramsay64	['cython', 'python']	[]	['University of Sydney']	malramsay64@gmail.com	['chemistry', 'molecular dynamics']	0	4	0	0
 mamrehn	['c', 'java', 'javascript', 'python', 'scala']	['cython', 'ruby', 'typescript']	['Pattern Recognition Lab, Department of Computer Science, Friedrich-Alexander University Erlangen-Nürnberg (FAU)']	mario.amrehn@fau.de	['computer vision', 'machine learning', 'neural networks', 'recommender systems', 'usability']	0	0	0	0
 mamunm	['python']	['fortran', 'java', 'julia']	[]	mamun.che06@gmail.com	['computational chemistry', 'materials science']	0	0	0	0
 mancellin	['python']	['fortran', 'julia']	['ENS Paris-Saclay']	matthieu.ancellin@cmla.ens-cachan.fr	['fluid dynamics', 'partial differential equations']	0	2	0	0
@@ -1179,7 +1179,7 @@ martinagvilas	['python']	['matlab']	['Max-Planck-Institute AE']	martinagonzalezv
 martinfleis	['python']	[]	['University of Strathclyde']	martin@martinfleischmann.net	['geographic science', 'geospatial', 'gis', 'network analysis', 'urban morphology']	0	3	2	0
 martinju	['r']	[]	['Norwegian Computing Center']	jullum@nr.no	['artificial intelligence', 'machine learning', 'statistics']	0	1	1	0
 martinmodrak	['c', 'c++', 'java', 'opencl', 'r', 'stan']	['c#', 'css', 'elm', 'html', 'javascript', 'matlab', 'opencl', 'python', 'rust']	['Institute of Microbiology of the Czech Academy of Sciences', 'Institute of Microbiology, Czech Academy of Sciences']	martin.modrak@biomed.cas.cz	['bayesian statistics', 'bioinformatics', 'computer games ai', 'gene regulation', 'statistical modeling']	2	6	4	4
-martlj	['c', 'matlab', 'python']	['c++']	['The Francis Crick Institute']	martin.jones@crick.ac.uk	['biology', 'image processing', 'physics']	0	0	0	0
+martlj	['c', 'matlab', 'python']	['c++']	['Francis Crick Institute']	martin.jones@crick.ac.uk	['biology', 'image processing', 'physics']	0	0	0	0
 marvinjonathcn	['r and python']	['html', 'javascript']	[]	marvinjqs@gmail.com	['climate modeling', 'environmental data science', 'pest modeling']	1	2	0	0
 marwahaha	['javascript', 'python', 'react', 'typescript']	['r']	[]	marwahaha@berkeley.edu	['quantum information', 'some math and physics']	1	2	1	0
 marwanalam2	['python']	['vasp']	['University of the Punjab']	macssp18@gmail.com	['computational physics']	0	0	0	0
@@ -1243,7 +1243,7 @@ miketuri	['c', 'c++', 'java', 'perl']	[]	['California State University, Fullerto
 milesmcbain	['javascript', 'r']	['sql']	['Australian Centre of Excellence for Mathematics and Statistics (ACEMS)']	miles.mcbain@gmail.com	['data science']	0	0	0	0
 milicag	['python']	['modelica']	[]	mgrahovac@lbl.gov	['economy', 'energy', 'engineering', 'policy']	0	0	0	0
 mingzehuang	['r']	['python']	['Texas A& M University', 'Texas A&M University']	sharkmanhmz@tamu.edu	['big data', 'computational finance', 'computational social science', 'computational social science and finance', 'machine learning', 'statistics']	0	2	2	2
-mirca	['c++', 'python', 'r']	['julia']	['The Hong Kong University of Science and Technology']	jvdmc@connect.ust.hk	['finance', 'machine learning', 'optimisation', 'signal processing']	0	2	1	1
+mirca	['c++', 'python', 'r']	['julia']	['Hong Kong University of Science and Technology']	jvdmc@connect.ust.hk	['finance', 'machine learning', 'optimisation', 'signal processing']	0	2	1	1
 mjsull	['python']	[]	['Microba']	mjsull@gmail.com	['assembly tools', 'bacterial genomics', 'visualization']	0	0	0	0
 mkearney	['r']	['python']	['University of Missouri']	kearneymw@missouri.edu	['social science', 'statistics', 'web apis']	0	2	0	0
 mkhorton	['python']	[]	['University of California Berkeley, Lawrence Berkeley National Lab']	mkhorton@lbl.gov	['chemistry', 'emphasis on materials modeling', 'materials science', 'physics', 'simulation']	0	7	0	0
@@ -1283,7 +1283,7 @@ mvdh7	['matlab']	[]	['University of East Anglia']	m.p.humphreys@cantab.net	['oce
 mwcraig	['python']	[]	['Minnesota State University Moorhead']	mattwcraig@gmail.com	['astronomy', 'ipywidgets']	0	3	0	0
 mwegrzyn	['python']	[]	['Bielefeld University, Germany']	martin.wegrzyn@uni-bielefeld.de	['functional mri', 'neuroimaging']	0	1	0	0
 mwerwee	['c#', 'python']	['c#']	[]	markus.erwee@gmail.com	['computational fluid dynamics', 'molecular dynamics', 'physical metallurgy', 'pyrometallurgy', 'thermodynamics and thermochemistry', 'welding metallurgy']	0	0	0	0
-mwptrsn	['matlab', 'python']	['scala']	['The MITRE Corporation']	matt@mpeterson.org	['bioinformatics', 'computational biology']	0	1	0	0
+mwptrsn	['matlab', 'python']	['scala']	['MITRE Corporation']	matt@mpeterson.org	['bioinformatics', 'computational biology']	0	1	0	0
 mwt	['python', 'r']	[]	['Northwestern University']	matthew.thomas@northwestern.edu	['economics', 'game theory', 'math']	0	2	2	0
 myousefi2016	['c', 'c++', 'julia', 'python', 'r']	['c#', 'fortran']	['Clemson University']	yousefi@clemson.edu	['computational materials sicence', 'numerical methods']	0	4	1	0
 myxie	['c', 'c++', 'python']	['c', 'c++', 'java']	['University of Western Australia']	ryan.bunney@research.uwa.edu.au	['algorithms', 'cloud', 'computer science', 'data science', 'grid', 'machine learning', 'optimisation', 'physics', 'software tooling']	0	0	0	0
@@ -1305,7 +1305,7 @@ neelnanda-io	['python']	[]	['UC Berkeley']	neelnanda27@gmail.com	['artificial in
 neerajdhanraj	['r']	['python']	[]	neerajdhanraj@eng.au.dk	['data processing', 'data science', 'energy', 'forecasting', 'optimization', 'prediction', 'time series analysis', 'visualization']	0	2	2	1
 nemobis	['marc', 'mets', 'php', 'python', 'sparql', 'sql', 'xml', 'xslt']	['ruby']	['Wikimedia Italia']	federico.leva@wikimedia.it	['copyleft', 'copyright', 'digital rights', 'internet', 'library and information science', 'mediawiki', 'wikimedia']	0	0	0	0
 nespinoza	['c', 'python']	['java']	['Max-Planck-Institut für Astronomie']	espinoza@mpia.de	['astronomy', 'astrophysics', 'astrostatistics', 'statistics']	0	5	1	0
-neurofractal	['matlab', 'python']	[]	['UCL']	rob.seymour@ucl.ac.uk	['eeg', 'meg', 'neuroscience', 'signal processing']	0	1	1	0
+neurofractal	['matlab', 'python']	[]	['University College London']	rob.seymour@ucl.ac.uk	['eeg', 'meg', 'neuroscience', 'signal processing']	0	1	1	0
 neuroimaginador	['r']	['matlab']	['Department of Applied Maths, University of Malaga']	dlopez@ctima.uma.es	['data analysis', 'image processing', 'machine learning', 'neuroimaging', 'statistics']	0	1	0	0
 neuromusic	['python']	[]	['Allen Institute for Brain Science']	justin.kiggins@gmail.com	['neuroscience', 'psychology']	0	1	1	0
 neurons	['go', 'java', 'python', 'scala']	['c++', 'javascript']	['Uber Technologies']	niranjan.padmanabhan@mail.mcgill.ca	['artificial intelligence', 'bioinformatics', 'computational biology', 'computer science', 'machine learning', 'mathematics', 'software engineering']	0	0	0	0
@@ -1383,7 +1383,7 @@ petermacp	['r']	[]	['Liverpool School of Tropical Medicine, UK & Malawi-Liverpoo
 petroniocandido	['c#', 'java', 'python']	['c', 'c++']	['Instituto Federal do Norte de Minas Gerais - IFNMG']	petronio.candido@ifnmg.edu.br	['evolutionary algorithms', 'forecasting', 'fuzzy systems', 'neural networks']	0	1	0	0
 pgadige	['python']	['javascript']	[]	poojagadige@gmail.com	['django', 'microservices', 'web applications']	0	0	0	0
 pgg1610	['python']	['r']	['Graduate Research Assistant']	pghaneka@purdue.edu	['catalysis', 'kinetics', 'material science', 'reaction engineering']	0	0	0	0
-pharshalp	['matlab', 'python']	[]	['The Pennsylvania State University']	pharshalp@gmail.com	['acoustics', 'vibrations']	0	0	0	0
+pharshalp	['matlab', 'python']	[]	['Pennsylvania State University']	pharshalp@gmail.com	['acoustics', 'vibrations']	0	0	0	0
 phckopper	['c', 'python']	['c++', 'javascript']	['Universidade Federal do Rio Grande do Sul']	pedro.kopper@ufrgs.br	['computer vision', 'embedded systems']	0	1	0	0
 pibion	['c++', 'css', 'fortran', 'html', 'javascript', 'matlab', 'python']	['java']	['University of Colorado Denver']	amy.roberts@ucdenver.edu	['data acquisition', 'data management', 'direct-detection dark matter searches', 'experimental nuclear physics', 'neutron simulation', 'physics', 'theoretical nuclear physics']	0	0	0	0
 pitsianis	['c', 'c++', 'fortran', 'maple', 'mathematica', 'matlab']	['julia', 'scheme', 'sml']	['Aristotle University of Thessaloniki']	nikos.pitsianis@eng.auth.gr	['big data', 'compiler tools', 'fast transforms', 'parallel numerical software']	0	0	0	0
@@ -1436,7 +1436,7 @@ rashti-alireza	['bash', 'c', 'python']	[]	['Florida Atlantic University']	arasht
 ravivv	['r']	[]	[]	eranraviv@mail.com	['finance']	0	0	0	0
 raybecker	['c++', 'python', 'r']	[]	[]	raybecker@gmail.com	['cognitive psychology', 'linguistics', 'meta-science', 'psycholinguistics', 'social psychology']	0	0	0	0
 raysinensis	['python', 'r']	[]	['University of Colorado Anschutz Medical Campus']	rui.fu@cuanschutz.edu	['bioinformatics']	0	0	0	0
-rbeucher	['c', 'fortran', 'python', 'r']	[]	['The Australian National University', 'The University of Melbourne']	romain@rbeucher.com	['earth sciences', 'geodynamics', 'geology', 'geophysics']	0	0	0	0
+rbeucher	['c', 'fortran', 'python', 'r']	[]	['Australian National University', 'University of Melbourne']	romain@rbeucher.com	['earth sciences', 'geodynamics', 'geology', 'geophysics']	0	0	0	0
 rcannood	['bash', 'r', 'scala']	['c++', 'java', 'python']	['Data Intuitive / VIB / Ghent University', 'VIB - Ghent University']	rcannood@gmail.com	['bioinformatics', 'data mining', 'dimensionality reduction', 'docker', 'machine learning', 'meta-programming', 'network inference', 'nextflow', 'omics', 'pipeline management', 'single-cell bioinformatics', 'single-cell omics', 'singularity', 'tidyverse', 'trajectory inference', 'visualization']	0	10	2	0
 rchew	['python', 'r']	[]	['RTI International']	rchew@rti.org	['social sciences', 'statistics']	0	1	1	1
 rchg	['fortran', 'julia', 'python']	['bash', 'haskell']	['Laboratory for Sciences of Climate and Environment (CNRS)']	rcheca@lsce.ipsl.fr	['atmospheric sciences', 'climate sciences', 'hydrology', 'meteorology', 'statistical physics']	0	0	0	0
@@ -1449,7 +1449,7 @@ rewbenio	['matlab', 'scilab']	['python']	[]	rewbenio@gmail.com	['machine learnin
 rgerum	['python']	['javascript']	[]	richard.gerum@protonmail.com	['image analysis', 'machine learning', 'visualization']	0	0	0	0
 rgmyr	['python']	['c', 'c++', 'fortran', 'haskell']	['Colorado School of Mines']	ross.meyer@utexas.edu	['astronomy & astrophysics', 'data science', 'geology', 'numerical methods', 'visualization']	0	0	0	0
 ricardogando	['python']	['fortran77']	['Observatorio Nacional', 'Observatório Nacional, Rio de Janeiro, Brazil']	ogando@on.br	['astronomy', 'astrophysics']	0	0	0	0
-richardjgowers	['python']	['fortran']	['The University of Edinburgh']	richardjgowers@gmail.com	['computational chemistry', 'molecular simulation']	0	4	1	0
+richardjgowers	['python']	['fortran']	['University of Edinburgh']	richardjgowers@gmail.com	['computational chemistry', 'molecular simulation']	0	4	1	0
 richardlitt	['javascript']	['python']	[]		['computational linguistics', 'computer science', 'data science', 'linguistics', 'natural language processing']	0	0	0	0
 richardsc	['r']	[]	['Fisheries and Oceans Canada, Bedford Institute of Oceanography']	clark.richards@gmail.com	['atmosphere', 'climate', 'cryosphere', 'oceanography']	0	1	1	0
 richelbilderbeek	['c++', 'r']	['c']	['MIMY, GBB, University of Groningen', 'University of Groningen, Groningen Institute for Evolutionary Life Sciences (GELIFES), Theoretical Research in Evolutionary Life Sciences (TRES)']	richel@richelbilderbeek.nl	['bioinformatics', 'biology', 'genomics', 'immunology', 'phylogenetics']	0	0	0	0
@@ -1524,9 +1524,9 @@ satish-annigeri	['c', 'c++', 'julia', 'python', 'scilab']	['fortran 77']	['KLE T
 satpreetsingh	['python']	['r']	['University of Washington']	satsingh@uw.edu	['data science', 'dynamical systems', 'machine learning', 'reinforcement learning']	0	0	0	0
 satybald	['java', 'scala']	['python']	['Data Engineer, Zalando SE']	stb@satybald.com	['big data', 'cloud computing', 'data engineering']	0	0	0	0
 sauln	['python']	['c++', 'javascript']	['Washington State University']	nat@saulgill.com	['machine learning', 'topological data analysis', 'user interfaces']	0	1	0	0
-saurabh-khanna	['python', 'r']	[]	['PhD Candidate, Stanford University']	saurabhkhanna@stanford.edu	['algorithmic bias', 'knowledge diversity', 'social networks']	0	0	0	0
+saurabh-khanna	['python', 'r']	[]	['Stanford University']	saurabhkhanna@stanford.edu	['algorithmic bias', 'knowledge diversity', 'social networks']	0	0	0	0
 sayakpaul	['python']	['javascript']	['Deep Learning Associate at PyImageSearch']	spsayakpaul@gmail.com	['adversarial robustness', 'computer vision', 'model optimization', 'representation learning']	0	0	0	0
-sbacchio	['c', 'c++', 'python']	['mathematica']	['The Cyprus Institute']	s.bacchio@gmail.com	['computational physics', 'high-performance computing', 'iterative linear solvers', 'lattice qcd', 'quantum field theory']	0	0	0	0
+sbacchio	['c', 'c++', 'python']	['mathematica']	['Cyprus Institute']	s.bacchio@gmail.com	['computational physics', 'high-performance computing', 'iterative linear solvers', 'lattice qcd', 'quantum field theory']	0	0	0	0
 sbfnk	['r']	[]	['London School of Hygiene & Tropical Medicine']	sebastian.funk@lshtm.ac.uk	['bioinformatics', 'biostatistics', 'epidemiology']	0	0	0	0
 sbinet	['go']	[]	['IN2P3']	binet@cern.ch	['file formats', 'high energy physics']	0	0	0	0
 sbozzolo	['c', 'emacs lisp', 'latex', 'python']	['bash']	['Department of Astronomy, The University of Arizona']	gabrielebozzola@email.arizona.edu	['ecosystem', 'gravitational-wave astronomy', 'infrastructure tools', 'numerical relativity']	0	1	1	1
@@ -1549,7 +1549,7 @@ seaaan	['r']	[]	['University of Washington']	seaaan@gmail.com	['elisa)', 'flow c
 seabbs	['r']	['libbi']	['University of Bristol']	contact@samabbott.co.uk	['epidemiology', 'mathematical modelling', 'public health', 'reproducible research']	0	3	1	1
 sealhuang	['python']	['c', 'matlab']	[]		['image processing', 'machine learning', 'neuroimaging']	0	1	0	0
 seba-1511	['python']	[]	['University of Southern California']	seb.arnold@usc.edu	['machine learning', 'meta learning', 'optimization', 'reinforcement learning']	0	1	1	0
-sebastian-raubach	['java', 'javascript']	[]	['The James Hutton Institute']	bazraubach@gmail.com	['bioinformatics', 'mobile apps', 'phenotyping', 'plant genetic resources', 'visualization']	0	0	0	0
+sebastian-raubach	['java', 'javascript']	[]	['James Hutton Institute']	bazraubach@gmail.com	['bioinformatics', 'mobile apps', 'phenotyping', 'plant genetic resources', 'visualization']	0	0	0	0
 seisman	['c', 'python']	[]	['Michigan State University']	tiandong@msu.edu	['geophysics', 'seismology']	0	3	1	0
 semacu	['python', 'r']	[]	['University of Cambridge, UK']	sermarcue@gmail.com	['bioinformatics', 'chemoinformatics', 'computational biology', 'computational chemistry']	0	0	0	0
 semiautomaticgit	['python']	[]	[]	ing.congedo.luca@gmail.com	['gis', 'land cover', 'remote sensing']	0	0	0	0
@@ -1565,7 +1565,7 @@ sganesh5	['python']	['r']	['Myriad Genetics']	sangitaganesh@gmail.com	['environm
 sgeorge91	['python', 'r']	['c++', 'julia']	['University College London']	sandip.varkey@gmail.com	['complex networks', 'complex systems', 'nonlinear dynamics', 'psychometrics', 'time domain astronomy', 'time series analysis']	0	0	0	0
 sgrieve	['c++', 'python']	['c']	[]		['environmental science', 'geoscience', 'gis', 'hydrology', 'spatial analysis']	0	5	0	0
 shah314	['java']	['c++']	['Johns Hopkins University']	sshah100@jhu.edu	['applied mathematics', 'data science', 'genetic algorithms', 'machine learning', 'optimization']	0	1	0	0
-shahmoradi	['fortran', 'matlab', 'python', 'r']	['bash', 'c', 'html', 'idl', 'pascal']	['The University of Texas, Arlington']	shahmoradi@utexas.edu	['astrophysics', 'bayesian probability theory', 'bioinformatics', 'mathematical modeling', 'molecular dynamics', 'monte carlo techniques', 'proteomics', 'scientific computing', 'uncertainty quantification']	1	1	0	0
+shahmoradi	['fortran', 'matlab', 'python', 'r']	['bash', 'c', 'html', 'idl', 'pascal']	['University of Texas, Arlington']	shahmoradi@utexas.edu	['astrophysics', 'bayesian probability theory', 'bioinformatics', 'mathematical modeling', 'molecular dynamics', 'monte carlo techniques', 'proteomics', 'scientific computing', 'uncertainty quantification']	1	1	0	0
 shalinshah1993	['java', 'matlab', 'python']	[]	[]	shalin.shah@duke.edu	['computational biology']	0	0	0	0
 shanamatthews	['c#', 'java', 'python']	['c++']	['Microsoft']	shana.l.matthews@gmail.com	['cloud computing', 'computing education', 'software engineering', 'visualization']	0	0	0	0
 shantanudash	['python']	[]	['Dyal Singh College, University of Delhi']	shantanudash7@gmail.com	['mathematics', 'physics']	0	0	0	0
@@ -1698,7 +1698,7 @@ torressa	['c++', 'python']	[]	['SINTEF']	david.sanchez@sintef.no	['applications 
 tpeulen	['python']	['c', 'c++']	['University of California San Francisco']	thomas-otavio.peulen@ucsf.edu	['biophysics', 'modeling', 'optical spectroscopy', 'single-molecule']	0	0	0	0
 tpoisot	['julia']	['python', 'r']	['Université de Montréal']	timothee.poisot@umontreal.ca	['computational biology', 'ecology', 'epidemiology', 'graph theory', 'machine learning']	0	1	1	0
 tpurcell90	['c++ and python']	['matlab']	['Fritz-Haber-Institute']	purcell@fhi-berlin.mpg.de	['condensed matter physics', 'electronic structure', 'htc frameworks', 'machine learning', 'quantum chemistry', 'symbolic regression', 'thermal transport']	0	0	0	0
-trallard	['python r  matlab']	['c++', 'fortran c']	['The University of Sheffield']	t.allard@sheffield.ac.uk	['biomechanics', 'data science', 'materials science', 'mechanical engineering', 'mechatronics', 'robotics', 'visualization']	0	9	1	0
+trallard	['python r  matlab']	['c++', 'fortran c']	['University of Sheffield']	t.allard@sheffield.ac.uk	['biomechanics', 'data science', 'materials science', 'mechanical engineering', 'mechatronics', 'robotics', 'visualization']	0	9	1	0
 trappitsch	['python']	[]	['Brandeis University']	reto@brandeis.edu	['astrophysics (stellar nucleosynthesis & galactic chemical evolution)', 'cosmochemistry']	0	0	0	0
 trashbirdecology	['r']	[]	['University of Nebraska-Lincoln']	jessicaleighburnett@gmail.com	['applied statistics', 'ecological modeling', 'ecological statistics', 'ecology']	0	1	1	0
 traversaro	['c++']	['modelica', 'octave']	['Italian Institute of Technology']	silvio.traversaro@iit.it	['robotics', 'simulation']	0	1	1	1
@@ -1783,7 +1783,7 @@ woolfeh	['python']	[]	['John Innes Centre']	hugh.woolfenden@jic.ac.uk	['computat
 wrathematics	['r']	['c', 'c++']	[]		['high performance computing', 'linear algebra', 'statistics']	0	4	0	0
 wsdookadr	['maple maybe', 'maxima', 'perl', 'python']	['anything that i can grasp', 'understand']	[]	stefan.petrea@gmail.com	"['algebra mainly. maybe at an undergraduate level', ""but i don't discount the possibility of digging deeper into a topic"", 'combinatorics']"	0	0	0	0
 wselwood	['go', 'java', 'scala']	['python']	['Satellite Applications Catapult']	wil.selwood@sa.catapult.org.uk	['data processing', 'geo spatial', 'orbital calculations', 'visualization']	0	0	0	0
-wspr	['latex', 'mathematica', 'matlab']	[]	['The University of Adelaide']	will@wspr.io	['document production', 'engineering', 'visualization']	0	0	0	0
+wspr	['latex', 'mathematica', 'matlab']	[]	['University of Adelaide']	will@wspr.io	['document production', 'engineering', 'visualization']	0	0	0	0
 wtbarnes	['python']	['c', 'c++', 'idl']	['Lockheed Martin Solar and Astrophysics Laboratory']	will.t.barnes@gmail.com	['astrophysics', 'heliophysics', 'machine learning', 'solar physics', 'space science']	0	1	0	0
 wtgee	['python']	['javascript', 'perl']	['Macquarie University']	wilfred.gee@students.mq.edu.au	['astronomy', 'cloud technologies', 'machine learning', 'physics', 'web technologies']	0	4	0	0
 wwzhang	['igor pro', 'matlab', 'r']	[]	['Peking University']	zhangw@hsc.pku.edu.cn	['neuroscience']	0	0	0	0
@@ -1810,7 +1810,7 @@ ygrange	['python']	['julia']	['ASTRON, te Netherlands Institute for Radio Astron
 yhtang	['c++', 'cuda', 'opencl', 'python']	['matlab']	['Lawrence Berkeley National Laboratory']	tang@lbl.gov	['computational fluid mechanics', 'gpu', 'high-performance computing', 'molecular dynamics', 'numerical linear algebra', 'tensor decomposition']	0	0	0	0
 yhy188	['r']	['r']	[]	huy170@psu.edu	['design of experiments', 'statistical']	0	0	0	0
 yongzesong	['r']	['matlab']	['Curtin University']	yongze.song@curtin.edu.au	['environment and ecology', 'geography', 'gis', 'remote sensing', 'spatial analysis']	0	0	0	0
-ysimillides	['julia', 'python']	['matlab']	['UCL']	yiannis.simillides.14@ucl.ac.uk	['differential equations', 'numerical methods']	0	3	0	0
+ysimillides	['julia', 'python']	['matlab']	['University College London']	yiannis.simillides.14@ucl.ac.uk	['differential equations', 'numerical methods']	0	3	0	0
 yuhc	['c', 'c++', 'python']	['c#', 'cuda', 'java', 'opencl', 'rust']	['Facebook']	yuhc123@gmail.com	['accelerator', 'cloud computing', 'cloud systems', 'compilers', 'containers', 'distributed systems', 'gpu', 'operating systems', 'programming language', 'systems', 'virtualization']	0	1	1	0
 yunusrf	['c#', 'c++', 'objective c', 'python']	['c++', 'objective c']	['King Fahd University of Petroleum and Minerals, Saudi Arabia']	yparvej@kfupm.edu.sa	['artificial intelligence and deep learning', 'distributed systems', 'mobile applications reliability and fault tolerance', 'mobile cloud computing']	0	0	0	0
 yupbank	['python']	['cpp']	['Shopify']	yupbank@gmail.com	['machine learning']	0	0	0	0

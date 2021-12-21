@@ -10,7 +10,7 @@ GeekLogan	['python']	['java']	['University of Michigan']	loganaw@umich.edu	['bio
 HTian1997	['python']	['java']	['Southern Methodist University']	haot@smu.edu	['computational biology']	0	0	0	0
 HadrienG	['bash', 'python', 'r']	['javascript', 'rust']	['SLU']	hadrien.gourle@slu.se	['bioinformatics', 'databases']	0	1	0	0
 JDRomano2	['c++', 'python', 'r']	['c', 'java', 'javascript']	['University of Pennsylvania']	joseph.romano@pennmedicine.upenn.edu	['artificial intelligence', 'bioinformatics', 'data integration', 'knowledge discovery', 'knowledge extraction', 'machine learning', 'ontologies']	0	1	1	0
-JonnyTran	['python']	['java', 'javascript', 'r']	['The University of Texas at Arlington']	nhat.tran@uta.edu	['bioinformatics', 'machine learning']	0	1	1	0
+JonnyTran	['python']	['java', 'javascript', 'r']	['University of Texas at Arlington']	nhat.tran@uta.edu	['bioinformatics', 'machine learning']	0	1	1	0
 Komalharini237	['c++', 'mysql', 'perl', 'python']	['bioperl', 'biopython', 'java', 'linux']	['Guru Nanak Khalsa College, Mumbai']	kharinirt237@gmail.com	['bioinformatics', 'desktop applications']	0	0	0	0
 MikeTrizna	['python']	[]	['Smithsonian Institution']	triznam@si.edu	['biodiversity informatics', 'bioinformatics', 'data science']	0	0	0	0
 MohmedSoudy	['c', 'c#', 'c++', 'python', 'r']	['python', 'r']	"[""Research Associate, Proteomics & Metabolomics Unit, Basic Research, Children's cancer hospital 57357""]"	Mohmedsoudy2009@gmail.com	['bioinformatics', 'machine learning', 'proteomics']	0	0	0	0
@@ -27,7 +27,7 @@ a-r-j	['python', 'r']	[]	['University of Cambridge']	arj39@cam.ac.uk	['bioinform
 a-slide	['python']	['bash', 'cython']	['EMBL-EBI']	aleg@ebi.ac.uk	['bioinformatics', 'classification', 'computational biology', 'data processing', 'jupyter', 'regression', 'sequencing', 'visualization']	0	0	0	0
 abotzki	['python', 'r']	[]	['VIB', 'VIB Bioinformatics Core, VIB']	alexander.botzki@vib.be	['bioinformatics', 'chemoinformatics', 'structural bioinformatics']	0	0	0	0
 afrendeiro	['python', 'r']	[]	['CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences']	afrendeiro@gmail.com	['bioinformatics', 'computational biology']	0	0	0	0
-afrubin	['python']	['c', 'r']	['The Walter and Eliza Hall Institute of Medical Research']	alan.rubin@wehi.edu.au	['bioinformatics', 'computational biology', 'genetics', 'genomics', 'protein science']	0	6	1	1
+afrubin	['python']	['c', 'r']	['Walter and Eliza Hall Institute of Medical Research']	alan.rubin@wehi.edu.au	['bioinformatics', 'computational biology', 'genetics', 'genomics', 'protein science']	0	6	1	1
 amadeusine	['c++', 'haskell', 'julia', 'python', 'rust', 'typescript']	['c', 'c#', 'futhark', 'java', 'matlab', 'r', 'ruby']	['University of Kansas']	lim@ku.edu	['computational biology', 'embedded systems', 'geometry', 'graphics', 'logic', 'optimization']	0	0	0	0
 andim	['python']	['c', 'r']	['Princeton University']	andimscience@gmail.com	['computational biology', 'optimization']	0	1	0	0
 andremrsantos	['python', 'r', 'ruby']	['bash', 'c', 'c++', 'html', 'javascript']	['Universidade Federal do Pará']	andremrsantos@gmail.com	['bioinformatics', 'computational biology', 'statistics']	0	1	0	0
@@ -47,13 +47,13 @@ betteridiot	['python']	['c', 'c++', 'javascript', 'r']	['University of Michigan,
 bgyori	['c++', 'html', 'java', 'javascript', 'python', 'r', 'sql']	['c++', 'html', 'java', 'javascript', 'r', 'sql']	['Harvard Medical School', 'Laboratory of Systems Pharmacology Harvard Medical School']	ben.gyori@gmail.com	['bioinformatics', 'biology-related software', 'mathematical modeling', 'molecular biology', 'systems biology']	0	0	0	0
 billchenxi	['c++', 'python', 'r']	['c++', 'javascript', 'matlab']	['University of Kentucky']	billchenxi@uky.edu	['bioinformatics', 'data science', 'machine learning']	0	0	0	0
 blakeaw	['c', 'c++', 'python']	['bash', 'tcl']	[]	blakeaw1102@gmail.com	['bayesian inference', 'biophysics', 'information theory', 'model selection', 'molecular simulation and analysis', 'networks biology', 'parameter estimation', 'systems biology']	0	2	1	1
-blbentley	['matlab', 'python', 'r']	['c', 'c++']	['The Open University']	bbentley@cantab.net	['bioinformatics', 'computational biology', 'neuroscience']	0	0	0	0
+blbentley	['matlab', 'python', 'r']	['c', 'c++']	['Open University']	bbentley@cantab.net	['bioinformatics', 'computational biology', 'neuroscience']	0	0	0	0
 bovee	['python', 'rust']	['javascript', 'julia', 'nim']	['One Codex, San Francisco']	rbovee@gmail.com	['biogeochemistry', 'bioinformatics', 'geobiology', 'mass spectrometry']	2	4	0	0
 brianjimenez	['c', 'python']	[]	['Postdoctoral Research and RSE at Utrecht University']	br.jimenezgarcia@gmail.com	['artificial intelligence', 'computational biology', 'computational chemistry', 'high performance computing']	0	0	0	0
 bricoletc	['c', 'c++', 'javascript', 'python', 'scheme']	['java']	['EMBL-EBI']	letcher.brice@yahoo.com	['bioinformatics', 'computational biology']	0	0	0	0
 camillescott	['c', 'c++', 'cython', 'python']	['java', 'javascript', 'r', 'ruby']	['University of California Davis']	camille.scott.w@gmail.com	['bioinformatics', 'computational biology', 'graph theory', 'network analysis', 'testing', 'visualization', 'workflow tools']	0	2	1	1
-carleshf	['python', 'r']	['java', 'javascript']	"[""The Centre Nacional d'Anàlisi Genòmica (CNAG-CRG)""]"	carles.hernandez@cnag.crg.eu	['bioinformatics', 'biomedicine', 'data analysis']	0	0	0	0
-cgaray	['python']	[]	['The MITRE Corporation']	cgaray@mitre.org	['bioinformatics', 'computational biology']	0	0	0	0
+carleshf	['python', 'r']	['java', 'javascript']	"[""Centre Nacional d'Anàlisi Genòmica (CNAG-CRG)""]"	carles.hernandez@cnag.crg.eu	['bioinformatics', 'biomedicine', 'data analysis']	0	0	0	0
+cgaray	['python']	[]	['MITRE Corporation']	cgaray@mitre.org	['bioinformatics', 'computational biology']	0	0	0	0
 coughls	['nextflow', 'python', 'r']	['bash']	['4D Pharma PLC']	coughls@gmail.com	['bioinformatics', 'genomics', 'human genomics', 'metagenomics', 'parasites)', 'pathogen genomics (bacteria']	0	1	0	0
 cpalumbo	['python', 'r']	['perl']	[]	cp1015@rit.edu	['bioinformatics']	0	0	0	0
 cthoyt	['python']	[]	['Harvard Medical School']	cthoyt@gmail.com	['bioinformatics', 'chemoinformatics', 'computational biology', 'machine learning', 'semantic web', 'systems biology']	0	0	0	0
@@ -80,7 +80,7 @@ hmacdope	['c++', 'fortran', 'python']	['c']	['Australian National University']	h
 hmenager	['javascript', 'python']	['java']	['Institut Pasteur']	herve.menager@gmail.com	['bioinformatics', 'software tools', 'web applications']	0	0	0	0
 holtgrewe	['bash', 'c', 'c++', 'java', 'python', 'rust', 'snakemake']	['bash', 'c', 'c++', 'css', 'html', 'java', 'javascript', 'rust', 'shell']	['Charite University Medicine Berlin /Berlin Institute of Health', 'Core Unit Bioinformatics, Berlin Institute of Health, Charite University Medicine']	zyklenfrei@gmail.com	['algorithm engineering', 'algorithmics', 'bioinformatics', 'computer science']	2	4	0	0
 j-andrews7	['python', 'r']	['bash']	"[""St. Jude Children's Research Hospital""]"	jared.andrews07@gmail.com	['bioinformatics', 'genomics', 'visualization']	0	2	2	0
-janpb	['python']	['c++', 'perl']	['The University of Sydney']	jan.buchmann@sydney.edu.au	['bioinformatics']	0	0	0	0
+janpb	['python']	['c++', 'perl']	['University of Sydney']	jan.buchmann@sydney.edu.au	['bioinformatics']	0	0	0	0
 japindado	['octave', 'python']	[]	['Pindiac LLC']	japindado@pindiac.com	['bioinformatics', 'machine learning']	0	0	0	0
 jdeligt	['bash', 'c++', 'java', 'python', 'r']	['perl', 'php']	['Institute of Environmental Science and Research Limited (ESR)']	joepio@gmail.com	['bioinformatics', 'genomics']	0	5	0	0
 jeanmdavidson	['python', 'r']	['python', 'r']	['Assistant Professor - Cal Poly, San Luis Obispo']	Jdavid06@calpoly.edu	['bioinformatics', 'genomics']	0	0	0	0
@@ -109,7 +109,7 @@ maximtrp	['golang', 'javascript', 'python', 'r']	['c', 'c++', 'java']	['National
 mdehollander	['python']	[]	['Netherlands Institute of Ecology (NIOO-KNAW)']	m.dehollander@nioo.knaw.nl	['bioinformatics', 'metagenomics']	0	0	0	0
 mikeaalv	['matlab', 'python', 'r']	['c', 'c++', 'perl']	['University of Georgia']	Yue.Wu@uga.edu	['bioinformatics', 'chemometrics', 'ordinary differential equations']	0	0	0	0
 mskwark	['c', 'c++', 'julia', 'python']	['fortran', 'go', 'matlab', 'ruby']	['University of Cambridge']	marcin@skwark.pl	['bioinformatics', 'chemoinformatics', 'computational biology', 'computational chemistry', 'data science', 'machine learning', 'optimization', 'statistics']	0	0	0	0
-mwptrsn	['matlab', 'python']	['scala']	['The MITRE Corporation']	matt@mpeterson.org	['bioinformatics', 'computational biology']	0	1	0	0
+mwptrsn	['matlab', 'python']	['scala']	['MITRE Corporation']	matt@mpeterson.org	['bioinformatics', 'computational biology']	0	1	0	0
 natir	['c', 'c++', 'python', 'rust']	['perl']	['University of Saarland']	pmarijon@mmci.uni-saarland.de	['bioinformatics', 'genome assemblies', 'sequence algorithm']	1	2	0	0
 neurons	['go', 'java', 'python', 'scala']	['c++', 'javascript']	['Uber Technologies']	niranjan.padmanabhan@mail.mcgill.ca	['artificial intelligence', 'bioinformatics', 'computational biology', 'computer science', 'machine learning', 'mathematics', 'software engineering']	0	0	0	0
 nicksisco1932	['julia', 'matlab', 'python']	['r']	['Barrow Neurological Institute']	nicholas.sisco@barrowneuro.org	['computational biology', 'neuroimaging', 'nuclear magnetic resonance', 'structural biology']	0	1	1	1
@@ -129,7 +129,7 @@ sa501428	['java', 'matlab', 'python']	['c++']	['Rice University, Baylor College 
 scleveland	['javascript', 'python', 'ruby']	[]	['University of Hawaii']	seanbc@hawaii.edu	['bioinformatics', 'cyberinfrastructure']	0	0	0	0
 semacu	['python', 'r']	[]	['University of Cambridge, UK']	sermarcue@gmail.com	['bioinformatics', 'chemoinformatics', 'computational biology', 'computational chemistry']	0	0	0	0
 serine	['python', 'r']	[]	['Monash Bioinformatics Platform']	kirill.tsyganov@monash.edu	['bioinformatics', 'packages']	0	3	0	0
-shahmoradi	['fortran', 'matlab', 'python', 'r']	['bash', 'c', 'html', 'idl', 'pascal']	['The University of Texas, Arlington']	shahmoradi@utexas.edu	['astrophysics', 'bayesian probability theory', 'bioinformatics', 'mathematical modeling', 'molecular dynamics', 'monte carlo techniques', 'proteomics', 'scientific computing', 'uncertainty quantification']	1	1	0	0
+shahmoradi	['fortran', 'matlab', 'python', 'r']	['bash', 'c', 'html', 'idl', 'pascal']	['University of Texas, Arlington']	shahmoradi@utexas.edu	['astrophysics', 'bayesian probability theory', 'bioinformatics', 'mathematical modeling', 'molecular dynamics', 'monte carlo techniques', 'proteomics', 'scientific computing', 'uncertainty quantification']	1	1	0	0
 shalinshah1993	['java', 'matlab', 'python']	[]	[]	shalin.shah@duke.edu	['computational biology']	0	0	0	0
 simonvh	['python']	['r']	['Radboud University, Nijmegen, the Netherlands']	simon.vanheeringen@gmail.com	['bioinformatics', 'computational biology', 'epigenomics', 'genomics']	0	0	0	0
 smarkel	['perl', 'python']	['java']	['Dassault Systèmes BIOVIA']	scott.markel@3ds.com	['bioinformatics', 'computational biology']	0	0	0	0
