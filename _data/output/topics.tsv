@@ -1,493 +1,590 @@
 topic	count
-machine learning	352
-bioinformatics	184
-statistics	155
-visualization	117
-data science	112
-physics	97
-computational biology	80
-astrophysics	67
-genomics	62
-natural language processing	60
-high performance computing	58
-computer vision	56
-astronomy	55
-optimization	54
-neuroscience	52
-artificial intelligence	45
-image processing	43
-epidemiology	39
-software engineering	38
-computational chemistry	36
-signal processing	36
-ecology	35
-computational fluid dynamics	34
-geophysics	33
-mathematics	33
-gis	32
-psychology	32
-remote sensing	32
-data analysis	31
-materials science	31
-biology	29
-biostatistics	29
-chemistry	29
-computer science	29
-molecular dynamics	27
-oceanography	26
-neuroimaging	25
+machine learning	440
+bioinformatics	220
+statistics	184
+data science	138
+visualization	132
+physics	114
+computational biology	88
+genomics	80
+natural language processing	78
+astrophysics	74
+computer vision	73
+high performance computing	73
+neuroscience	67
+artificial intelligence	66
+optimization	66
+astronomy	61
+image processing	49
+computational fluid dynamics	47
+epidemiology	44
+software engineering	44
+mathematics	43
+signal processing	43
+ecology	42
+remote sensing	40
+computational chemistry	39
+gis	39
+chemistry	38
+psychology	38
+data analysis	37
+geophysics	37
+biostatistics	36
+materials science	35
+computer science	33
+biology	31
+molecular dynamics	31
+robotics	31
+oceanography	30
+genetics	29
+neuroimaging	28
+time series analysis	28
+network science	27
+hydrology	26
+scientific computing	26
+algorithms	25
 social science	25
-time series analysis	25
-network science	22
-bayesian statistics	21
-genetics	21
-scientific computing	21
-robotics	20
-algorithms	19
-distributed systems	19
+bayesian statistics	24
+distributed systems	22
+graph theory	22
+agent-based modeling	20
+numerical analysis	20
+numerical methods	20
+data mining	19
+geoscience	19
+image analysis	19
+biomechanics	18
 computational physics	18
-geoscience	18
-graph theory	18
-hydrology	18
-numerical analysis	18
-data mining	17
-numerical methods	17
+mechanical engineering	18
+earth science	17
+fluid dynamics	17
+linear algebra	17
+phylogenetics	17
+public health	17
+simulation	17
 big data	16
-earth science	16
-linear algebra	16
-public health	16
-biomechanics	15
-phylogenetics	15
-agent-based modeling	14
+economics	16
+environmental science	16
+systems biology	16
+bayesian inference	15
+biophysics	15
+computational neuroscience	15
+material science	15
+medical imaging	15
+partial differential equations	15
 climate science	14
 cosmology	14
-economics	14
-environmental science	14
-fluid dynamics	14
-systems biology	14
-biophysics	13
-material science	13
-medical imaging	13
-medicine	13
-applied mathematics	12
-chemoinformatics	12
+finite element methods	14
+high-performance computing	14
+medicine	14
+metagenomics	14
+quantum chemistry	14
+web development	14
+applied mathematics	13
+chemical engineering	13
+chemoinformatics	13
+education	13
+network analysis	13
+seismology	13
+spatial analysis	13
+atmospheric science	12
+climate	12
 data management	12
-high-performance computing	12
+dynamical systems	12
+embedded systems	12
+finance	12
+linguistics	12
 markov chain monte carlo	12
-mechanical engineering	12
 meteorology	12
-network analysis	12
-quantum chemistry	12
-atmospheric science	11
-bayesian inference	11
-climate	11
-computational neuroscience	11
+neural networks	12
+operating systems	12
+particle physics	12
+reinforcement learning	12
+reproducibility	12
+causal inference	11
+cloud computing	11
+computational linguistics	11
+computer graphics	11
 data processing	11
-education	11
-finite element methods	11
-image analysis	11
+geosciences	11
 modeling	11
-neural networks	11
-particle physics	11
-seismology	11
-chemical engineering	10
-computational linguistics	10
+optics	11
+physical chemistry	11
+reproducible research	11
+security	11
+spatial statistics	11
+cognitive science	10
+computational mechanics	10
+computational social science	10
 engineering	10
-geosciences	10
+finite element method	10
+geomorphology	10
+geospatial	10
 healthcare	10
-operating systems	10
-optics	10
-reproducible research	10
-simulation	10
-spatial statistics	10
-web development	10
-computational social science	9
-dynamical systems	9
-finance	9
+mathematical modeling	10
+semantic web	10
+statistical modeling	10
+statistical physics	10
+acoustics	9
+combinatorics	9
+data engineering	9
+differential equations	9
+euro-par 2022 special issue	9
 geology	9
-geospatial	9
 information theory	9
-linguistics	9
-mathematical modeling	9
-partial differential equations	9
-physical chemistry	9
-reproducibility	9
-security	9
-spatial analysis	9
-acoustics	8
-causal inference	8
-cognitive science	8
-combinatorics	8
-computer graphics	8
+networking	9
+neuroinformatics	9
+ordinary differential equations	9
+psychometrics	9
+quantum computing	9
+renewable energy	9
+survival analysis	9
+civil engineering	8
+climate modeling	8
 condensed matter physics	8
-finite element method	8
-geomorphology	8
-metagenomics	8
+cryptography	8
+data analytics	8
+databases	8
+distributed computing	8
+finite elements	8
+fluid mechanics	8
+internet of things	8
+iot	8
+math	8
+microscopy	8
+molecular simulation	8
+next-generation sequencing	8
+ontologies	8
+parallel computing	8
+parallel programming	8
 pattern recognition	8
-reinforcement learning	8
-semantic web	8
-statistical modeling	8
-cloud computing	7
+rna seq	8
+social sciences	8
+thermodynamics	8
+transcriptomics	8
+aerospace	7
+agriculture	7
+archaeology	7
+biomedical engineering	7
+clustering	7
+compilers	7
 computational geometry	7
+computational science	7
 control	7
-databases	7
-differential equations	7
+data structures	7
+digital signal processing	7
 eeg	7
-embedded systems	7
 energy	7
-fluid mechanics	7
-internet of things	7
-math	7
-microscopy	7
-molecular simulation	7
-next-generation sequencing	7
-ontologies	7
-ordinary differential equations	7
-parallel programming	7
-psychometrics	7
+energy systems	7
+evolution	7
+evolutionary biology	7
+game theory	7
+mass spectrometry	7
+microbiology	7
+numerical linear algebra	7
+open source software	7
+proteomics	7
 quantum mechanics	7
-social sciences	7
-statistical physics	7
-aerospace	6
+sequencing	7
+structural biology	7
+uncertainty quantification	7
+analytics	6
 apis	6
 atmospheric sciences	6
-biomedical engineering	6
-civil engineering	6
-clustering	6
-computational mechanics	6
-computational science	6
-cryptography	6
-data engineering	6
-digital signal processing	6
-distributed computing	6
+chemical kinetics	6
+docker	6
+dynamics	6
+earth sciences	6
 econometrics	6
+electrochemistry	6
 electronic structure	6
-energy systems	6
-evolution	6
-evolutionary biology	6
-game theory	6
+environmental modeling	6
 geography	6
-iot	6
-microbiology	6
-neuroinformatics	6
-numerical linear algebra	6
-parallel computing	6
+geospatial analysis	6
+gpu	6
+information retrieval	6
+mechanics	6
+operations research	6
 plasma physics	6
-sequencing	6
+probabilistic programming	6
+regression	6
 spatial	6
-uncertainty quantification	6
+systems	6
+testing	6
+web applications	6
 aerospace engineering	5
-agriculture	5
-archaeology	5
 astrodynamics	5
 astroparticle physics	5
+biochemistry	5
 chemometrics	5
-climate modeling	5
-compilers	5
+computational mathematics	5
 control systems	5
-data analytics	5
-data structures	5
-docker	5
-earth sciences	5
-electrochemistry	5
+control theory	5
+cyber security	5
+data assimilation	5
+data wrangling	5
+density functional theory	5
+electrical engineering	5
 evolutionary computation	5
-gpu	5
+fmri	5
+genetic algorithms	5
+health informatics	5
+high energy physics	5
+imaging	5
 inference	5
 instrumentation	5
-mass spectrometry	5
+inverse problems	5
+materials	5
+metabolomics	5
+microbial genomics	5
+microbiome	5
 mpi	5
-networking	5
-open source software	5
-probabilistic programming	5
-proteomics	5
-quantum computing	5
-regression	5
-renewable energy	5
-rna seq	5
+mri	5
+numerical simulation	5
+planetary science	5
+political science	5
+privacy	5
+sequence analysis	5
 software architecture	5
 solar physics	5
+spatial data	5
 spectroscopy	5
-structural biology	5
-survival analysis	5
+structural engineering	5
+tomography	5
 topological data analysis	5
-transcriptomics	5
 water	5
-web applications	5
+web	5
 aerodynamics	4
-analytics	4
+all	4
 anthropology	4
+architecture	4
 audio	4
-chemical kinetics	4
+automation	4
+blockchain	4
+cell biology	4
+citizen science	4
 classification	4
+cloud	4
+cognitive neuroscience	4
 combustion	4
 comparative genomics	4
 complex networks	4
 complex systems	4
+computational biophysics	4
+conservation	4
 containers	4
 crystallography	4
-data munging	4
+cybersecurity	4
+data	4
 digital humanities	4
-dynamics	4
 ecological modeling	4
 evolutionary algorithms	4
+experimental design	4
 fem	4
+finite element	4
 finite element analysis	4
-finite elements	4
-fmri	4
+finite volume methods	4
 forecasting	4
+formal methods	4
+functional data analysis	4
+geodynamics	4
 geographic information systems	4
 geoinformatics	4
-geospatial analysis	4
 health	4
-health informatics	4
-imaging	4
-information retrieval	4
-inverse problems	4
-metabolomics	4
-microbial genomics	4
+heat transfer	4
+infrastructure	4
+mapping	4
+mathematical biology	4
 monte carlo	4
-mri	4
+music	4
 neutron scattering	4
 nonlinear dynamics	4
+nuclear engineering	4
 nuclear physics	4
 numerical modeling	4
+numerical relativity	4
 open science	4
-political science	4
+optimisation	4
+physical oceanography	4
+pipelines	4
+plant science	4
 population genetics	4
-privacy	4
 quantitative finance	4
+quantum information	4
+radio astronomy	4
+regression models	4
 science	4
-sequence analysis	4
+scientific software	4
+simulations	4
 social media	4
-structural engineering	4
-testing	4
-tomography	4
+sociology	4
+solar energy	4
+solid mechanics	4
+solid state physics	4
+statistical mechanics	4
+teaching	4
+tidyverse	4
 virtual reality	4
 virtualization	4
-web	4
 web scraping	4
 aircraft design	3
-all	3
+analytical chemistry	3
 anomaly detection	3
-architecture	3
+api	3
+applied math	3
+applied statistics	3
+artificial life	3
 astronomy & astrophysics	3
+bayesian	3
 bayesian modeling	3
+bioengineering	3
 c++	3
+cancer	3
 cancer biology	3
-citizen science	3
+cartography	3
+chemical physics	3
 climate change	3
 climatology	3
 clinical informatics	3
-cloud	3
 coastal geomorphology	3
 cognitive psychology	3
-computational biophysics	3
+compiler	3
 computational fluid dynamic	3
 computational hydraulics	3
 computational intelligence	3
+computational materials science	3
+computer architecture	3
+computer networks	3
+constraint programming	3
 containerization	3
-cyber security	3
 dark matter	3
-data	3
 data acquisition	3
 data manipulation	3
-density functional theory	3
+data munging	3
+data quality	3
+database	3
 design of experiments	3
+differentiable programming	3
+dimensionality reduction	3
 documentation	3
-electrical engineering	3
+earth observation	3
+ecology and evolution	3
 electromagnetics	3
+electronics	3
 electrophysiology	3
 embedded system	3
 environmental engineering	3
-environmental modeling	3
+environmental sciences	3
 etc.)	3
-finite element	3
-finite volume methods	3
 fluid structure interaction	3
-formal methods	3
 gene expression	3
 gene regulation	3
-genetic algorithms	3
 genomic epidemiology	3
-geodynamics	3
 geometry	3
 geostatistics	3
 gpu computing	3
 graphics	3
 gravitational waves	3
-high energy physics	3
+history	3
 humanities	3
 image reconstruction	3
-infrastructure	3
+immunology	3
+individual-based modeling	3
+jupyter	3
 landscape ecology	3
 latex	3
-mapping	3
+lidar	3
+linear programming	3
 markdown	3
 materials informatics	3
-microbiome	3
+mathematical programming	3
+missing data	3
 molecular biology	3
 molecular dynamics simulation	3
-nuclear engineering	3
+numerical algorithms	3
 numerical optimization	3
-numerical relativity	3
-numerical simulation	3
 numerics	3
 o	3
 open data	3
-operations research	3
-optimisation	3
+optical spectroscopy	3
 orbital mechanics	3
+packages	3
+performance	3
+pharmacology	3
 photogrammetry	3
-pipelines	3
-plant science	3
+photonics	3
+physiology	3
+polymers	3
 power systems	3
 prediction	3
+predictive modeling	3
+project management	3
 psycholinguistics	3
 public policy	3
-quantum information	3
 radar	3
 recommender systems	3
+representation learning	3
+sampling	3
 scattering	3
-scientific software	3
-simulations	3
 social networks	3
-sociology	3
 soft matter physics	3
-solar energy	3
-solid mechanics	3
-solid state physics	3
-spatial data	3
+sports	3
+static analysis	3
 statistical analysis	3
-statistical mechanics	3
+statistical computing	3
 statistical models	3
+structural bioinformatics	3
+structural health monitoring	3
+structural mechanics	3
 synthetic biology	3
-systems	3
-teaching	3
+technology	3
 text processing	3
 theoretical chemistry	3
-thermodynamics	3
 ultrasound	3
 user experience	3
 user interfaces	3
+ux	3
 vision	3
+weather	3
 web apis	3
 workflow tools	3
 3d printing	2
 3d)	2
+adaptive sampling	2
+air pollution	2
 algorithmic bias	2
-api	2
+android	2
 api development	2
-applied math	2
-applied statistics	2
-artificial life	2
 assembly tools	2
-automation	2
+astrostatistics	2
+audio processing	2
+automatic differentiation	2
+automotive	2
 bacterial genomics	2
+batteries	2
+battery modeling	2
 bayesian analysis	2
 bayesian machine learning	2
 bayesian methods	2
 behaviour	2
 bibliometrics	2
-biochemistry	2
 biodiversity informatics	2
-bioengineering	2
+biogeography	2
 bioimage analysis	2
 bioinformatics workflows	2
 biomedical	2
 biomedical imaging	2
-blockchain	2
-cartography	2
+boundary layer meteorology	2
+building energy modeling	2
+building information modeling	2
 celestial mechanics	2
-cell biology	2
-chemical physics	2
 climate sciences	2
+clinical trial	2
+clinical trials	2
+cloud technologies	2
 coastal	2
-cognitive neuroscience	2
 collaborative filtering	2
 communication	2
-compiler	2
 computational	2
 computational biochemistry	2
 computational cardiology	2
+computational cognitive modeling	2
 computational electromagnetics	2
 computational finance	2
 computational fracture mechanics	2
-computational materials science	2
-computational mathematics	2
+computational math	2
 computational methods	2
+computational modeling	2
+computational social sciences	2
 computer aided design	2
 computer networking	2
-computer networks	2
 concurrency	2
 condensed matter	2
-conservation	2
-control theory	2
+controls	2
 corporate finance	2
 criminology	2
 cryosphere	2
 crystal plasticity	2
-cybersecurity	2
+cv	2
 data access	2
-data assimilation	2
+data analysis and visualization	2
 data collection	2
 data handling	2
-data wrangling	2
-database	2
+database design	2
 design	2
-differentiable programming	2
 diffraction	2
-dimensionality reduction	2
+digital health	2
+discontinuous galerkin methods	2
 discrete-event simulation	2
+distributed programming	2
 distributed system	2
 drug discovery	2
 dynamic systems	2
-earth observation	2
 earth surface processes	2
+earth system modeling	2
 earth system science	2
+ecological modelling	2
+ecological statistics	2
+ecotoxicology	2
 educational research	2
 electron microscopy	2
-electronics	2
+energy simulation	2
+energy system modelling	2
 engineering design	2
 environment	2
+environmental data science	2
 epigenetics	2
 epigenomics	2
-experimental design	2
+exoplanets	2
+exploratory data analysis	2
 extreme value theory	2
-factor analysis	2
 fhir	2
+file formats	2
 financial data science	2
+finite difference methods	2
+fishery	2
 fitting	2
 fluid-structure interaction	2
 formal verification	2
-functional data analysis	2
+fortran	2
+frameworks	2
+frequentist statistics	2
+fuel cells	2
 functional programming	2
 gait analysis	2
+galaxy	2
+gaussian processes	2
+general programming	2
 general relativity	2
+generative models	2
 genetic programming	2
 genome analysis	2
 geocomputation	2
 geodesy	2
 geophysical fluid dynamics	2
+geophysical modeling	2
 geospace	2
 geospatial data	2
 geospatial tools	2
+geotechnical engineering	2
 google earth engine	2
 government	2
 gps	2
 graphs	2
-heat transfer	2
+gravity	2
+gui	2
 high performance	2
 high-energy physics	2
-history	2
 human factors	2
 hydraulics	2
+hydrodynamics	2
+hydrogeology	2
 image classification	2
 image registration	2
-immunology	2
-individual-based modeling	2
 infectious diseases	2
 information systems	2
 informetrics	2
+innovation	2
 inorganic chemistry	2
 interpretable machine learning	2
 inverse theory	2
@@ -496,141 +593,188 @@ kinetics	2
 knowledge representation	2
 land cover	2
 land use	2
+language	2
 laser	2
 library and information science	2
-lidar	2
+linear models	2
 linux kernel	2
 logic	2
 logic programming	2
+longitudinal data analysis	2
+machine learning in biology	2
 magnetic resonance imaging	2
-materials	2
+management science	2
+material modeling	2
+materials characterization	2
 materials simulation	2
-mathematical biology	2
-mathematical programming	2
+mathematical optimization	2
 mathematical software	2
 matrix factorization	2
-mechanics	2
 mechatronics	2
+medical applications	2
 medical image computing	2
 medical informatics	2
+medical physics	2
 meg	2
 mesh generation	2
 meshing	2
-meta-analysis	2
 meta-research	2
+microservices	2
+microwave remote sensing	2
+missing values	2
+mixed models	2
+mlops	2
 molecular modeling	2
 molecular simulations	2
+motion analysis	2
+motion capture	2
 multibody dynamics	2
 multiphysics	2
-music	2
+multivariate analysis	2
+multivariate statistics	2
 nanotechnology	2
 natural hazards	2
+network inference	2
 network systems	2
+network visualization	2
 networks biology	2
 neurobiology	2
 neutron diffraction	2
 neutrons	2
 nuclear magnetic resonance	2
-numerical algorithms	2
+numerical integration	2
 numerical mathematics	2
 numerical solution of odes	2
 omics	2
+online research	2
 oop	2
 open source	2
 openmp	2
-optical spectroscopy	2
+optical remote sensing	2
 optimal control	2
-packages	2
+optimization algorithms	2
+optimization methods	2
 parallelism	2
 parallelization	2
-performance	2
+perception	2
 performance analysis	2
 petrophysics	2
 pharmaceutical sciences	2
-pharmacology	2
 phenotyping	2
-photonics	2
-physical oceanography	2
-physiology	2
-planetary science	2
+plasma	2
 policy	2
-predictive modeling	2
+porous materials	2
 process control	2
+program analysis	2
 programming language	2
-project management	2
+programming languages	2
 proteins	2
+protocols	2
 psychophysics	2
+qgis	2
 quantitative genetics	2
+quantum dynamics	2
 radiation transport	2
-radio astronomy	2
-regression models	2
-representation learning	2
-sampling	2
+radiative transfer	2
+raman spectroscopy	2
+record linkage	2
+rehabilitation	2
+reproducible science	2
+research data management	2
+research methods	2
+satellites	2
+scientific computation	2
 scientific programming	2
+scientific workflows	2
+scripts	2
 sem	2
+semiconductor physics	2
 sensitivity analysis	2
 sensors	2
 signal	2
+simulation software	2
 singularity	2
 smart cities	2
+smoothed particle hydrodynamics	2
+soft matter	2
+software engineering and architecture	2
 software metrics	2
 software refactoring	2
 software verification	2
+soil science	2
 solvers	2
 sound	2
 spatial data analysis	2
 spectral methods	2
 speech	2
-sports	2
-static analysis	2
-statistical computing	2
+sport science	2
+sql	2
+statistical	2
 statistical genetics	2
-statistical power	2
+statistical learning	2
+stellar populations	2
 stimulus presentation	2
+stochastic algorithms	2
 stochastic dynamics	2
+stochastic processes	2
+stochastic programming	2
+stochastic simulations	2
 storage	2
-structural bioinformatics	2
 structural dynamics	2
-structural equation modeling	2
-structural health monitoring	2
-structural mechanics	2
+surveys	2
 symbolic regression	2
 system	2
 system programming	2
-technology	2
+taxonomy	2
 tectonic geomorphology	2
 tectonics	2
 telemetry	2
 tensor decomposition	2
 terrain analysis	2
-tidyverse	2
 tight-binding	2
 time domain astronomy	2
+topics	2
 topology	2
+toxicology	2
 transportation	2
+turbulence	2
+turbulence modeling	2
+ui	2
 urban morphology	2
+urban science	2
 usability	2
 user interface	2
-ux	2
 validation	2
-vibrations	2
+vectorization	2
+vision science	2
 wave propagation	2
-weather	2
 web dev	2
 web platforms	2
+web programming	2
 web services	2
 webapps	2
 workflow	2
+workflow management	2
+workflow management systems	2
+workflows	2
 x-ray	2
+x-ray scattering	2
 & tools	1
 (1) geodesy: insar	1
 (2) tectonics: repeating earthquakes	1
 (bio)statistical analysis	1
+(distributionally) robust optimization	1
 (in the field of microbial ecology	1
 (large )linear systems	1
+(magneto)hydrodynamics	1
+(meta)heuristics for combinatorial optimization	1
+(old school) bioinformatics	1
 (possibly) image analysis	1
 (spatial) statistics	1
+(urban) climatology	1
+(web-based) software for psychological assessment	1
 )	1
+-	1
 - atomic physics	1
 - chemical physics	1
 - containers	1
@@ -656,6 +800,7 @@ x-ray	2
 3d analysis and visualization	1
 3d data	1
 3d genome organisation	1
+3d image analysis	1
 3d meshing	1
 3d modeling	1
 3d reconstruction	1
@@ -672,9 +817,12 @@ accounting	1
 acoustic emission	1
 acoustic tracking	1
 acquisition and reconstruction methods	1
+active learning	1
 active matter	1
+activity monitor data processing	1
+actuarial science	1
 adaptive optics	1
-adaptive sampling	1
+additive manufacturing	1
 additive models	1
 advancement in programming languages	1
 adversarial robustness	1
@@ -688,12 +836,13 @@ aggregation	1
 agile	1
 agile development	1
 agile software development	1
+agile transformation	1
 aging	1
 agricultural science	1
+agricultural sciences	1
 ai and ml	1
 ai applied to images	1
 ai embedded computing	1
-air pollution	1
 air quality	1
 air traffic management	1
 algebra	1
@@ -706,10 +855,11 @@ algorithm libraries	1
 algorithmic differentiation	1
 algorithmic game theory	1
 algorithmics	1
+algorithms and complexity theory	1
 alignment	1
+analysis	1
 analysis of algorithms	1
 analysis of sequencing data	1
-analytical chemistry	1
 anatomy	1
 and a bit of astro-informatics	1
 and any codes focussed more on infrastructure (e.g. databases	1
@@ -722,13 +872,17 @@ and particularly packages focused on text analysis	1
 and some data visualization	1
 and topological data analysis	1
 android-apps	1
+ann	1
 anonymity	1
 ansible based tools	1
 antenna	1
 antenna design	1
 antenna theory and design	1
 antennas	1
+antennas and wave propagation	1
+any research software that focuses on user-friendliness and clarity	1
 any?	1
+anything :)	1
 anything having to do with social media data and news data	1
 anything statistics	1
 api design	1
@@ -739,7 +893,9 @@ application programming interfaces	1
 applications (aviation	1
 applications in health services research	1
 applied	1
+applied economics	1
 applied geophysics	1
+applied graph theory	1
 applied machine learning	1
 applied math (depends on application)	1
 applied mathematics (numerical integration of odes	1
@@ -749,54 +905,73 @@ applied open-source software	1
 applied science	1
 applied science (geophysics)	1
 applied statistical methods	1
+approach	1
 approximate bayesian computation	1
 approximate inference	1
 aquacultural science	1
+aquatic biology	1
 aquatic ecology	1
 arbitrary	1
+architectures	1
+armed forces	1
 artifical intelligence	1
+artificial inteligence	1
 artificial intelligence and deep learning	1
 assessment	1
 asset pricing	1
-assumptions	1
 asteroids	1
 asteroseismology	1
+astro physics	1
+astro software	1
 astro-particle physics	1
+astrochemistry	1
+astrometry	1
 astronomical pipelines	1
+astronomy (radio)	1
 astronomy and astrophysics	1
 astronomy and machine learning	1
 astronomy data analysis	1
 astronomy pipeline	1
+astrophysical hydrodynamical simulation or analysis codes	1
 astrophysical simulations or data analysis	1
 astrophysics (my main area of expertise is in stellar physics	1
 astrophysics (stellar nucleosynthesis & galactic chemical evolution)	1
 astrophysics: spectroscopy	1
-astrostatistics	1
+asynchronous algorithms	1
 asynchronous and task-based programming	1
+asynchronous programming	1
 atmosphere	1
 atmosphere and ocean	1
 atmospheric dispersion	1
+atmospheric modeling	1
+atmospheric remote sensing	1
+atomic	1
+atomic force microscopy	1
+atomic simulation software	1
 atomistic simulations	1
-audio processing	1
 audio signal processing	1
+auditory neuroscience	1
 auditory science and signal processing	1
 autism	1
 automated theorem proving	1
 automated verification	1
+automatic code	1
 automatic control	1
-automatic differentiation	1
-automotive	1
+automatic test generation	1
 automotive electronics	1
+autonomous driving	1
 autonomy	1
 aviation	1
 banking	1
+banking and finance	1
 basic machine learning	1
 basic physics	1
 basic robotics	1
-batteries	1
-battery modeling	1
-bayesian	1
+basic stats stuff	1
 bayesian computation	1
+bayesian modelling	1
+bayesian models	1
+bayesian nonparametrics	1
 bayesian optimisation	1
 bayesian optimization	1
 bayesian phylogenetics	1
@@ -813,28 +988,38 @@ behavioural data processing	1
 behavioural science	1
 behavioural tasks	1
 benchmarking	1
+bert	1
 bibliometrix analysis	1
 bibliometry	1
+bifurcation diagram computations	1
 big data analytics	1
+bigdata	1
 bim	1
 bindiffing	1
+bio	1
+bio informatics	1
+bio-inspired design	1
+bio-physics	1
 bioacoustics	1
 biodiversity	1
 biogeochemistry	1
-biogeography	1
 bioimage informatics	1
+bioimpedance	1
 bioinformatics in metagenomics and metabolomics	1
+bioinformatics pipeline	1
 bioinspired	1
 biological	1
+biological data science	1
 biological data visualization	1
 biological imaging analysis	1
 biological modeling software	1
 biological physics	1
-biological sequence analysis	1
 biology medicine life sciences	1
 biology-related software	1
 biology:	1
+biomechancis	1
 biomedical image analysis	1
+biomedical sciences	1
 biomedical signal processing	1
 biomedical signals	1
 biomedicine	1
@@ -845,13 +1030,14 @@ biopsychology	1
 biosignal-processing	1
 biosignals	1
 biotech	1
+biotechnology	1
 birds	1
 blind source separation	1
 blockchain related research	1
+boolean satisfaction	1
 boolean satisfiability	1
 bootstrap	1
 boundary element methods	1
-boundary layer meteorology	1
 boundary value problems	1
 brain	1
 brain data analysis	1
@@ -862,9 +1048,9 @@ browser-based data collection	1
 browser-based tools	1
 build on the software)	1
 build systems	1
-building energy modeling	1
 building energy simulation	1
-building information modeling	1
+building performance simulation	1
+buildings	1
 business process automation	1
 but i also have some background in planetary physics)	1
 but i don't discount the possibility of digging deeper into a topic	1
@@ -875,25 +1061,34 @@ calculations of newtonian gravity	1
 calibration	1
 cancer research	1
 cancer research applications	1
+capacity expansion	1
+carbon accounting	1
 carbon cycle	1
 catalysis	1
 category theory	1
 cd & devops for computational science and engineering	1
 cdisc data standards	1
+cell biophysics	1
+cell signalling	1
 cellular automata	1
 chaos theory	1
 characterization	1
+chatbots	1
 chem comp	1
 chemical evolution	1
+chemical reaction networks	1
 chemistry (mainly materials chemistry)	1
+chemistry and materials	1
 chemo-mechanical	1
 choice modeling	1
 chromatin	1
 chromatin conformation	1
 chromatin modifications	1
+chromatography	1
 ci	1
 circle ci	1
 circuit	1
+city planning	1
 class imbalance	1
 classical mechanics	1
 climate and hydrology	1
@@ -901,9 +1096,8 @@ climate impacts	1
 climate policy	1
 climate policy analysis	1
 clinical data	1
-clinical trial	1
+cloud physics	1
 cloud systems	1
-cloud technologies	1
 cloud-native deployments	1
 cmake	1
 cmb foregrounds	1
@@ -912,15 +1106,21 @@ coarse-graining	1
 coastal and fluvial geomorphology	1
 coastal engineering	1
 coastal geology	1
+code generation	1
+cognition	1
 cognitive	1
 cognitive and computational neuroscience	1
+cognitive behavior	1
 cognitive diagnosis models	1
 cognitive diagnostic models	1
 cognitive engineering	1
 cognitive modeling	1
 cognitive neuro	1
+cognitive robotics	1
 cognitive science and cognitive modeling	1
 cognitive sciences	1
+collaboration	1
+collaborative tools	1
 collection and manipulation	1
 collective intelligence	1
 colloids	1
@@ -936,9 +1136,11 @@ community	1
 community detection in graphs	1
 community ecology	1
 community health	1
+comp chemistry	1
 comparative linguistics	1
 comparative linguistis	1
 competitive programming	1
+compiler implementation	1
 compiler tools	1
 complex adaptive systems	1
 complex contagions	1
@@ -949,15 +1151,18 @@ complex event processing	1
 complex network analysis	1
 complex systems models	1
 complex systems science	1
+complexity	1
 compressed sensing	1
+compressible flow	1
 computable law	1
 computation	1
+computation fluid dynamics	1
+computation heat transfer	1
 computation physics	1
 computational and applied mathematics	1
 computational and systems biology	1
 computational biology and bioinformatics	1
 computational chemistry materials science	1
-computational cognitive modeling	1
 computational complexity	1
 computational contact mechanics	1
 computational disease modeling	1
@@ -967,14 +1172,18 @@ computational fluiddynamics	1
 computational genomics	1
 computational geology	1
 computational geophysics	1
+computational glaciology	1
 computational humour	1
 computational hydrodynamics	1
 computational hydrology and hydraulic	1
+computational imaging	1
 computational immunology	1
 computational material physics	1
 computational material science	1
+computational materials chemistry	1
 computational materials sicence	1
-computational modeling	1
+computational matsci	1
+computational modelling	1
 computational models	1
 computational molecular science	1
 computational natural sciences	1
@@ -988,12 +1197,14 @@ computational psychology	1
 computational science and engineering	1
 computational science and engineering & high-performance computing	1
 computational social science and finance	1
+computational sociology	1
 computational statistical mechanics	1
 computational topology	1
+computational workflow management systems	1
 compute vision	1
 computed tomography data analysis	1
 computer algebra	1
-computer architecture	1
+computer algebra systems	1
 computer arithmetic	1
 computer assisted interventions	1
 computer games ai	1
@@ -1003,16 +1214,17 @@ computer security	1
 computer-aided assessment etc	1
 computer-aided education	1
 computers in art	1
+computing	1
 computing education	1
 computing science	1
 concurrency platforms	1
 condensed matter science	1
-confidence intervals	1
+confidential computing	1
 conflict	1
 connectome	1
 conservation biology	1
 constitutive modeling	1
-constraint programming	1
+constitutive theory	1
 constraint-satisfaction	1
 construction	1
 construction informatics	1
@@ -1020,107 +1232,144 @@ contact mechanics	1
 contact patterns	1
 container	1
 containerisation) or data science	1
+contamination - dashboards	1
+continuation of solutions	1
 continuous deployment	1
 continuous integration	1
+continuum mechanics	1
 continuum simulations	1
 control design	1
 control engineering	1
 control systems for hardware	1
 control systems theory	1
-controls	1
 convex optimization	1
 convex optimization algorithms	1
 cool stars	1
+copulas and dependence modeling	1
 copyleft	1
 copyright	1
 cosmic rays	1
 cosmochemistry	1
 cosmological parameter estimation	1
 cosmology and astrophysics	1
+cost function networks	1
+cp modeling languages	1
 crack	1
+creative commons licensing	1
 crime	1
 crop	1
+crowdsourcing	1
+cryptanalysis	1
 cryptocurrency	1
+crystal structure prediction	1
 crystallization	1
 crystallographic texture	1
 cuda	1
 cultural evolution	1
-cv	1
+cyber-physical systems	1
 cyberattack	1
 cyberinfrastructure	1
+cybint	1
 dark matter direct detection	1
-data analysis and visualization	1
 data and ml pipelines	1
 data architecture and back-end	1
+data collecting	1
 data compression	1
 data cubes	1
+data engines	1
 data envelopment analysis	1
 data ethics	1
 data i	1
+data infrastructure	1
 data integration	1
 data management and manipulation	1
 data minirg	1
 data modeling and munging	1
 data munching	1
+data operations	1
 data packages	1
 data packaging	1
 data plotting	1
 data processing esp. astrophysics	1
 data processing pipelines	1
-data quality	1
 data quality (including missing data)	1
 data reduction	1
 data science & machine learning	1
+data science .computer science	1
 data science and machine learning	1
 data science data engineering	1
 data science for industry	1
 data software	1
 data sonification	1
 data streams	1
+data summarization	1
 data tidying	1
 data workflow	1
 data wrangling (eye-tracking	1
 data-driven engineering	1
+data-driven physics	1
 data-grabbing	1
 database architecture	1
-database design	1
 database development	1
+database management	1
+database management systems	1
+database system	1
+database systems	1
 debian packaging	1
 debugging	1
 decentralized identities	1
 decision automation	1
 deductive software verification	1
+deduplication	1
+deep learning (particularly dl systems	1
+deep learning applications	1
 defect detection and quantification	1
 delaunay triangulations	1
 demand modeling	1
+demographic issues	1
 dense linear algebra	1
+depression	1
 design of experiment	1
 design optimization	1
 desktop applications	1
 detector physics	1
 development lifecycle	1
+development tooling	1
 development tools	1
+developmental biology	1
 developments in c	1
 devsecops	1
 dft	1
+dft calculations)	1
+dft postprocessing	1
 diagnostic classification models	1
 dialectology	1
 dicom	1
+differential equations solvers	1
+digital circuit design	1
 digital documentation	1
-digital health	1
+digital education	1
 digital humanities (?)	1
 digital humanties	1
 digital image correlation	1
 digital rights	1
+digital transformation	1
 dimension reduction	1
 dimension reduction methods	1
 dimensionality reducation	1
 direct-detection dark matter searches	1
-discontinuous galerkin methods	1
 discrete element method	1
+discrete mathematics	1
+discrete optimization	1
 disease mapping	1
 dislocation dynamics	1
+disorder thermodynamics	1
 distributed algorithms	1
+distributed and parallel technologies	1
+distributed cloud	1
+distributed deep learning	1
+distributed table formats	1
+distributed training	1
 district energy modeling	1
 diversity	1
 diversity & inclusion	1
@@ -1128,6 +1377,7 @@ django	1
 dna conservation	1
 dna metabarcoding	1
 dna sequence analysis	1
+dnint)	1
 dnssec	1
 docker applications	1
 document analysis	1
@@ -1136,9 +1386,13 @@ document production	1
 doe	1
 driver modeling	1
 drones	1
+drug development	1
 drupal	1
 dsmc	1
+dsp	1
+dynamic models	1
 dynamical modeling	1
+dynamical system	1
 dynamics & controls	1
 dynamics on networks	1
 earth	1
@@ -1146,9 +1400,9 @@ earth and climate science (preferred: geomorphology	1
 earth and environmental science	1
 earth and planetary sciences	1
 earth landforms and processes	1
+earth observations	1
 earth sciencies	1
 earth surface dynamics	1
-earth system modeling	1
 earth system models	1
 earthquake deformation	1
 earthquake science	1
@@ -1156,10 +1410,8 @@ earthquake swarm	1
 ebsd	1
 ecg imaging	1
 eco-evolutionary dynamics	1
+ecological data	1
 ecological informatics	1
-ecological modelling	1
-ecological statistics	1
-ecology and evolution	1
 ecommerce	1
 econ	1
 economic development	1
@@ -1167,20 +1419,27 @@ economics. management	1
 economics: option pricing	1
 economy	1
 ecosystem	1
-ecotoxicology	1
+ecosystem services	1
+ecotoxicological risk assessment	1
+edge computing	1
 edo	1
+edtech platoforms	1
 educational assessment and psychometrics	1
 educational measurement	1
 educational software	1
+educational technology	1
 eeg etc)	1
 eeg)	1
 eeg+emg analysis	1
-effect size	1
+efdcfd	1
 ehr	1
 eigenvalues eigenvectors	1
+elasticity	1
 elasticity and geometry	1
+electoral issues	1
 electric energy	1
 electric vehicles	1
+electroencephalography analysis	1
 electromagnetic	1
 electromagnetic methods	1
 electromagnetic modeling	1
@@ -1193,42 +1452,55 @@ electronic structure theory	1
 electrophysiology methods (meg	1
 element	1
 elisa)	1
+ellipsometry	1
 embedded	1
 embedded firmware	1
 embedded hpc	1
 emerging technologies	1
+emg	1
 emissions	1
 emphasis on materials modeling	1
 empirical software engineering	1
+empirical studies	1
 encryption	1
+energu	1
 energy engineering	1
 energy forecasting	1
 energy hub optimization	1
-energy simulation	1
+energy market modelling	1
+energy optimisation	1
+energy storage	1
 energy storage materials	1
+energy system	1
+energy system data analysis	1
 energy system modeling	1
-energy system modelling	1
 energy system optimisation	1
 energy system optimisation models	1
 energy systems modeling	1
+energy systems modelling	1
+energy-water nexus	1
+engineering (materials	1
+engineering mechanics	1
 engineering science and mechanics	1
+engineering skills	1
 enhanced sampling	1
 enhancer biology	1
 ensemble learning	1
 enterprise portals	1
+entity resolution	1
 environment and ecology	1
 environment related areas	1
 environmental & earth sciences	1
-environmental data science	1
 environmental fate and transport	1
 environmental health	1
 environmental healthy	1
 environmental microbiology)	1
 environmental programming	1
-environmental sciences	1
 environmental studies	1
 environment，psychometrics，graphics	1
+epanet	1
 epidemiological modeling	1
+epilepsy	1
 especially condensed matter	1
 especially focused towards communication and political science	1
 especially processing of microscopic images	1
@@ -1239,10 +1511,15 @@ estimation	1
 ethical ai	1
 ethics	1
 ethics in code	1
+ethnology	1
+etl tools	1
+euler equations	1
 euroimaging	1
 evidence synthesis	1
+evolutionary genomics	1
 evolutionary optimization	1
-exoplanets	1
+evolutive algorithms	1
+evolved stars	1
 experiment building	1
 experiment data analysis (physics or ee based)	1
 experimental chemistry	1
@@ -1252,7 +1529,6 @@ experimental results in:	1
 expert systems	1
 explainable machine learning	1
 exploit development	1
-exploratory data analysis	1
 extreme values	1
 eye tracking	1
 eye tracking pupillometry	1
@@ -1260,6 +1536,7 @@ eye-tracking	1
 eye-tracking and computer vision	1
 eyetracking	1
 face recognition	1
+factor analysis	1
 fair research	1
 family	1
 fast transforms	1
@@ -1268,27 +1545,34 @@ fault tolerance	1
 feature extraction	1
 feature extraction in satellite imagery or topographic data	1
 feature selection	1
+feature store	1
 federal grants	1
+fib-sem	1
 fiber optic sensors	1
 fibrous materials	1
 file format	1
-file formats	1
 file i	1
 file processing	1
 finance and insurance	1
 financial fraud detection	1
 financial machine learning	1
 financial risk	1
-finite difference methods	1
+finite	1
+finite element methods for numerical solutions to pde	1
 finite element simulation	1
+finite mixture models	1
 finite volume	1
 finite volume)	1
 finite-element methods	1
+first principle calculation	1
+fisheries	1
 flexible structures	1
 flight mechanics	1
 flood risk	1
 flow assurance	1
 flow cytometry	1
+flow visualisation	1
+fluid dynamics and heat transfer	1
 fluid flow imaging	1
 fluid solid interaction	1
 fluid structure interactions	1
@@ -1297,32 +1581,33 @@ fluvial geomorphology	1
 fmm	1
 fmri)	1
 foia	1
+food modeling	1
 forensics	1
 formal logic	1
-fortran	1
 fortran tools	1
 framework	1
-frameworks	1
 free-electron lasers	1
 frequency analysis	1
-frequentist statistics	1
 front end development	1
-fuel cells	1
+full stack development	1
 funcional programming	1
 functional and structural neuroimaging	1
 functional connectivity	1
+functional data	1
 functional mri	1
 functional paradigms	1
 fuzzy	1
 fuzzy logic	1
+fuzzy matching	1
 fuzzy systems	1
+gait	1
 galaxies	1
-galaxy	1
 game dev	1
+game development	1
+games	1
 gamess	1
 gamma rays	1
 gaussian graphical models	1
-gaussian processes	1
 gc-ms	1
 geant4 simulation	1
 general	1
@@ -1335,20 +1620,24 @@ general data science	1
 general modeling	1
 general numeric	1
 general open-source	1
+general physics	1
 general physics and mathematics	1
-general programming	1
 general purpose r work	1
 general science	1
 general scientific	1
+general software	1
 general software development and data science tools	1
 general stats and machine learning when i understand it :)	1
+general thermo-fluid sciences	1
 general-purpose tools	1
 generalized additive mixed models	1
 generalized additive models	1
 generalized linear models	1
 generative adverserial networks	1
+genetic algorithms and genetic programs	1
 genome assemblies	1
 genome assembly	1
+genome assembly and genome annotation	1
 genome contamination	1
 genome-wide association studies	1
 genomics and bioinformatics	1
@@ -1357,7 +1646,11 @@ genomics data	1
 genotyping	1
 geo spatial	1
 geobiology	1
+geochemistry	1
+geographic data science	1
+geographic information science	1
 geographic science	1
+geographical data science	1
 geography and spatial statistics	1
 geological modeling	1
 geomatics	1
@@ -1367,10 +1660,11 @@ geometric data analysis	1
 geometric manipulation	1
 geometric modeling	1
 geometric search	1
+geometry processing	1
 geomorph	1
 geophysical data analysis	1
 geophysical exploration	1
-geophysical modeling	1
+geophysical monitoring	1
 geoscience tools	1
 geosimulations	1
 geospatial apis	1
@@ -1380,10 +1674,13 @@ geospatial data science	1
 geospatial information systems	1
 geospational data analysis	1
 geotechnical	1
-geotechnical engineering	1
+geotechnical software	1
+gis (geographic information systems)	1
 giscience	1
+git	1
 github actions	1
 glacier	1
+glacio-isostatic adjustment	1
 glaciology	1
 glam	1
 global models	1
@@ -1391,49 +1688,57 @@ global optimization	1
 good software engineering practises	1
 gpgpu	1
 gpu acceleration	1
+gpu programming	1
 gpus	1
 gradient boosting	1
 grain structures	1
+graph neural networks	1
+graphical model	1
 graphical user interface	1
 graphical user interfaces	1
 graphs & graph databases	1
 gravitational physics	1
 gravitational-wave astronomy	1
 gravitational-waves	1
-gravity	1
 gravity geodesy	1
 green-house gas emissions	1
 grid	1
 grid computing	1
 gross-pitaevskii	1
-gui	1
 gui design	1
 guis	1
 guis (qt)	1
 gwas	1
+handwritten text recognition	1
 harmonic analysis	1
 hazardous waste	1
 health analytics	1
 health and medicine	1
+health care	1
 health care research	1
 health domain	1
 health science	1
 health services	1
 health-informatics	1
+healthcare ai	1
 healthcare programs	1
 healthit	1
 heart rate variability	1
+heat pumps	1
 heliophysics	1
 heliophysics solar physics	1
 heterogeneous computing	1
 high energy density physics	1
 high performance computing (hpc)	1
+high throughput computing	1
+high-dimension	1
 high-dimensional data	1
 high-energy astrophysics	1
 high-energy x-ray diffraction	1
 high-perfomance computing	1
 high-performance clusters	1
 high-performance computing (openmp	1
+high-throughput calculation	1
 high-throughput data processing	1
 higher abstraction stuff for modeling in general (e.g. 'parameter sweep management')	1
 higher education	1
@@ -1449,28 +1754,32 @@ htc frameworks	1
 htmlwidgets	1
 human behaviour analysis	1
 human brain imaging	1
+human computation	1
 human computer interaction	1
 human evolution	1
 human exposure	1
 human genomics	1
 human kinematics	1
+human memory	1
 human movement	1
 human physiology	1
 human systems integration	1
 human-computer interaction	1
 human-computer interfaces	1
 human-robot interaction	1
+hvac	1
 hybrid energy system	1
 hydraulic machinery	1
 hydraulic structures	1
-hydrodynamics	1
 hydrodynamics (shock capturing and modeling in particular)	1
-hydrogeology	1
+hydrological modeling	1
 hydrology topics - expertise: groundwater	1
 hydrology)	1
 hydropower	1
 hyper-heuristics	1
+hyperbolic equations	1
 hypergeometric functions	1
+hyperspectral imaging	1
 hypervisor	1
 i am a psychology researcher. i work mostly with verbal report scales (rating scales)	1
 i'm interested in making sure that r packages for modeling have useful and intuitive interfaces and documentation. i'm not interested in double checking theory and correctness	1
@@ -1480,13 +1789,16 @@ ice nucleation	1
 ict	1
 identifiability	1
 ieeg	1
+image	1
 image analysis (2d	1
 image and signal processing	1
 image processing in earth sciences	1
 image recognition	1
 image segmentation	1
 image-processing	1
+imaging data	1
 imaging science	1
+imint	1
 immersed boundary method	1
 immersed finite element methods	1
 immersive analytics	1
@@ -1494,34 +1806,49 @@ impact mechanics	1
 impedance spectroscopy	1
 impedance tomography	1
 implementation	1
+imputation	1
 imus	1
+incl. sigint	1
 including cleaning	1
+income distributions	1
 industrial automation	1
 industrial ecology	1
+industrial informatics	1
 industrial organization	1
 inertial measure unit	1
 infant development	1
 infectious disease	1
 infectious disease modeling	1
 inference algorithms	1
+inference speedups)	1
 inferential statistic	1
+influence diagnostics y residual analysis	1
 informatics and neuroinformatics	1
 information architecture	1
 information archival	1
+information science	1
+information security	1
 information spreading	1
 information technology	1
 informed machine learning	1
 infrastructure as code	1
 infrastructure automation	1
 infrastructure tools	1
+infrastructure-as-code	1
 infrostructure and big data	1
-innovation	1
+injection	1
+inorganic materials	1
+instrument automation	1
 instrument control	1
 instrumentation (data acquisition and analysis)	1
+insurance	1
 integrated assessment	1
 integration of programming languages	1
 integration)	1
+intelligence (collection	1
 interfacing with medical products	1
+interlinking	1
+internal combustion engines	1
 international development	1
 international safeguards techniques	1
 international trade	1
@@ -1532,17 +1859,22 @@ interpretability	1
 interpretable	1
 interpreters	1
 interstellar medium	1
+invasion ecology	1
+inverse problem	1
 io	1
 ion data analysis	1
+ipython	1
 ipywidgets	1
 isomorphism search	1
 item response theory	1
 iterative linear solvers	1
 iterative solvers	1
+joint species distribution models	1
 json-ld	1
 julia	1
 jump	1
-jupyter	1
+kalman filtering	1
+kalman filters	1
 keras	1
 kernel methods	1
 kinesiology	1
@@ -1552,13 +1884,20 @@ knot theory	1
 knowledge discovery	1
 knowledge diversity	1
 knowledge extraction	1
+knowledge graph	1
 knowledge management	1
+krylov methods	1
 kubernetes	1
 l1 regularization	1
 labstraming layer	1
 lagrangian meshes	1
+land	1
+land cover and land use	1
 land use and land cover change	1
+land use change	1
+land-atmosphere interactions	1
 landscape	1
+landscapes evolution model	1
 landslides	1
 langevin dynamics	1
 language design	1
@@ -1579,35 +1918,44 @@ ldap)	1
 learning	1
 learning analytics	1
 legacy application refactoring tools	1
+legal - i have 20 years of experience as a lawyer	1
 les	1
 li-ion batteries	1
 life cycle assessment (lca)	1
 life modeling	1
+life sciences	1
 life sciences (especially techniques like pcr	1
 light scattering	1
+likelihood	1
 likelihood-free inference	1
 limnology	1
 linear & nonlinear dynamical systems	1
-linear models	1
-linear programming	1
+linear and nonlinear regression	1
 linear regression	1
+linear solvers	1
 linear systems iterative methods	1
 linguistics nlp neuroimaging digital humanities text analysis experimental survey software etc	1
+link rot	1
 linux containers (docker	1
 linux distribution	1
 literature	1
+llvm compilers	1
 load balancing	1
 load disaggregation	1
 local search heuristics	1
 log collection	1
 logic synthesis	1
+logistics	1
 long distance signalling	1
 long reads	1
 longitudinal data	1
 longitudinal designs	1
+low carbon and sustainable computing	1
+lp	1
 m	1
 m2m communication	1
 machine language	1
+machine learning (applications	1
 machine learning (for audio)	1
 machine learning and data science	1
 machine learning and related mathematics	1
@@ -1616,29 +1964,41 @@ machine learning as applied to the above	1
 machine learning for other domains as well	1
 machine learning in healthcare	1
 machine learning libraries	1
+machine learning models (especially supervised learning)	1
+machine learning procedures	1
 machine translation	1
 machine vision algorithms	1
 macos tools & utilities	1
 macroevolution	1
 macromolecular docking	1
 magnetics	1
+magnetoenceophalography analysis	1
 magnetohydrodynamics	1
 magnetohydrodynamics (i have worked a lot on non-ideal mhd in particular)	1
+management	1
+manifold learning	1
 manipulation	1
 manufacturing systems	1
 many body condensed matter physics	1
 many core	1
 mapreduce	1
+maps	1
+marine biogeography	1
 marine conservation	1
 marine ecology	1
+marine geology	1
+marine microbiology	1
 marine technology	1
 market microstructure	1
+marketing and behavioral	1
 markov processes	1
 markup languages	1
 massively scalable software	1
 matching algorithms	1
 material science characterisation	1
-materials characterization	1
+material synthesis	1
+math (especially number theory and combinatorics)	1
+math libraries	1
 mathematical and statistical modelling	1
 mathematical goesciences	1
 mathematical libraries	1
@@ -1646,19 +2006,24 @@ mathematical logic	1
 mathematical modelling	1
 mathematical models	1
 mathematical oncology	1
-mathematical optimization	1
 mathematical techniques	1
 maths	1
 matlab	1
+mcas	1
 mcmc based optimizations (e.g	1
+mdo	1
 measurement models	1
 mechanical	1
+mechanical enginieering	1
+mechanical proofs	1
+mechanical)	1
 mecânica	1
 mediawiki	1
 medical	1
-medical applications	1
 medical computer science	1
+medical image analyses	1
 medical image analysis	1
+medical images	1
 medical imaging and processing	1
 medical simulation	1
 medical studies	1
@@ -1666,42 +2031,50 @@ medicine statistic	1
 meg signal processing	1
 melnikov analysis	1
 mental fatigue	1
+mental health	1
 mesh datastructure	1
+mesh generation and adaptivity	1
 meshfree methods	1
 meshless methods	1
 messaging	1
 meta learning	1
+meta research	1
+meta-analysis	1
 meta-programming	1
 meta-science	1
 metaanalysis	1
+metabolic modeling	1
 metaheuristics	1
 metals	1
+metascience	1
+meteocean data modeling	1
 meteorites and other forms of dust in the solar system)	1
 methodology	1
 metocean data processing	1
 metropolis monte carlo	1
+mhealth	1
 micro controllers	1
 micro services	1
 microarray	1
 microbial	1
 microbial ecology	1
+microbiome science	1
 microeconomics	1
 microscopy data analysis	1
-microservices	1
 microstructure evolution	1
+microwave	1
 microwave engineering	1
 microwave imaging	1
-microwave remote sensing	1
 middleware	1
 milps	1
 mineral physics	1
-missing values	1
+mip	1
 mission planning	1
 mixed effect models	1
 mixed layer oceanography	1
-mixed models	1
 mixing	1
 mixture models	1
+ml tooling	1
 mle	1
 mmilps)	1
 mobile app	1
@@ -1716,9 +2089,11 @@ model checkers	1
 model comparison	1
 model development	1
 model emulation	1
+model evaluation	1
 model fitting	1
 model frameworks	1
 model optimization	1
+model order reduction	1
 model predictive control	1
 model reduction	1
 model selection	1
@@ -1726,8 +2101,15 @@ model simulators	1
 model-driven engineering	1
 modeling and simulation	1
 modeling engineering systems	1
+modeling software	1
+modeling systems	1
+modellation	1
 modelling	1
 modelling frameworks	1
+models of planetary atmospheres	1
+models' performance metrics	1
+molecular	1
+molecular and optical physics	1
 molecular communications	1
 molecular dynamic	1
 molecular dynamics simulations	1
@@ -1735,14 +2117,16 @@ molecular ecology	1
 molecular evolution	1
 molecular genetics	1
 molecular graphics	1
+molecular modelling (molecular dynamics	1
+molecular physics	1
 molecular simulation and analysis	1
+molecules	1
 monitoring	1
 monte carlo simulations	1
 monte carlo techniques	1
 most things with a science application	1
-motion analysis	1
-motion capture	1
 motion planning	1
+movement data	1
 movement tracking	1
 mpi)	1
 mqtt)	1
@@ -1753,18 +2137,18 @@ multi-code language interfaces	1
 multi-material flow	1
 multi-physics frameworks & applications	1
 multi-threaded programming	1
-multilevel modeling	1
+multimedia production and pipelines	1
 multimedia retrieval	1
+multimodal integration	1
 multiomics tools	1
 multiphysics simulation	1
-multiple regression	1
 multiple sclerosis	1
 multipole calculations	1
 multiscale	1
 multiscale simulations	1
-multivariate analysis	1
-multivariate statistics	1
+multizone airflow analysis	1
 muscle physiology	1
+muscle synergies	1
 musculoskeletal modeling	1
 music information retrieval	1
 music processing	1
@@ -1772,27 +2156,33 @@ n-body	1
 n-body simulations	1
 nanophysics	1
 nanopore	1
+nanoscale transport	1
 nanoscience	1
 natural computing	1
+navier-stokes equations	1
 navigation	1
 nbody	1
+nearby galaxies	1
 nested sampling	1
+netcdf	1
 network	1
 network data	1
-network inference	1
+network modeling	1
 network models	1
 network protocols and implementations (dns	1
 network security	1
+network simulations	1
 network visualisation	1
-network visualization	1
 networking systems	1
 networkx	1
 neural style transfer	1
+neuroengineering	1
 neuroimaging (eeg	1
 neuroimaging (fmri	1
 neuroimaging (mri	1
 neuroinformatics. fmri data analysis. data quality control	1
 neuromorphic	1
+neuromorphic computing	1
 neurophysiology	1
 neuroscience of language	1
 neutron data analysis	1
@@ -1802,60 +2192,78 @@ neutron sciences	1
 neutron simulation	1
 new programing languages	1
 nextflow	1
+ngs pipelines	1
 nilm	1
 non linear solid mechanics	1
 non profit	1
+non-linear dynamics	1
+nonadiabatic molecular dynamics	1
 nondestructive testing	1
 nonlinear multiphysics simulation	1
 nonlinear sciences	1
 nonlinear waves	1
+nonparametric statistics	1
 nosql databases	1
 not a neuroimaging expert though)	1
+not algorithms)	1
 novelty detection	1
 nuclear fuel cycles	1
 nuclear fusion	1
+nuclear reaction networks	1
 nucleic acids	1
 numeric optimisation	1
 numeric packages	1
 numerical colorations	1
+numerical computation	1
 numerical computing	1
 numerical data processing (unless requiring specialist domain specific knowledge outside of the areas listed above)	1
-numerical integration	1
+numerical differential equations	1
+numerical method	1
 numerical methods (finite element	1
 numerical methods and simulations	1
 numerical methods for multiphase flows	1
 numerical methods for odes and pdes	1
 numerical methods for ordinary and partial differential equations	1
 numerical pdes	1
+numerical quadratures	1
 numerical simulations	1
 numerical software	1
 numerical solution of pdes	1
 nutrition	1
 object detection	1
+ocean modelling	1
 ode models	1
+ojs	1
 olap	1
 omics analyses	1
 omics integration	1
 online	1
-online research	1
+online communities	1
+online research tools	1
+ontologies (owl)	1
 oo	1
 open advocacy & publishing	1
 open infrastructure	1
+open quantum systems	1
 open research	1
 open source development	1
 open source licensing	1
 open-source publishing	1
+open-source software development	1
 openbim	1
+opensource software tool	1
+operating systems and kernel modules	1
 operation research	1
 operational research	1
+operations research in general	1
 optical coherence tomography	1
-optical remote sensing	1
+optical communication	1
 optical wave propagation	1
+optimal design	1
 optimisation research	1
+optimisation software	1
 optimization algorithm	1
-optimization algorithms	1
 optimization and optimal control	1
-optimization methods	1
 optimization: modeling (lps	1
 orbit determination	1
 orbital calculations	1
@@ -1863,6 +2271,8 @@ ordinary & partial differential equations	1
 organic electronics	1
 organisational psychology	1
 oscillations	1
+osint	1
+other data wrangling stuff	1
 other f# projects after taking a first look	1
 other physics depending on complexity	1
 other quantitative sustainability software	1
@@ -1871,7 +2281,9 @@ outlier detection	1
 package managers	1
 palaeontology	1
 pandas	1
+parallel	1
 parallel & pgas runtimes	1
+parallel algorithms	1
 parallel and concurrent programming	1
 parallel cloud computation	1
 parallel numerical software	1
@@ -1893,26 +2305,38 @@ pathogen genomics	1
 pathogen genomics (bacteria	1
 pathway-based data integration and visualization	1
 pathways	1
+pattern formation	1
 pattern matching	1
+pattern recognition and automation	1
+pde-constrained inverse problems	1
+pde-constrained optimization	1
+pdes and odes	1
 pedestrian dynamics	1
 pedestrians dynamics	1
 pediatrics	1
-perception	1
+pentration-testing	1
 performance analysis & performance engineering tools	1
 performance optimization	1
 performance portability	1
+peridynamics	1
+persistent links	1
 pest modeling	1
 petroleum exploration	1
 petroleum geology	1
 pharmaceuticals	1
+pharmacognosy	1
 pharmacokinetics	1
 phase amplitude coupling	1
+phase field modeling	1
 phase transitions	1
 phase-field	1
 phase-field modeling	1
 phonetics	1
 phonetics and speech sciences	1
+photometry	1
+photovoltaic	1
 photovoltaics	1
+photovoltics	1
 phylodynamics	1
 phylogenetic comparative methods	1
 phylogeography	1
@@ -1924,15 +2348,20 @@ physical simulation	1
 physical simulations	1
 physics (most classical like mechanics or electric fields	1
 physics and software for instrumentation	1
+physics informed machine learning	1
 physics of complex systems	1
+physics simulations and machine learning packages	1
 physics simulators	1
 physics:	1
 physiological signal processing	1
 physiology modeling	1
+phytochemistry	1
 pipeline management	1
+pl theory	1
 planetary sciences	1
+planning and control	1
+plant breeding	1
 plant genetic resources	1
-plasma	1
 plasmonics	1
 plasticity	1
 plotting in python	1
@@ -1941,11 +2370,11 @@ point cloud data	1
 point clouds	1
 pointclouds	1
 politics	1
-polymers	1
 polynomials	1
 population dynamics	1
 population genomics	1
-porous materials	1
+pose detection	1
+pose estimation	1
 postestimation	1
 power plant design and simulation	1
 ppi	1
@@ -1955,7 +2384,10 @@ predictive analytics	1
 predictive models	1
 predictive processing	1
 primarily atomistic modeling	1
+privacy preserving computing	1
+probabilistic machine learning	1
 probabilistic methods	1
+probabilities and statistics	1
 probability	1
 probability statistics	1
 probability theory	1
@@ -1964,16 +2396,19 @@ process optimization	1
 process simulation	1
 process-level data analyses and preprocessing	1
 processes	1
+processing	1
 product design	1
+production engineering	1
 products	1
 profiling and performance optimisation	1
 prognostics & health monitoring	1
 program diffing	1
 program generation	1
+program synthesis	1
+program verification	1
 programmable infrastructure	1
 programming language design	1
 programming language runtimes	1
-programming languages	1
 programming languages program analysis	1
 programming models	1
 programs	1
@@ -1983,14 +2418,16 @@ property management and logistics	1
 protein docking	1
 protein science	1
 protein structure	1
-protocols	1
 psychiatry	1
 psychoacoustics	1
 psychological methods	1
+psychology and medicine data analysis	1
+psychology and neuroscience	1
 psychology of language	1
 psychology-related software	1
 psychopharmacology	1
 psychophysiology	1
+ptsd	1
 public access	1
 public administration	1
 public engagement	1
@@ -1998,39 +2435,52 @@ public health (have been published on all 3 topics)	1
 pupillometry	1
 pure math	1
 pyrometallurgy	1
+pyspark	1
 python applications	1
 python libraries	1
+python modules	1
 python programming	1
+pytorch	1
 qed	1
-qgis	1
 qtl etc	1
+qualitative research	1
 qualitative research-related software	1
 quant finance	1
 quantitative archaeology	1
 quantitative ecology	1
 quantitative systems pharmacology	1
 quantitative trait modelling	1
+quantum algorithms	1
 quantum analysis packages	1
 quantum cognition	1
 quantum control	1
 quantum dynamics pde (schrodinger	1
 quantum field theory	1
+quantum machine learning	1
 quantum optics	1
 quantum physics	1
+question answering	1
+r package	1
+r packages in general	1
 radial basis functions	1
 radiation measurements	1
-radiative transfer	1
+radiation oncology medical physics	1
+radiation therapy	1
+radiation transport in diffusion approximation	1
 radio communications	1
 radioactive waste management	1
 rails	1
 random forest	1
+random forests	1
 random graphs	1
 rans simulation	1
+rare diseases	1
 rare variants	1
 raster	1
 rbf-fd	1
 rdf	1
 reaction engineering	1
+reactive dynamics	1
 reactor physics methods & applications	1
 real option analysis	1
 real time processing	1
@@ -2043,7 +2493,8 @@ reasoning	1
 recommendation engines	1
 recommendation systems	1
 recommender system	1
-record linkage	1
+reduced-order modeling in parametric pde	1
+regional economics	1
 regression (parametric or non-parametric)	1
 regression modeling	1
 regulation	1
@@ -2061,27 +2512,31 @@ remote sensing of the cryosphere	1
 remote sensing tools	1
 remote-sensing	1
 repeated events	1
+research	1
 research and development	1
 research computing	1
-research data management	1
-research methods	1
 research software	1
 research transparency	1
 resource allocation	1
+resource economics	1
 respiration	1
 rest	1
 rest apis	1
+restful api	1
 restful apis	1
 restoration	1
 reverse engineering	1
 rewriting	1
 rf	1
+rf engineering	1
+rheology	1
 risk	1
 risk assessment	1
 river hydraulics	1
 river transport processes	1
 rmd	1
 rna biology	1
+rna design	1
 robotic operating systems(ros)	1
 robotics path planning	1
 robust statistics	1
@@ -2100,38 +2555,46 @@ sat solvers	1
 satellite data	1
 satellite images	1
 satellite positioning	1
-satellites	1
 scada	1
+scanning electron microscopy	1
 scenario analysis	1
+scheduling	1
 scheduling)	1
 scholarly communications	1
+science data processing pipelines	1
 sciences	1
+scientific	1
 scientific code	1
-scientific computation	1
 scientific computer	1
 scientific computing for earth sciences	1
 scientific image understanding	1
 scientific instrumentation	1
+scientific instruments control	1
 scientific software for nuclear or mechanical engineering	1
 scientific visualization (2d	1
 scientific web infrastructure	1
 scientific workflow management	1
-scientific workflows	1
 scientometrics	1
 scientometry	1
-scripts	1
+sdes	1
+sdr	1
+search engines	1
 search pipelines (e.g. source finding)	1
+search-based algorithms	1
+search-based software engineering	1
 secure coding	1
 security tools	1
 sediment production	1
+sediment transport	1
 sedimentolgoical & geomorphological tools	1
 sedimentology	1
 seismic	1
 seismic design of structures	1
+seismic imaging	1
+seismic methods	1
 seismic wave propagation	1
 semantic analysis	1
 semantic segmantation	1
-semiconductor physics	1
 semiconductors	1
 sems)	1
 sensor fusion algorithms	1
@@ -2146,13 +2609,15 @@ set theory	1
 shape parametrization	1
 shell scripting	1
 shiny applications	1
+shock-capturing	1
+shockwaves	1
 shortest path problems	1
 signal processing and machine learning (in medical applications)	1
 signal-analysis	1
 simd	1
+similarity metrics	1
 simulation engineering systems	1
 simulation of physical systems	1
-simulation software	1
 simulation technology	1
 simulation-based inference	1
 single cell	1
@@ -2166,27 +2631,35 @@ single-molecule	1
 singularity)	1
 sis mixers	1
 skill scores	1
+slam	1
+small area estimation	1
 small body science (asteroids	1
 smart materials	1
-smoothed particle hydrodynamics	1
+smoothed particle hydrodynamics softwares	1
 snow	1
+snow and glacier	1
 snow science	1
 snv calling	1
 snvs	1
+social dynamics	1
+social media analysis	1
 social models	1
+social network analysis	1
 social psychology	1
 social science codes	1
-soft matter	1
 soft robotics	1
+software configurability	1
 software defined radios and networks	1
 software design	1
 software development methodologies	1
+software engineering tools	1
 software evolution	1
 software licensing	1
 software maintainability	1
 software process improvement	1
 software project management	1
 software quality	1
+software quality assurance	1
 software relating to hardware development	1
 software security	1
 software sustainability	1
@@ -2194,12 +2667,17 @@ software testing and automation	1
 software to compute simulations and analyse simulation	1
 software tooling	1
 software tools	1
+software-defined networking	1
 software-defined radio (sdr) technologies	1
+software-defined systems	1
 soil	1
-soil science	1
+soil-structure interaction	1
 solar cells	1
 solar pv simulation	1
+solar radiation data	1
+solar resource assessment	1
 solar technology	1
+solar thermal	1
 solid body dynamics	1
 solid body statics & dynamics	1
 solid state	1
@@ -2210,17 +2688,20 @@ some behavioral observation	1
 some ecology	1
 some machine learning	1
 some math and physics	1
+sound source localization	1
 sowftware characterisation and profiling	1
 space geodesy	1
 space mission design	1
 space physics	1
 space science	1
 spacecraft	1
+spatial analytics	1
 spatial data infrastructures	1
 spatial data visualization	1
 spatial epidemiology	1
 spatial features	1
 spatial hearing	1
+spatial modeling	1
 spatial modelling	1
 spatial networks	1
 spatial omics	1
@@ -2231,75 +2712,94 @@ spatial science	1
 spatial sciences	1
 spatial structure	1
 spatio-temporal models	1
+spatio-temporal statistics	1
 spatiotemporal	1
+spatiotemporal data	1
+species distribution models	1
+specifically linux	1
 specifically related to the electric grid	1
+spectral data	1
+spectral element methods	1
+spectral energy distributions	1
 spectral matching	1
 spectrometry	1
+speech recognition	1
+speech recognition signal processing audio processing	1
+sport analysis	1
 sport analytics	1
-sport science	1
-sql	1
+sports analytics	1
+sptial statistics	1
+sql code	1
 stan	1
+standardization	1
 standards	1
+state space models	1
 state-and-transition modeling	1
 state-space modeling	1
-statistical	1
 statistical genomics	1
 statistical image analysis	1
 statistical inference	1
-statistical learning	1
 statistical methods	1
 statistical methods for data modeling in physics	1
 statistical packages	1
+statistical power	1
 statistical process control	1
 statistical software	1
 statistical-relational-artificial-intelligence	1
 statistics (hierarchical models	1
+statistics (social science-ish)	1
+statistics and data analysis	1
 statistics for psychological and social sciences	1
 statistics for risk	1
 statistics in medicine	1
 statistics only when very rudimentary	1
 statistics optimization and machine learning	1
+steganalysis	1
+steganography	1
 stellar	1
 stellar activity	1
+stellar evolution	1
 stellar flares	1
 stellar modeling	1
 stellar oscillations	1
 stellar physics	1
-stellar populations	1
-stochastic processes	1
-stochastic programming	1
 stochastic sampling	1
 stochastic simulation	1
-stochastic simulations	1
 stratocumulus cloud models	1
 string diagrams	1
 structural analysis	1
+structural equation modeling	1
 structural equation models	1
 structural geology modelling	1
 structural integrity and metal fatigue	1
 structural variant	1
 structural variation	1
+structure learning	1
 study protocols	1
 sub-terrestrial geophysics	1
 supercomputers	1
 superconductivity	1
 supernovae	1
 supervised + unsupervised learning	1
+supervised learning	1
 support vector machine	1
 surface dating	1
 surgery	1
 surrogate model	1
 survey analysis	1
 survey research	1
-surveys	1
+survey sampling	1
+sustainability and the environment	1
 sustainable development	1
 sustainable energy	1
 symbolic algebra	1
 symbolic calculations in physics	1
 symbolic computations	1
+synchrotron physics	1
 synchrotron radiation	1
 synchrotrons	1
 system calibration	1
+system design	1
 system dynamics	1
 system integration	1
 system modeling	1
@@ -2315,17 +2815,20 @@ systems genetics	1
 systems neuroscience	1
 systems software	1
 task design	1
-taxonomy	1
 teaching material for programming in life sciences	1
 teaching programming	1
+telecom	1
 telecommunications and orchestration	1
 telephony	1
+tem	1
 template meta programming	1
 template meta-programming	1
 temporal logic	1
+temporal-spatial analysis	1
 tensegrity	1
 tensegrity structures	1
 tensor algebra	1
+tensor networks	1
 tensorflow)	1
 terahertz sensing	1
 termodinâmica	1
@@ -2333,11 +2836,15 @@ terrestrial	1
 test	1
 test automation	1
 testing (unit	1
+testing methodology	1
 testing procedures	1
+tests	1
 text analytics	1
 text indexing and parsing	1
 text-based games	1
 theorem provers	1
+theorem proving	1
+theoretical biology	1
 theoretical chemistryphysical chemistry	1
 theoretical computational chemistry	1
 theoretical ecology	1
@@ -2347,18 +2854,25 @@ thermal engineering	1
 thermal transport	1
 thermodynamics and kinetics	1
 thermodynamics and thermochemistry	1
+threat-modeling	1
+tidy design	1
+tidyverse-related r packages	1
 time-integration methods	1
 time-series prediction	1
 tools	1
 tools that facilitate data analysis	1
 topic modeling	1
-topics	1
+topographic analysis	1
 topological data analysis and time series	1
 topology optimization method	1
-toxicology	1
+toxicolgy	1
+toxinology	1
+tracking data	1
 trajectory inference	1
 trajectory optimization	1
+transformers	1
 transition modeling	1
+transport modeling	1
 transport networks	1
 transport phenomena	1
 transport studies	1
@@ -2367,13 +2881,12 @@ tropical cyclones	1
 tropical forest ecology	1
 trusted software	1
 tumor drug target prediction	1
-turbulence	1
-turbulence modeling	1
 typesetting	1
 uas inspections	1
 ubiquitous computing	1
-ui	1
 ui design	1
+ultrafast spectroscopy	1
+ultrasonic imaging	1
 uml	1
 unfitted	1
 unix systems	1
@@ -2389,76 +2902,97 @@ urban geography	1
 urban hydraulic	1
 urban hydrology	1
 urban mobility	1
-urban science	1
+urban planning	1
 urban studies	1
+urban sustainability	1
+urls	1
 use of ai and open source in climate change	1
-variable selection	1
 variant calling	1
+variational inference	1
 various algorithms	1
 vector transformation routines	1
-vectorization	1
 vegetation remote sensing	1
 vehicle routing	1
+verification	1
+vibrations	1
 video	1
+video processors	1
 video tracking	1
+virology	1
 virtual element methods	1
-vision science	1
+visual navigation	1
+visual perception	1
+visualization and rendering	1
 vlsi cad	1
 voice recognition	1
+volcano-seismology	1
+volcanology	1
 volume data visualization	1
 volume methods	1
 volunteered geographic information	1
 voronoi tessellations	1
+vr	1
 vulnerability research	1
+vulnerability-assessments	1
 waste management	1
+water distribution systems	1
 water quality	1
 water quality and quantity modeling	1
 water quality monitoring	1
 water resources	1
+watershed modeling	1
+wave equations	1
+wave modeling	1
 wave propagation in solids	1
 wcet analyses	1
 wearable computing	1
 wearables	1
 wearables data	1
+weather and climate	1
 web and application data	1
 web and cloud infrastructure	1
 web and mobile apps	1
 web api	1
+web application	1
+web apps	1
 web based software	1
+web basesd tools	1
 web browser	1
 web dev tools	1
 web interfaces	1
 web portals	1
-web programming	1
 web standards	1
 web technologies	1
 web technology	1
 web uis	1
 web-based applications	1
 web-development	1
+website	1
 welding metallurgy	1
 wet lab image analysis	1
 wfe nexus	1
 wikimedia	1
 wind power	1
 wind turbine simulation	1
+wireless communications	1
 wireless sensor network	1
 wireless sensor networks	1
 wood structures	1
+wordpress	1
 workflow development	1
-workflow management	1
-workflow management systems	1
-workflows	1
 workforce	1
 would consider others - like thermodynamics or quantum mechanics - in individual decisions)	1
 wrapping existing apis	1
 x-ray and neutron scattering techniques	1
 x-ray diffraction	1
+x-ray imaging	1
 x-ray optics	1
-x-ray scattering	1
+x-ray science	1
 x-ray spectroscopy	1
 x-ray techniques	1
+x-ray windows	1
 x-rays	1
 xml	1
 xray science	1
+young star formation	1
 zoonoses	1

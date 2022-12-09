@@ -1,76 +1,100 @@
 [
   {
-    "username":"7omasz",
-    "languages_primary":[
+    "username": "7omasz",
+    "languages_primary": [
       "java",
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Pfizer"
     ],
-    "email":"tomasz.adamusiak@gmail.com",
-    "topics":[
+    "email": "tomasz.adamusiak@gmail.com",
+    "topics": [
       "bioinformatics",
       "clinical informatics",
       "medicine",
       "ontologies"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"AhmedArslan",
-    "languages_primary":[
+    "username": "AhmedArslan",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Stanford University"
     ],
-    "email":"aarslan@stanford.edu",
-    "topics":[
+    "email": "aarslan@stanford.edu",
+    "topics": [
       "bioinformatics",
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"Andreirozanski",
-    "languages_primary":[
+    "username": "Andreirozanski",
+    "languages_primary": [
       "bash",
       "c++",
       "python",
       "ruby"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Mpi CBG"
     ],
-    "email":"Rozanskide@gmail.com",
-    "topics":[
+    "email": "Rozanskide@gmail.com",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"AoifeHughes",
-    "languages_primary":[
+    "username": "AnthonyOfSeattle",
+    "languages_primary": [
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
+      "bash",
+      "c++"
+    ],
+    "affiliations": [
+      "Genome Sciences, University of Washington"
+    ],
+    "email": "valenta4@uw.edu",
+    "topics": [
+      "bioinformatics",
+      "cell signalling",
+      "machine learning",
+      "mass spectrometry",
+      "proteomics"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "AoifeHughes",
+    "languages_primary": [
       "c",
       "c++",
       "matlab",
@@ -78,82 +102,85 @@
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c#",
       "java",
       "lisp"
     ],
-    "affiliations":[
+    "affiliations": [
       "John Innes Centre"
     ],
-    "email":"aoife.hughes@jic.ac.uk",
-    "topics":[
+    "email": "ahughes@turing.ac.uk",
+    "topics": [
+      "climate modeling",
       "computational biology",
       "computer vision",
+      "data wrangling",
       "genotyping",
+      "jupyter",
       "machine learning",
       "mathematical modeling",
       "microscopy data analysis",
       "phenotyping",
+      "physics",
       "plant science",
       "quantitative trait modelling",
       "statistics",
       "systems biology"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":1
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 1
   },
   {
-    "username":"BjornFJohansson",
-    "languages_primary":[
+    "username": "BjornFJohansson",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Minho"
     ],
-    "email":"bjorn_johansson@bio.uminho.pt",
-    "topics":[
+    "email": "bjorn_johansson@bio.uminho.pt",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"Bonidia",
-    "languages_primary":[
+    "username": "Bonidia",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "php"
     ],
-    "affiliations":[
+    "affiliations": [
       "USP",
       "USP – Universidade de São Paulo"
     ],
-    "email":"robservidor@gmail.com",
-    "topics":[
+    "email": "robservidor@gmail.com",
+    "topics": [
       "artificial intelligence",
       "bioinformatics",
       "machine learning",
       "pattern recognition"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"Ebedthan",
-    "languages_primary":[
+    "username": "Ebedthan",
+    "languages_primary": [
       "bash",
       "javascript",
       "perl",
@@ -161,113 +188,115 @@
       "r",
       "rust"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "bash",
       "c",
       "c++",
       "java"
     ],
-    "affiliations":[
+    "affiliations": [
       "Bioinformatic Team, Institut National Polytechnique Félix Houphouët-Boigny",
       "Institut National Polytechnique Félix Houphouët-Boigny"
     ],
-    "email":"anicet.ebou@gmail.com",
-    "topics":[
+    "email": "anicet.ebou@gmail.com",
+    "topics": [
       "algorithms",
       "bioinformatics",
       "genomics",
       "metagenomics"
     ],
-    "active_reviews":2,
-    "total_reviews":4,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 2,
+    "total_reviews": 6,
+    "recent_year_reviews": 2,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"GeekLogan",
-    "languages_primary":[
+    "username": "GeekLogan",
+    "languages_primary": [
+      "c++",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Michigan"
     ],
-    "email":"loganaw@umich.edu",
-    "topics":[
+    "email": "loganaw@umich.edu",
+    "topics": [
       "bioinformatics",
       "data science",
+      "genetics",
       "genomics",
       "neuroinformatics",
       "neuroscience"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 2,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"HTian1997",
-    "languages_primary":[
+    "username": "HTian1997",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java"
     ],
-    "affiliations":[
+    "affiliations": [
       "Southern Methodist University"
     ],
-    "email":"haot@smu.edu",
-    "topics":[
+    "email": "haot@smu.edu",
+    "topics": [
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"HadrienG",
-    "languages_primary":[
+    "username": "HadrienG",
+    "languages_primary": [
       "bash",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "javascript",
       "rust"
     ],
-    "affiliations":[
+    "affiliations": [
       "SLU"
     ],
-    "email":"hadrien.gourle@slu.se",
-    "topics":[
+    "email": "hadrien.gourle@slu.se",
+    "topics": [
       "bioinformatics",
       "databases"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"JDRomano2",
-    "languages_primary":[
+    "username": "JDRomano2",
+    "languages_primary": [
       "c++",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "java",
       "javascript"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Pennsylvania"
     ],
-    "email":"joseph.romano@pennmedicine.upenn.edu",
-    "topics":[
+    "email": "joseph.romano@pennmedicine.upenn.edu",
+    "topics": [
       "artificial intelligence",
       "bioinformatics",
       "data integration",
@@ -276,240 +305,312 @@
       "machine learning",
       "ontologies"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"JonnyTran",
-    "languages_primary":[
+    "username": "JonnyTran",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java",
       "javascript",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Texas at Arlington"
     ],
-    "email":"nhat.tran@uta.edu",
-    "topics":[
+    "email": "nhat.tran@uta.edu",
+    "topics": [
       "bioinformatics",
       "machine learning"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"Komalharini237",
-    "languages_primary":[
+    "username": "Komalharini237",
+    "languages_primary": [
       "c++",
       "mysql",
       "perl",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "bioperl",
       "biopython",
       "java",
       "linux"
     ],
-    "affiliations":[
+    "affiliations": [
       "Guru Nanak Khalsa College, Mumbai"
     ],
-    "email":"kharinirt237@gmail.com",
-    "topics":[
+    "email": "kharinirt237@gmail.com",
+    "topics": [
       "bioinformatics",
       "desktop applications"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"MikeTrizna",
-    "languages_primary":[
+    "username": "MaximLippeveld",
+    "languages_primary": [
+      "java",
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
+      "c",
+      "c++"
+    ],
+    "affiliations": [
+      "Ghent University"
+    ],
+    "email": "lippeveld.maxim@gmail.com",
+    "topics": [
+      "bioinformatics",
+      "data science",
+      "distributed programming",
+      "image analysis",
+      "machine learning"
+    ],
+    "active_reviews": 2,
+    "total_reviews": 3,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 1
+  },
+  {
+    "username": "MikeTrizna",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Smithsonian Institution"
     ],
-    "email":"triznam@si.edu",
-    "topics":[
+    "email": "triznam@si.edu",
+    "topics": [
       "biodiversity informatics",
       "bioinformatics",
       "data science"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"MohmedSoudy",
-    "languages_primary":[
+    "username": "MmasterT",
+    "languages_primary": [
+      "go",
+      "python"
+    ],
+    "languages_secondary": [
+      "go"
+    ],
+    "affiliations": [
+      "Earlham institute"
+    ],
+    "email": "mariano.olivera-fedi@earlham.ac.uk",
+    "topics": [
+      "bioinformatics",
+      "genome assembly and genome annotation",
+      "metagenomics",
+      "structural biology"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "MohmedSoudy",
+    "languages_primary": [
       "c",
       "c#",
       "c++",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "python",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Research Associate, Proteomics & Metabolomics Unit, Basic Research, Children's cancer hospital 57357"
     ],
-    "email":"Mohmedsoudy2009@gmail.com",
-    "topics":[
+    "email": "Mohmedsoudy2009@gmail.com",
+    "topics": [
       "bioinformatics",
       "machine learning",
       "proteomics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"NatalieThurlby",
-    "languages_primary":[
+    "username": "NatalieThurlby",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "bash",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Bristol"
     ],
-    "email":"natalie.thurlby@bristol.ac.uk",
-    "topics":[
+    "email": "natalie.thurlby@bristol.ac.uk",
+    "topics": [
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"Nazeeefa",
-    "languages_primary":[
+    "username": "Nazeeefa",
+    "languages_primary": [
       "awk",
       "bash",
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Lund University"
     ],
-    "email":"fatima.nazeefa@gmail.com",
-    "topics":[
+    "email": "fatima.nazeefa@gmail.com",
+    "topics": [
       "bioinformatics",
       "biostatistics",
       "computational biology",
       "genomics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"RHagenson",
-    "languages_primary":[
+    "username": "RHagenson",
+    "languages_primary": [
       "go",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "bash",
       "pony",
       "r",
       "snakemake"
     ],
-    "affiliations":[
+    "affiliations": [
       "Omaha's Henry Doorly Zoo and Aquarium"
     ],
-    "email":"Ryan.Hagenson@gmail.com",
-    "topics":[
+    "email": "Ryan.Hagenson@gmail.com",
+    "topics": [
       "bioinformatics",
       "genomics",
       "population genetics",
       "structural bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"Rgcjk",
-    "languages_primary":[
+    "username": "Rgcjk",
+    "languages_primary": [
       "c++",
       "fortran",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java",
       "matlab",
       "really i’ll do anything"
     ],
-    "affiliations":[
+    "affiliations": [
       "Sandia National Laboratories"
     ],
-    "email":"ryangcoleman@gmail.com",
-    "topics":[
+    "email": "ryangcoleman@gmail.com",
+    "topics": [
       "algorithms",
       "computational biology",
       "computational chemistry",
       "computational geometry",
       "computer science"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"SantosRAC",
-    "languages_primary":[
+    "username": "Robaina",
+    "languages_primary": [
+      "python"
+    ],
+    "languages_secondary": [
+      "javascript",
+      "r"
+    ],
+    "affiliations": [
+      "University of La Laguna"
+    ],
+    "email": "srobaina@ull.edu.es",
+    "topics": [
+      "bioinformatics",
+      "computational biology",
+      "metabolic modeling",
+      "metagenomics"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "SantosRAC",
+    "languages_primary": [
       "perl",
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "State University of Campinas"
     ],
-    "email":"renatoacsantos@gmail.com",
-    "topics":[
+    "email": "renatoacsantos@gmail.com",
+    "topics": [
       "bioinformatics",
       "genomics",
       "teaching material for programming in life sciences",
       "transcriptomics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"TahiriNadia",
-    "languages_primary":[
+    "username": "TahiriNadia",
+    "languages_primary": [
       "c",
       "c++",
       "html",
@@ -517,15 +618,15 @@
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "javascript",
       "matlab"
     ],
-    "affiliations":[
+    "affiliations": [
       "Université de Sherbrooke"
     ],
-    "email":"Nadia.Tahiri@USherbrooke.ca",
-    "topics":[
+    "email": "Nadia.Tahiri@USherbrooke.ca",
+    "topics": [
       "bioinformatics",
       "classification",
       "clustering",
@@ -533,20 +634,20 @@
       "public health",
       "risk assessment"
     ],
-    "active_reviews":1,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 2,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"TomKellyGenetics",
-    "languages_primary":[
+    "username": "TomKellyGenetics",
+    "languages_primary": [
       "bash",
       "python",
       "r",
       "shell"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "julia",
       "mathematica",
       "matlab",
@@ -554,11 +655,10 @@
       "rust",
       "wolfram"
     ],
-    "affiliations":[
-
+    "affiliations": [
     ],
-    "email":"tom.kelly@riken.jp",
-    "topics":[
+    "email": "tom.kelly@riken.jp",
+    "topics": [
       "(bio)statistical analysis",
       "bioinformatics",
       "genomics data",
@@ -568,37 +668,58 @@
       "parallel computing",
       "single-cell analysis"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":2,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"VarIr",
-    "languages_primary":[
+    "username": "VarIr",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Austrian Research Institute for Artificial Intelligence"
     ],
-    "email":"roman.feldbauer@ofai.at",
-    "topics":[
+    "email": "roman.feldbauer@ofai.at",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "data mining",
       "machine learning"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"VivekTodur",
-    "languages_primary":[
+    "username": "VeroniqueLegrand",
+    "languages_primary": [
+      "c++",
+      "python"
+    ],
+    "languages_secondary": [
+      "c"
+    ],
+    "affiliations": [
+      "IT department, Institut Pasteur"
+    ],
+    "email": "veronique.legrand@pasteur.fr",
+    "topics": [
+      "bioinformatics",
+      "high performance computing"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "VivekTodur",
+    "languages_primary": [
       "awk",
       "c",
       "c++",
@@ -609,64 +730,63 @@
       "r",
       "shell script"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       ".net",
       "c#",
       "java",
       "web applications"
     ],
-    "affiliations":[
+    "affiliations": [
       "Eurofins Clinical Genomics"
     ],
-    "email":"ntvivek@gmail.com",
-    "topics":[
+    "email": "ntvivek@gmail.com",
+    "topics": [
       "bioinformatics",
       "genomics",
       "microarray",
       "next-generation sequencing",
       "sequence analysis"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"a-r-j",
-    "languages_primary":[
+    "username": "a-r-j",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Cambridge"
     ],
-    "email":"arj39@cam.ac.uk",
-    "topics":[
+    "email": "arj39@cam.ac.uk",
+    "topics": [
       "bioinformatics",
       "machine learning"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"a-slide",
-    "languages_primary":[
+    "username": "a-slide",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "bash",
       "cython"
     ],
-    "affiliations":[
+    "affiliations": [
       "EMBL-EBI"
     ],
-    "email":"aleg@ebi.ac.uk",
-    "topics":[
+    "email": "aleg@ebi.ac.uk",
+    "topics": [
       "bioinformatics",
       "classification",
       "computational biology",
@@ -676,85 +796,83 @@
       "sequencing",
       "visualization"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"abotzki",
-    "languages_primary":[
+    "username": "abotzki",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "VIB",
       "VIB Bioinformatics Core, VIB"
     ],
-    "email":"alexander.botzki@vib.be",
-    "topics":[
+    "email": "alexander.botzki@vib.be",
+    "topics": [
       "bioinformatics",
       "chemoinformatics",
       "structural bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"afrendeiro",
-    "languages_primary":[
+    "username": "afrendeiro",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
     ],
-    "email":"afrendeiro@gmail.com",
-    "topics":[
+    "email": "afrendeiro@gmail.com",
+    "topics": [
       "bioinformatics",
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"afrubin",
-    "languages_primary":[
+    "username": "afrubin",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Walter and Eliza Hall Institute of Medical Research"
     ],
-    "email":"alan.rubin@wehi.edu.au",
-    "topics":[
+    "email": "alan.rubin@wehi.edu.au",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "genetics",
       "genomics",
       "protein science"
     ],
-    "active_reviews":0,
-    "total_reviews":6,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":1
+    "active_reviews": 0,
+    "total_reviews": 6,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"amadeusine",
-    "languages_primary":[
+    "username": "amadeusine",
+    "languages_primary": [
       "c++",
       "haskell",
       "julia",
@@ -762,7 +880,7 @@
       "rust",
       "typescript"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c#",
       "futhark",
@@ -771,11 +889,11 @@
       "r",
       "ruby"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Kansas"
     ],
-    "email":"lim@ku.edu",
-    "topics":[
+    "email": "lim@ku.edu",
+    "topics": [
       "computational biology",
       "embedded systems",
       "geometry",
@@ -783,191 +901,214 @@
       "logic",
       "optimization"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"andim",
-    "languages_primary":[
+    "username": "andim",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Princeton University"
     ],
-    "email":"andimscience@gmail.com",
-    "topics":[
+    "email": "andimscience@gmail.com",
+    "topics": [
       "computational biology",
       "optimization"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"andremrsantos",
-    "languages_primary":[
+    "username": "andremrsantos",
+    "languages_primary": [
       "python",
       "r",
       "ruby"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "bash",
       "c",
       "c++",
       "html",
       "javascript"
     ],
-    "affiliations":[
+    "affiliations": [
       "Universidade Federal do Pará"
     ],
-    "email":"andremrsantos@gmail.com",
-    "topics":[
+    "email": "andremrsantos@gmail.com",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "statistics"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"andreysmelter",
-    "languages_primary":[
+    "username": "andreysmelter",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Kentucky Markey Cancer Center"
     ],
-    "email":"andrey.smelter@gmail.com",
-    "topics":[
+    "email": "andrey.smelter@gmail.com",
+    "topics": [
       "bioinformatics",
       "software engineering"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"aponsero",
-    "languages_primary":[
+    "username": "anilbey",
+    "languages_primary": [
+      "c++",
+      "python"
+    ],
+    "languages_secondary": [
+      "c",
+      "c#",
+      "java"
+    ],
+    "affiliations": [
+      "Scientific Software Developer"
+    ],
+    "email": "tuncel.manil@gmail.com",
+    "topics": [
+      "bioinformatics",
+      "data science",
+      "machine learning",
+      "neuroscience",
+      "software engineering"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "aponsero",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
-
+    "affiliations": [
     ],
-    "email":"aponsero@email.arizona.edu",
-    "topics":[
+    "email": "aponsero@email.arizona.edu",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"arose",
-    "languages_primary":[
+    "username": "arose",
+    "languages_primary": [
       "glsl",
       "javascript",
       "python",
       "typescript"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "java"
     ],
-    "affiliations":[
+    "affiliations": [
       "UC San Diego, RCSB PDB"
     ],
-    "email":"alexander.rose@weirdbyte.de",
-    "topics":[
+    "email": "alexander.rose@weirdbyte.de",
+    "topics": [
       "bioinformatics",
       "chem comp",
       "molecular dynamics",
       "molecular graphics"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"artgoldberg",
-    "languages_primary":[
+    "username": "artgoldberg",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Mount Sinai School of Medicine"
     ],
-    "email":"Arthur.Goldberg@mssm.edu",
-    "topics":[
+    "email": "Arthur.Goldberg@mssm.edu",
+    "topics": [
       "computational biology",
       "discrete-event simulation",
       "dynamical modeling"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"arvestad",
-    "languages_primary":[
+    "username": "arvestad",
+    "languages_primary": [
       "c",
       "c++",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "perl"
     ],
-    "affiliations":[
+    "affiliations": [
       "Stockholm University"
     ],
-    "email":"arve@math.su.se",
-    "topics":[
+    "email": "arve@math.su.se",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"asntech",
-    "languages_primary":[
+    "username": "asntech",
+    "languages_primary": [
       "php",
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "NCMM, University of Oslo, Norway",
       "Stanford University"
     ],
-    "email":"azizk@stanford.edu",
-    "topics":[
+    "email": "azizk@stanford.edu",
+    "topics": [
       "application programming interfaces",
       "bioinformatics",
       "enhancer biology",
@@ -976,94 +1117,91 @@
       "open science",
       "web interfaces"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"ayaanhossain",
-    "languages_primary":[
+    "username": "ayaanhossain",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Penn State University"
     ],
-    "email":"ain.hoss07@gmail.com",
-    "topics":[
+    "email": "ain.hoss07@gmail.com",
+    "topics": [
       "bioinformatics",
       "genomics",
       "synthetic biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"ayush9pandey",
-    "languages_primary":[
+    "username": "ayush9pandey",
+    "languages_primary": [
       "matlab",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c++"
     ],
-    "affiliations":[
+    "affiliations": [
       "California Institute of Technology"
     ],
-    "email":"ayush.9.pandey@gmail.com",
-    "topics":[
+    "email": "ayush.9.pandey@gmail.com",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "control systems theory",
       "synthetic biology",
       "systems biology"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"azneto",
-    "languages_primary":[
+    "username": "azneto",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Embrapa"
     ],
-    "email":"azneto@gmail.com",
-    "topics":[
+    "email": "azneto@gmail.com",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"baileythegreen",
-    "languages_primary":[
+    "username": "baileythegreen",
+    "languages_primary": [
       "bash",
       "latex",
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Strathclyde"
     ],
-    "email":"baileythegreen@gmail.com",
-    "topics":[
+    "email": "baileythegreen@gmail.com",
+    "topics": [
       "bioinformatics",
       "documentation",
       "genetics",
@@ -1072,165 +1210,126 @@
       "typesetting",
       "visualization"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":1
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"bblum9",
-    "languages_primary":[
+    "username": "bblum9",
+    "languages_primary": [
       "bash",
       "c++",
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Boston University School of Medicine"
     ],
-    "email":"bblum@bu.edu",
-    "topics":[
+    "email": "bblum@bu.edu",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "statistics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"benjamin-lee",
-    "languages_primary":[
+    "username": "benjamin-lee",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Harvard University"
     ],
-    "email":"benjamin_lee@college.harvard.edu",
-    "topics":[
+    "email": "benjamin_lee@college.harvard.edu",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "evolutionary algorithms",
       "machine learning",
       "nutrition"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"betteridiot",
-    "languages_primary":[
+    "username": "betteridiot",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c++",
       "javascript",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Michigan, Department of Computational Medicine & Bioinformatics"
     ],
-    "email":"mdsherman@betteridiot.tech",
-    "topics":[
+    "email": "mdsherman@betteridiot.tech",
+    "topics": [
       "big data",
       "bioinformatics",
       "genetics",
       "genomics",
       "structural variation"
     ],
-    "active_reviews":0,
-    "total_reviews":4,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 4,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"bgyori",
-    "languages_primary":[
-      "c++",
-      "html",
-      "java",
-      "javascript",
-      "python",
-      "r",
-      "sql"
-    ],
-    "languages_secondary":[
-      "c++",
-      "html",
-      "java",
-      "javascript",
-      "r",
-      "sql"
-    ],
-    "affiliations":[
-      "Harvard Medical School",
-      "Laboratory of Systems Pharmacology Harvard Medical School"
-    ],
-    "email":"ben.gyori@gmail.com",
-    "topics":[
-      "bioinformatics",
-      "biology-related software",
-      "mathematical modeling",
-      "molecular biology",
-      "systems biology"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
-    "username":"billchenxi",
-    "languages_primary":[
+    "username": "billchenxi",
+    "languages_primary": [
       "c++",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "javascript",
       "matlab"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Kentucky"
     ],
-    "email":"billchenxi@uky.edu",
-    "topics":[
+    "email": "billchenxi@uky.edu",
+    "topics": [
       "bioinformatics",
       "data science",
       "machine learning"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"blakeaw",
-    "languages_primary":[
+    "username": "blakeaw",
+    "languages_primary": [
       "c",
       "c++",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "bash",
       "tcl"
     ],
-    "affiliations":[
-
+    "affiliations": [
     ],
-    "email":"blakeaw1102@gmail.com",
-    "topics":[
+    "email": "blakeaw1102@gmail.com",
+    "topics": [
       "bayesian inference",
       "biophysics",
       "information theory",
@@ -1240,130 +1339,129 @@
       "parameter estimation",
       "systems biology"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":1
+    "active_reviews": 1,
+    "total_reviews": 4,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"blbentley",
-    "languages_primary":[
+    "username": "blbentley",
+    "languages_primary": [
       "matlab",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c++"
     ],
-    "affiliations":[
+    "affiliations": [
       "Open University"
     ],
-    "email":"bbentley@cantab.net",
-    "topics":[
+    "email": "bbentley@cantab.net",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "neuroscience"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"bovee",
-    "languages_primary":[
+    "username": "bovee",
+    "languages_primary": [
       "python",
       "rust"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "javascript",
       "julia",
       "nim"
     ],
-    "affiliations":[
+    "affiliations": [
       "One Codex, San Francisco"
     ],
-    "email":"rbovee@gmail.com",
-    "topics":[
+    "email": "rbovee@gmail.com",
+    "topics": [
       "biogeochemistry",
       "bioinformatics",
       "geobiology",
       "mass spectrometry"
     ],
-    "active_reviews":2,
-    "total_reviews":4,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 1,
+    "total_reviews": 4,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"brianjimenez",
-    "languages_primary":[
+    "username": "brianjimenez",
+    "languages_primary": [
       "c",
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Postdoctoral Research and RSE at Utrecht University"
     ],
-    "email":"br.jimenezgarcia@gmail.com",
-    "topics":[
+    "email": "br.jimenezgarcia@gmail.com",
+    "topics": [
       "artificial intelligence",
       "computational biology",
       "computational chemistry",
       "high performance computing"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"bricoletc",
-    "languages_primary":[
+    "username": "bricoletc",
+    "languages_primary": [
       "c",
       "c++",
       "javascript",
       "python",
       "scheme"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java"
     ],
-    "affiliations":[
+    "affiliations": [
       "EMBL-EBI"
     ],
-    "email":"letcher.brice@yahoo.com",
-    "topics":[
+    "email": "letcher.brice@yahoo.com",
+    "topics": [
       "bioinformatics",
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"camillescott",
-    "languages_primary":[
+    "username": "camillescott",
+    "languages_primary": [
       "c",
       "c++",
       "cython",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java",
       "javascript",
       "r",
       "ruby"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of California Davis"
     ],
-    "email":"camille.scott.w@gmail.com",
-    "topics":[
+    "email": "camille.scott.w@gmail.com",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "graph theory",
@@ -1372,71 +1470,188 @@
       "visualization",
       "workflow tools"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":1
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"carleshf",
-    "languages_primary":[
+    "username": "canimus",
+    "languages_primary": [
+      "python"
+    ],
+    "languages_secondary": [
+      "ruby"
+    ],
+    "affiliations": [
+    ],
+    "email": "canimus@gmail.com",
+    "topics": [
+      "bigdata",
+      "bioinformatics",
+      "data engineering",
+      "data operations",
+      "data quality",
+      "machine learning",
+      "pyspark"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "carleshf",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java",
       "javascript"
     ],
-    "affiliations":[
+    "affiliations": [
       "Centre Nacional d'Anàlisi Genòmica (CNAG-CRG)"
     ],
-    "email":"carles.hernandez@cnag.crg.eu",
-    "topics":[
+    "email": "carles.hernandez@cnag.crg.eu",
+    "topics": [
       "bioinformatics",
       "biomedicine",
       "data analysis"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"cgaray",
-    "languages_primary":[
+    "username": "cauliyang",
+    "languages_primary": [
+      "c++",
+      "python",
+      "rust"
+    ],
+    "languages_secondary": [
+      "c"
+    ],
+    "affiliations": [
+      "Northwestern University"
+    ],
+    "email": "yangyang.li@northwestern.edu",
+    "topics": [
+      "bioinformatics"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "cgaray",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "MITRE Corporation"
     ],
-    "email":"cgaray@mitre.org",
-    "topics":[
+    "email": "cgaray@mitre.org",
+    "topics": [
       "bioinformatics",
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"coughls",
-    "languages_primary":[
+    "username": "cinnetcrash",
+    "languages_primary": [
+      "bash",
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
+      "javascript"
+    ],
+    "affiliations": [
+      "Ankara University"
+    ],
+    "email": "gultekinnunal@gmail.com",
+    "topics": [
+      "bioinformatics",
+      "microbiology"
+    ],
+    "active_reviews": 1,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "ciropom",
+    "languages_primary": [
+      "bash",
+      "c",
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
+      "java"
+    ],
+    "affiliations": [
+      "Fondazione The Microsoft Research - University of Trento Centre for Computational and Systems Biology"
+    ],
+    "email": "danilo.tomasoni@cryptolab.net",
+    "topics": [
+      "bioinformatics",
+      "systems biology"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "cmorris2945",
+    "languages_primary": [
+      "python"
+    ],
+    "languages_secondary": [
+      "c++"
+    ],
+    "affiliations": [
+      "m2gen"
+    ],
+    "email": "ai.healhcare@yahoo.com",
+    "topics": [
+      "bioinformatics",
+      "cancer",
+      "computational biology",
+      "computer vision",
+      "natural language processing"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "coughls",
+    "languages_primary": [
       "nextflow",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "bash"
     ],
-    "affiliations":[
+    "affiliations": [
       "4D Pharma PLC"
     ],
-    "email":"coughls@gmail.com",
-    "topics":[
+    "email": "coughls@gmail.com",
+    "topics": [
       "bioinformatics",
       "genomics",
       "human genomics",
@@ -1444,45 +1659,43 @@
       "parasites)",
       "pathogen genomics (bacteria"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"cpalumbo",
-    "languages_primary":[
+    "username": "cpalumbo",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "perl"
     ],
-    "affiliations":[
-
+    "affiliations": [
     ],
-    "email":"cp1015@rit.edu",
-    "topics":[
+    "email": "cp1015@rit.edu",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"cthoyt",
-    "languages_primary":[
+    "username": "cthoyt",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Harvard Medical School"
     ],
-    "email":"cthoyt@gmail.com",
-    "topics":[
+    "email": "cthoyt@gmail.com",
+    "topics": [
       "bioinformatics",
       "chemoinformatics",
       "computational biology",
@@ -1490,91 +1703,139 @@
       "semantic web",
       "systems biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"damienmarsic",
-    "languages_primary":[
+    "username": "damienmarsic",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Porton Biologics"
     ],
-    "email":"damien.marsic@gmail.com",
-    "topics":[
+    "email": "damien.marsic@gmail.com",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"darogan",
-    "languages_primary":[
+    "username": "darinddv",
+    "languages_primary": [
+      "c++",
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
+      "c",
+      "matlab"
+    ],
+    "affiliations": [
+      "University of Kentucky"
+    ],
+    "email": "darinddv@gmail.com",
+    "topics": [
+      "biochemistry",
+      "bioinformatics",
+      "chemistry",
+      "chemoinformatics",
+      "drug development",
+      "mathematics",
+      "pharmacology",
+      "physics"
+    ],
+    "active_reviews": 1,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "darogan",
+    "languages_primary": [
       "perl",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "php"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Cambridge (UK)"
     ],
-    "email":"rsh46@cam.ac.uk",
-    "topics":[
+    "email": "rsh46@cam.ac.uk",
+    "topics": [
       "bioinformatics",
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"datakid",
-    "languages_primary":[
+    "username": "datakid",
+    "languages_primary": [
       "bash",
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of New South Wales"
     ],
-    "email":"datakid@gmail.com",
-    "topics":[
+    "email": "datakid@gmail.com",
+    "topics": [
       "bioinformatics",
       "systems administration"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"davismcc",
-    "languages_primary":[
+    "username": "davidegraff",
+    "languages_primary": [
+      "python"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "Harvard CCB \/ MIT ChemE"
+    ],
+    "email": "deg711@g.harvard.edu",
+    "topics": [
+      "comp chemistry",
+      "computational biology"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "davismcc",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "julia"
     ],
-    "affiliations":[
+    "affiliations": [
       "St Vincent's Institute of Medical Research"
     ],
-    "email":"dmccarthy@svi.edu.au",
-    "topics":[
+    "email": "dmccarthy@svi.edu.au",
+    "topics": [
       "bioinformatics",
       "genomics",
       "machine learning",
@@ -1584,150 +1845,149 @@
       "transcriptomics",
       "visualization"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"dhimmel",
-    "languages_primary":[
+    "username": "dhimmel",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "cypher",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Pennsylvania"
     ],
-    "email":"daniel.himmelstein@gmail.com",
-    "topics":[
+    "email": "daniel.himmelstein@gmail.com",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "network science",
       "scholarly communications"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"dirmeier",
-    "languages_primary":[
+    "username": "dirmeier",
+    "languages_primary": [
       "c++",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java"
     ],
-    "affiliations":[
+    "affiliations": [
       "ETH Zurich"
     ],
-    "email":"simon.dirmeier@gmx.de",
-    "topics":[
+    "email": "simon.dirmeier@gmx.de",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "computer science",
       "machine learning",
       "statistics"
     ],
-    "active_reviews":0,
-    "total_reviews":5,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":1
+    "active_reviews": 0,
+    "total_reviews": 5,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"dmnfarrell",
-    "languages_primary":[
+    "username": "dmnfarrell",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "University College Dublin"
     ],
-    "email":"farrell.damien@gmail.com",
-    "topics":[
+    "email": "farrell.damien@gmail.com",
+    "topics": [
       "bioinformatics",
       "genomics",
       "immunology"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"dridk",
-    "languages_primary":[
+    "username": "dridk",
+    "languages_primary": [
       "c++",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "qt"
     ],
-    "affiliations":[
+    "affiliations": [
       "CHRU Brest",
       "CHRU Brest, Hôpital Morvan, Laboratoire de Génétique Moléculaire, Brest, France"
     ],
-    "email":"sacha@labsquare.org",
-    "topics":[
+    "email": "sacha@labsquare.org",
+    "topics": [
       "bioinformatics",
       "genetics",
       "medicine"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"dsurujon",
-    "languages_primary":[
+    "username": "dsurujon",
+    "languages_primary": [
       "matlab",
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Boston College"
     ],
-    "email":"surujon@bc.edu",
-    "topics":[
+    "email": "surujon@bc.edu",
+    "topics": [
       "bioinformatics",
       "biostatistics",
       "genetics",
       "systems biology"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 1,
+    "total_reviews": 3,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"dvanic",
-    "languages_primary":[
+    "username": "dvanic",
+    "languages_primary": [
       "bash",
       "python",
       "r",
       "sql"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "javascript"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Sydney"
     ],
-    "email":"d.vanichkina@gmail.com",
-    "topics":[
+    "email": "d.vanichkina@gmail.com",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "family",
@@ -1740,77 +2000,108 @@
       "sensors",
       "wearables data"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":2,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"edrictam",
-    "languages_primary":[
+    "username": "edrictam",
+    "languages_primary": [
       "matlab",
       "python",
       "r",
       "swift"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "objective c"
     ],
-    "affiliations":[
+    "affiliations": [
       "Duke University"
     ],
-    "email":"edric.tam@duke.edu",
-    "topics":[
+    "email": "edric.tam@duke.edu",
+    "topics": [
       "computational biology",
       "machine learning",
       "quantitative finance",
       "statistics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"erahulkulkarni",
-    "languages_primary":[
+    "username": "erahulkulkarni",
+    "languages_primary": [
       "c",
       "python",
       "shell script"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "java",
       "julia"
     ],
-    "affiliations":[
+    "affiliations": [
       "Assistant Professor, KLS Gogte Institute of Technology"
     ],
-    "email":"erahulkulkarni@gmail.com",
-    "topics":[
+    "email": "erahulkulkarni@gmail.com",
+    "topics": [
       "computational biology",
       "educational research"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"expectopatronum",
-    "languages_primary":[
+    "username": "erik-whiting",
+    "languages_primary": [
+      "c#",
+      "java",
+      "php",
+      "python",
+      "ruby"
+    ],
+    "languages_secondary": [
+      "c++",
+      "javascript",
+      "perl",
+      "sql"
+    ],
+    "affiliations": [
+      "University of Houston - Clear Lake"
+    ],
+    "email": "erik@erikwhiting.com",
+    "topics": [
+      "bioinformatics",
+      "computational biophysics",
+      "databases",
+      "information systems",
+      "software architecture",
+      "software engineering"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 3,
+    "recent_year_reviews": 3,
+    "recent_quarter_reviews": 1
+  },
+  {
+    "username": "expectopatronum",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "java"
     ],
-    "affiliations":[
-
+    "affiliations": [
     ],
-    "email":"veroamilbe@gmail.com",
-    "topics":[
+    "email": "veroamilbe@gmail.com",
+    "topics": [
       "audio",
       "bioinformatics",
       "explainable machine learning",
@@ -1819,24 +2110,24 @@
       "music processing",
       "visualization"
     ],
-    "active_reviews":0,
-    "total_reviews":3,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 3,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"fabianomenegidio",
-    "languages_primary":[
+    "username": "fabianomenegidio",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "perl"
     ],
-    "affiliations":[
+    "affiliations": [
       "Laboratório de Genômica Estrutural e Funcional - Núcleo de Biotecnologia Integrado - Universidade de Mogi das Cruzes (UMC)"
     ],
-    "email":"fabiano.menegidio@biology.bio.br",
-    "topics":[
+    "email": "fabiano.menegidio@biology.bio.br",
+    "topics": [
       "bioinformatics",
       "containerization",
       "docker",
@@ -1844,175 +2135,199 @@
       "scientific computer",
       "singularity"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"franziskaaah",
-    "languages_primary":[
+    "username": "franziskaaah",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "John Innes Centre, Norwich, UK"
     ],
-    "email":"franziska.hoerbst@jic.ac.uk",
-    "topics":[
+    "email": "franziska.hoerbst@jic.ac.uk",
+    "topics": [
       "computational biology",
       "information theory",
       "long distance signalling",
       "molecular communications",
       "plant science"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"gdancik",
-    "languages_primary":[
+    "username": "gdancik",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c++",
       "java"
     ],
-    "affiliations":[
+    "affiliations": [
       "Eastern Connecticut State University"
     ],
-    "email":"dancikg@easternct.edu",
-    "topics":[
+    "email": "dancikg@easternct.edu",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"halexand",
-    "languages_primary":[
+    "username": "gtonkinhill",
+    "languages_primary": [
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
+      "c++"
+    ],
+    "affiliations": [
+      "University of Oslo"
+    ],
+    "email": "g.tonkinhill@gmail.com",
+    "topics": [
+      "bioinformatics",
+      "genomics",
+      "statistics",
+      "transcriptomics"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 2,
+    "recent_quarter_reviews": 1
+  },
+  {
+    "username": "halexand",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "shell"
     ],
-    "affiliations":[
+    "affiliations": [
       "Woods Hole Oceanographic Institution"
     ],
-    "email":"halexander@whoi.edu",
-    "topics":[
+    "email": "halexander@whoi.edu",
+    "topics": [
       "bioinformatics",
       "genomics",
       "microbial genomics",
       "transcriptomics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"hannahbrucemacdonald",
-    "languages_primary":[
+    "username": "hannahbrucemacdonald",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "bash"
     ],
-    "affiliations":[
+    "affiliations": [
       "Memorial Sloan Kettering Cancer Center"
     ],
-    "email":"hannahbrucemacdonald@gmail.com",
-    "topics":[
+    "email": "hannahbrucemacdonald@gmail.com",
+    "topics": [
       "chemistry",
       "computational biology",
       "computational chemistry"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"hiraksarkar",
-    "languages_primary":[
+    "username": "hiraksarkar",
+    "languages_primary": [
       "c++",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Maryland"
     ],
-    "email":"hsarkar@cs.umd.edu",
-    "topics":[
+    "email": "hsarkar@cs.umd.edu",
+    "topics": [
       "bioinformatics",
       "computational biology"
     ],
-    "active_reviews":1,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"hmacdope",
-    "languages_primary":[
+    "username": "hmacdope",
+    "languages_primary": [
       "c++",
       "fortran",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c"
     ],
-    "affiliations":[
+    "affiliations": [
       "Australian National University"
     ],
-    "email":"hugomacdermott@gmail.com",
-    "topics":[
+    "email": "hugomacdermott@gmail.com",
+    "topics": [
       "computational biology",
       "computational chemistry",
       "high performance computing"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 3,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 1
   },
   {
-    "username":"hmenager",
-    "languages_primary":[
+    "username": "hmenager",
+    "languages_primary": [
       "javascript",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java"
     ],
-    "affiliations":[
+    "affiliations": [
       "Institut Pasteur"
     ],
-    "email":"herve.menager@gmail.com",
-    "topics":[
+    "email": "herve.menager@gmail.com",
+    "topics": [
       "bioinformatics",
       "software tools",
       "web applications"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"holtgrewe",
-    "languages_primary":[
+    "username": "holtgrewe",
+    "languages_primary": [
       "bash",
       "c",
       "c++",
@@ -2021,7 +2336,7 @@
       "rust",
       "snakemake"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "bash",
       "c",
       "c++",
@@ -2032,208 +2347,259 @@
       "rust",
       "shell"
     ],
-    "affiliations":[
+    "affiliations": [
       "Charite University Medicine Berlin \/Berlin Institute of Health",
       "Core Unit Bioinformatics, Berlin Institute of Health, Charite University Medicine"
     ],
-    "email":"zyklenfrei@gmail.com",
-    "topics":[
+    "email": "zyklenfrei@gmail.com",
+    "topics": [
       "algorithm engineering",
       "algorithmics",
       "bioinformatics",
       "computer science"
     ],
-    "active_reviews":2,
-    "total_reviews":4,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 4,
+    "recent_year_reviews": 2,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"j-andrews7",
-    "languages_primary":[
+    "username": "hseabolt",
+    "languages_primary": [
+      "bash",
+      "nextflow",
+      "perl",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
+      "ruby",
+      "sql + variants"
+    ],
+    "affiliations": [
+      "Leidos Inc"
+    ],
+    "email": "ngr8@cdc.gov",
+    "topics": [
+      "bioinformatics",
+      "computational biology",
+      "genomics",
+      "mathematical biology",
+      "phylogenetics",
+      "reproducible science"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 1
+  },
+  {
+    "username": "j-andrews7",
+    "languages_primary": [
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
       "bash"
     ],
-    "affiliations":[
+    "affiliations": [
       "St. Jude Children's Research Hospital"
     ],
-    "email":"jared.andrews07@gmail.com",
-    "topics":[
+    "email": "jared.andrews07@gmail.com",
+    "topics": [
       "bioinformatics",
       "genomics",
       "visualization"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":2,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"janpb",
-    "languages_primary":[
+    "username": "janpb",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "perl"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Sydney"
     ],
-    "email":"jan.buchmann@sydney.edu.au",
-    "topics":[
+    "email": "jan.buchmann@sydney.edu.au",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"japindado",
-    "languages_primary":[
+    "username": "japindado",
+    "languages_primary": [
       "octave",
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Pindiac LLC"
     ],
-    "email":"japindado@pindiac.com",
-    "topics":[
+    "email": "japindado@pindiac.com",
+    "topics": [
       "bioinformatics",
       "machine learning"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"jdeligt",
-    "languages_primary":[
+    "username": "jaybee84",
+    "languages_primary": [
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "Sage Bionetworks"
+    ],
+    "email": "jineta.banerjee@sagebionetworks.org",
+    "topics": [
+      "bioinformatics",
+      "genomics",
+      "machine learning in biology",
+      "rare diseases",
+      "transcriptomics"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "jdeligt",
+    "languages_primary": [
       "bash",
       "c++",
       "java",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "perl",
       "php"
     ],
-    "affiliations":[
+    "affiliations": [
       "Institute of Environmental Science and Research Limited (ESR)"
     ],
-    "email":"joepio@gmail.com",
-    "topics":[
+    "email": "joepio@gmail.com",
+    "topics": [
       "bioinformatics",
       "genomics"
     ],
-    "active_reviews":0,
-    "total_reviews":5,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 5,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"jeanmdavidson",
-    "languages_primary":[
+    "username": "jeanmdavidson",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "python",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Assistant Professor - Cal Poly, San Luis Obispo"
     ],
-    "email":"Jdavid06@calpoly.edu",
-    "topics":[
+    "email": "Jdavid06@calpoly.edu",
+    "topics": [
       "bioinformatics",
       "genomics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"jenzopr",
-    "languages_primary":[
+    "username": "jenzopr",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Max Planck Institute for Heart and Lung Research"
     ],
-    "email":"jens.preussner@mpi-bn.mpg.de",
-    "topics":[
+    "email": "jens.preussner@mpi-bn.mpg.de",
+    "topics": [
       "bioinformatics",
       "cancer biology",
       "computational biology",
       "data science",
       "single-cell biology"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"jkanche",
-    "languages_primary":[
+    "username": "jkanche",
+    "languages_primary": [
       "go",
       "golang",
       "javascript",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c++",
       "elixir",
       "java",
       "julia"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Maryland, College Park"
     ],
-    "email":"jayaram.kancherla@gmail.com",
-    "topics":[
+    "email": "jayaram.kancherla@gmail.com",
+    "topics": [
       "bioinformatics",
       "biological data visualization",
       "data management",
       "data structures",
       "visualization"
     ],
-    "active_reviews":0,
-    "total_reviews":6,
-    "recent_year_reviews":2,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 8,
+    "recent_year_reviews": 2,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"jmborr",
-    "languages_primary":[
+    "username": "jmborr",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Neutrons Scattering Data Sciences, Oak Ridge National Laboratory",
       "Oak Ridge National Laboratory"
     ],
-    "email":"borreguero@gmail.com",
-    "topics":[
+    "email": "borreguero@gmail.com",
+    "topics": [
       "biophysics",
       "computational biology",
       "molecular dynamics",
@@ -2244,210 +2610,254 @@
       "proteins",
       "scattering"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"jmcgonigle",
-    "languages_primary":[
+    "username": "jmcbroome",
+    "languages_primary": [
+      "cython",
+      "python"
+    ],
+    "languages_secondary": [
+      "c++"
+    ],
+    "affiliations": [
+      "University of California, Santa Cruz"
+    ],
+    "email": "jmcbroome@gmail.com",
+    "topics": [
+      "bioinformatics",
+      "evolutionary genomics",
+      "ngs pipelines",
+      "phylogenetics"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "jmcgonigle",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "javascript",
       "perl"
     ],
-    "affiliations":[
+    "affiliations": [
       "Horizon Discovery Ltd."
     ],
-    "email":"J.e.mcgonigle@gmail.com",
-    "topics":[
+    "email": "J.e.mcgonigle@gmail.com",
+    "topics": [
       "bioinformatics",
       "biology",
       "biotech",
       "genetics",
       "next-generation sequencing"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"joewandy",
-    "languages_primary":[
+    "username": "joewandy",
+    "languages_primary": [
       "javascript",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java",
       "matlab",
       "r",
       "r .. maybe"
     ],
-    "affiliations":[
+    "affiliations": [
       "Glasgow Polyomics, University of Glasgow"
     ],
-    "email":"joe.wandy@glasgow.ac.uk",
-    "topics":[
+    "email": "joe.wandy@glasgow.ac.uk",
+    "topics": [
       "bioinformatics",
       "machine learning",
       "metabolomics",
       "omics integration"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"johanneswerner",
-    "languages_primary":[
+    "username": "johanneswerner",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Department of Biological Oceanography, Leibniz Institute of Baltic Sea Research"
     ],
-    "email":"johannes.werner@io-warnemuende.de",
-    "topics":[
+    "email": "johannes.werner@io-warnemuende.de",
+    "topics": [
       "(in the field of microbial ecology",
       "bioinformatics",
       "environmental microbiology)"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"jsgalan",
-    "languages_primary":[
+    "username": "jsgalan",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "matlab",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Universidad Tecnológica de Panamá"
     ],
-    "email":"javier.sanchezgalan@utp.ac.pa",
-    "topics":[
+    "email": "javier.sanchezgalan@utp.ac.pa",
+    "topics": [
       "bioinformatics",
       "computer science",
       "machine learning",
       "systems dynamics"
     ],
-    "active_reviews":0,
-    "total_reviews":8,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 8,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"jspaezp",
-    "languages_primary":[
+    "username": "jspaezp",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Purdue Univ."
     ],
-    "email":"jpaezpae@purdue.edu",
-    "topics":[
+    "email": "jpaezpae@purdue.edu",
+    "topics": [
       "bioinformatics",
       "mass spectrometry",
       "rna seq",
       "single cell sequencing"
     ],
-    "active_reviews":1,
-    "total_reviews":2,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"kanekalla",
-    "languages_primary":[
+    "username": "jsun",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
+      "National Agriculture and Food Research Organization (NARO)"
+    ],
+    "email": "sun@biunit.dev",
+    "topics": [
+      "agriculture",
+      "bioinformatics",
+      "genetics",
+      "machine learning",
+      "plant science"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 1
+  },
+  {
+    "username": "kanekalla",
+    "languages_primary": [
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
       "Northwestern University"
     ],
-    "email":"kishore.anekalla@northestern.edu",
-    "topics":[
+    "email": "kishore.anekalla@northestern.edu",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "pharmaceutical sciences"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"kapsakcj",
-    "languages_primary":[
+    "username": "kapsakcj",
+    "languages_primary": [
       "bash",
       "perl",
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Theiagen Genomics"
     ],
-    "email":"kapsakcj@gmail.com",
-    "topics":[
+    "email": "kapsakcj@gmail.com",
+    "topics": [
       "bioinformatics",
       "genomic epidemiology",
       "microbial",
       "pathogen genomics",
       "public health"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"karinlag",
-    "languages_primary":[
+    "username": "karinlag",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Norwegian Veterinary Institute"
     ],
-    "email":"karin.lagesen@gmail.com",
-    "topics":[
+    "email": "karin.lagesen@gmail.com",
+    "topics": [
       "bioinformatics",
       "microbial genomics"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"kblin",
-    "languages_primary":[
+    "username": "kblin",
+    "languages_primary": [
       "c",
       "go",
       "javascript",
@@ -2455,187 +2865,229 @@
       "rust",
       "typescript"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "obj-c",
       "ocaml"
     ],
-    "affiliations":[
+    "affiliations": [
       "Technical University of Denmark"
     ],
-    "email":"kblin@biosustain.dtu.dk",
-    "topics":[
+    "email": "kblin@biosustain.dtu.dk",
+    "topics": [
       "bioinformatics",
       "genomics",
       "web services"
     ],
-    "active_reviews":0,
-    "total_reviews":3,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":1
+    "active_reviews": 0,
+    "total_reviews": 3,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"kelly-sovacool",
-    "languages_primary":[
+    "username": "kelly-sovacool",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Michigan"
     ],
-    "email":"sovacool@umich.edu",
-    "topics":[
+    "email": "sovacool@umich.edu",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "microbial ecology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"kuangmeng",
-    "languages_primary":[
+    "username": "kuangmeng",
+    "languages_primary": [
       "c",
       "c++",
       "java",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "r"
     ],
-    "affiliations":[
-
+    "affiliations": [
     ],
-    "email":"kuangmeng@msn.com",
-    "topics":[
+    "email": "kuangmeng@msn.com",
+    "topics": [
       "bioinformatics",
       "machine learning"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"kullrich",
-    "languages_primary":[
+    "username": "kullrich",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Max Planck Institute for Evolutionary Biology"
     ],
-    "email":"ullrich@evolbio.mpg.de",
-    "topics":[
+    "email": "ullrich@evolbio.mpg.de",
+    "topics": [
       "bioinformatics",
       "comparative genomics",
       "computational biology",
       "image processing",
       "quantitative genetics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"lbugnon",
-    "languages_primary":[
+    "username": "lazear",
+    "languages_primary": [
+      "haskell",
+      "python",
+      "rust"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "Belharra Therapeutics"
+    ],
+    "email": "michaellazear92@gmail.com",
+    "topics": [
+      "bioinformatics",
+      "file formats",
+      "mass spectrometry",
+      "proteomics"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "lbugnon",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "matlab",
       "octave"
     ],
-    "affiliations":[
+    "affiliations": [
       "sinc(i) - UNL - CONICET: Research Institute for Signals, Systems and Computational Intelligence"
     ],
-    "email":"lbugnon@sinc.unl.edu.ar",
-    "topics":[
+    "email": "lbugnon@sinc.unl.edu.ar",
+    "topics": [
       "bioinformatics",
       "biomedical signals",
       "image processing",
       "machine learning",
       "signal"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"louiejtaylor",
-    "languages_primary":[
+    "username": "louiejtaylor",
+    "languages_primary": [
       "python",
       "r",
       "snakemake"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "javascript",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Pennsylvania"
     ],
-    "email":"louist@upenn.edu",
-    "topics":[
+    "email": "louist@upenn.edu",
+    "topics": [
       "bioinformatics",
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"lowandrew",
-    "languages_primary":[
+    "username": "lowandrew",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Canadian Food Inspection Agency"
     ],
-    "email":"andrew.low@canada.ca",
-    "topics":[
+    "email": "andrew.low@canada.ca",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "genomics"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"luciorq",
-    "languages_primary":[
+    "username": "lparsons",
+    "languages_primary": [
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
+      "perl"
+    ],
+    "affiliations": [
+      "Princeton University"
+    ],
+    "email": "lparsons@princeton.edu",
+    "topics": [
+      "bioinformatics",
+      "workflows"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "luciorq",
+    "languages_primary": [
       "python",
       "r",
       "shell scripting"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c++",
       "perl",
       "rust"
     ],
-    "affiliations":[
+    "affiliations": [
       "Federal University of Minas Gerais"
     ],
-    "email":"luciorqueiroz@ufmg.br",
-    "topics":[
+    "email": "luciorqueiroz@ufmg.br",
+    "topics": [
       "ansible based tools",
       "bioinformatics",
       "hpc infrastructure",
@@ -2643,150 +3095,170 @@
       "programmable infrastructure",
       "systems biology"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":1
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"marekborowiec",
-    "languages_primary":[
+    "username": "marekborowiec",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Idaho"
     ],
-    "email":"petiolus@gmail.com",
-    "topics":[
+    "email": "petiolus@gmail.com",
+    "topics": [
       "bioinformatics",
       "phylogenetics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 1,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"marouenbg",
-    "languages_primary":[
+    "username": "marouenbg",
+    "languages_primary": [
       "matlab",
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Luxembourg"
     ],
-    "email":"marouen.b.guebila@gmail.com",
-    "topics":[
+    "email": "marouen.b.guebila@gmail.com",
+    "topics": [
       "bioinformatics",
       "computational and systems biology",
       "health informatics"
     ],
-    "active_reviews":0,
-    "total_reviews":3,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 4,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"maximtrp",
-    "languages_primary":[
+    "username": "maximtrp",
+    "languages_primary": [
       "golang",
       "javascript",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c++",
       "java"
     ],
-    "affiliations":[
+    "affiliations": [
       "National Research University Higher School of Economics, Russia"
     ],
-    "email":"maximtrp@gmail.com",
-    "topics":[
+    "email": "maximtrp@gmail.com",
+    "topics": [
       "bioinformatics",
       "data science",
       "machine learning",
       "statistics"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":2,
-    "recent_quarter_reviews":1
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"mdehollander",
-    "languages_primary":[
+    "username": "mdehollander",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Netherlands Institute of Ecology (NIOO-KNAW)"
     ],
-    "email":"m.dehollander@nioo.knaw.nl",
-    "topics":[
+    "email": "m.dehollander@nioo.knaw.nl",
+    "topics": [
       "bioinformatics",
       "metagenomics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"mikeaalv",
-    "languages_primary":[
+    "username": "mikeaalv",
+    "languages_primary": [
       "matlab",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c++",
       "perl"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Georgia"
     ],
-    "email":"Yue.Wu@uga.edu",
-    "topics":[
+    "email": "Yue.Wu@uga.edu",
+    "topics": [
       "bioinformatics",
       "chemometrics",
       "ordinary differential equations"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"mskwark",
-    "languages_primary":[
+    "username": "mouneem",
+    "languages_primary": [
+      "python"
+    ],
+    "languages_secondary": [
+      "php",
+      "r"
+    ],
+    "affiliations": [
+      "INSERM"
+    ],
+    "email": "abdelmounim.essabbar@inserm.fr",
+    "topics": [
+      "bioinformatics",
+      "genomics",
+      "image analysis"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "mskwark",
+    "languages_primary": [
       "c",
       "c++",
       "julia",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "fortran",
       "go",
       "matlab",
       "ruby"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Cambridge"
     ],
-    "email":"marcin@skwark.pl",
-    "topics":[
+    "email": "marcin@skwark.pl",
+    "topics": [
       "bioinformatics",
       "chemoinformatics",
       "computational biology",
@@ -2796,75 +3268,98 @@
       "optimization",
       "statistics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"mwptrsn",
-    "languages_primary":[
+    "username": "mtomasini",
+    "languages_primary": [
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
+      "c++"
+    ],
+    "affiliations": [
+      "University of Gothenburg, SE"
+    ],
+    "email": "matteo.tomasini@gu.se",
+    "topics": [
+      "computational biology",
+      "ecology and evolution",
+      "genomics"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "mwptrsn",
+    "languages_primary": [
       "matlab",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "scala"
     ],
-    "affiliations":[
+    "affiliations": [
       "MITRE Corporation"
     ],
-    "email":"matt@mpeterson.org",
-    "topics":[
+    "email": "matt@mpeterson.org",
+    "topics": [
       "bioinformatics",
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"natir",
-    "languages_primary":[
+    "username": "natir",
+    "languages_primary": [
       "c",
       "c++",
       "python",
       "rust"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "perl"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Saarland"
     ],
-    "email":"pmarijon@mmci.uni-saarland.de",
-    "topics":[
+    "email": "pmarijon@mmci.uni-saarland.de",
+    "topics": [
       "bioinformatics",
       "genome assemblies",
       "sequence algorithm"
     ],
-    "active_reviews":1,
-    "total_reviews":2,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"neurons",
-    "languages_primary":[
+    "username": "neurons",
+    "languages_primary": [
       "go",
       "java",
       "python",
       "scala"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "javascript"
     ],
-    "affiliations":[
+    "affiliations": [
       "Uber Technologies"
     ],
-    "email":"niranjan.padmanabhan@mail.mcgill.ca",
-    "topics":[
+    "email": "niranjan.padmanabhan@mail.mcgill.ca",
+    "topics": [
       "artificial intelligence",
       "bioinformatics",
       "computational biology",
@@ -2873,141 +3368,170 @@
       "mathematics",
       "software engineering"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"nicksisco1932",
-    "languages_primary":[
+    "username": "nicksisco1932",
+    "languages_primary": [
       "julia",
       "matlab",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Barrow Neurological Institute"
     ],
-    "email":"nicholas.sisco@barrowneuro.org",
-    "topics":[
+    "email": "nicholas.sisco@barrowneuro.org",
+    "topics": [
       "computational biology",
       "neuroimaging",
       "nuclear magnetic resonance",
       "structural biology"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":1
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"nidhog",
-    "languages_primary":[
+    "username": "nidhog",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "golang"
     ],
-    "affiliations":[
-
+    "affiliations": [
     ],
-    "email":"i.elouafiq@gmail.com",
-    "topics":[
+    "email": "i.elouafiq@gmail.com",
+    "topics": [
       "bioinformatics",
       "data engineering",
       "data science",
       "graph theory",
       "machine learning"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"petaripenev",
-    "languages_primary":[
+    "username": "petaripenev",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "javascript"
     ],
-    "affiliations":[
+    "affiliations": [
       "Georgia Institute of Technology"
     ],
-    "email":"peteripenev@gmail.com",
-    "topics":[
+    "email": "peteripenev@gmail.com",
+    "topics": [
       "bioinformatics",
       "evolutionary biology",
       "phylogenetics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"pjb7687",
-    "languages_primary":[
+    "username": "pjb7687",
+    "languages_primary": [
+      "c",
+      "c#",
+      "c++",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
-      "c++"
+      "c++",
+      "java"
     ],
-    "affiliations":[
-      "German Cancer Research Center (DKFZ)"
+    "affiliations": [
+      "German Cancer Research Center (DKFZ)",
+      "Pusan National University"
     ],
-    "email":"j.park@dkfz-heidelberg.de",
-    "topics":[
-      "bioinformatics"
+    "email": "jeongbin.park@pusan.ac.kr",
+    "topics": [
+      "bioinformatics",
+      "software engineering"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 2,
+    "recent_quarter_reviews": 2
   },
   {
-    "username":"pps121",
-    "languages_primary":[
+    "username": "pps121",
+    "languages_primary": [
       "c",
       "golang",
       "objective-c",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "python",
       "r"
     ],
-    "affiliations":[
-
+    "affiliations": [
     ],
-    "email":"technical.partha@gmail.com",
-    "topics":[
+    "email": "technical.partha@gmail.com",
+    "topics": [
       "computational biology",
       "data science",
       "healthcare",
       "machine learning",
       "natural language processing"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":1
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"puruckertom",
-    "languages_primary":[
+    "username": "pradeeban",
+    "languages_primary": [
+      "java",
+      "python"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "Emory University School of Medicine"
+    ],
+    "email": "pradeeban.kathiravelu@emory.edu",
+    "topics": [
+      "bioinformatics",
+      "cloud computing",
+      "distributed computing",
+      "networking",
+      "software-defined networking",
+      "software-defined systems"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "puruckertom",
+    "languages_primary": [
       "javascript",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c++",
       "fortran",
@@ -3016,12 +3540,12 @@
       "octave",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "US EPA",
       "US EPA Office of Research and Development"
     ],
-    "email":"purucker.tom@epa.gov",
-    "topics":[
+    "email": "purucker.tom@epa.gov",
+    "topics": [
       "bioinformatics",
       "chemoinformatics",
       "ecology",
@@ -3030,138 +3554,156 @@
       "hydrology",
       "toxicology"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":2,
-    "recent_quarter_reviews":2
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 2,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"rabdill",
-    "languages_primary":[
+    "username": "rabdill",
+    "languages_primary": [
       "coffeescript",
       "javascript",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "golang",
       "php"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Minnesota"
     ],
-    "email":"rabdill@umn.edu",
-    "topics":[
+    "email": "rabdill@umn.edu",
+    "topics": [
       "bioinformatics",
       "containerization",
       "infrastructure automation",
       "visualization",
       "web portals"
     ],
-    "active_reviews":0,
-    "total_reviews":3,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":1
+    "active_reviews": 0,
+    "total_reviews": 3,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"rachelss",
-    "languages_primary":[
+    "username": "rachelss",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Rhode Island"
     ],
-    "email":"rsschwartz@uri.edu",
-    "topics":[
+    "email": "rsschwartz@uri.edu",
+    "topics": [
       "bioinformatics",
       "genomics",
       "phylogenetics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"rasbt",
-    "languages_primary":[
+    "username": "rasbt",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Wisconsin-Madison (Assistant Professor of Statistics)"
     ],
-    "email":"mail@sebastianraschka.com",
-    "topics":[
+    "email": "mail@sebastianraschka.com",
+    "topics": [
       "computational biology",
       "machine learning",
       "statistics"
     ],
-    "active_reviews":0,
-    "total_reviews":3,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 3,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"raysinensis",
-    "languages_primary":[
+    "username": "raysinensis",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Colorado Anschutz Medical Campus"
     ],
-    "email":"rui.fu@cuanschutz.edu",
-    "topics":[
+    "email": "rui.fu@cuanschutz.edu",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"russHyde",
-    "languages_primary":[
+    "username": "rjorton",
+    "languages_primary": [
+      "java",
+      "python"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "University of Glasgow"
+    ],
+    "email": "Richard.Orton@glasgow.ac.uk",
+    "topics": [
+      "bioinformatics",
+      "metagenomics",
+      "virology"
+    ],
+    "active_reviews": 1,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "russHyde",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "perl"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Glasgow"
     ],
-    "email":"russell.hyde@glasgow.ac.uk",
-    "topics":[
+    "email": "russell.hyde@glasgow.ac.uk",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"rvhonorato",
-    "languages_primary":[
+    "username": "rvhonorato",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Utrecht University"
     ],
-    "email":"rvhonorato@gmail.com",
-    "topics":[
+    "email": "rvhonorato@gmail.com",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "macromolecular docking",
@@ -3169,28 +3711,28 @@
       "molecular modeling",
       "structural biology"
     ],
-    "active_reviews":1,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 2,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"ryEllison",
-    "languages_primary":[
+    "username": "ryEllison",
+    "languages_primary": [
       "neuron",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java",
       "matlab",
       "octave"
     ],
-    "affiliations":[
+    "affiliations": [
       "Ohio University"
     ],
-    "email":"ryan.dean.ellison@gmail.com",
-    "topics":[
+    "email": "ryan.dean.ellison@gmail.com",
+    "topics": [
       "bioinformatics",
       "biology",
       "biophysics",
@@ -3201,125 +3743,166 @@
       "neurobiology",
       "neuroinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 1,
+    "total_reviews": 3,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"sa501428",
-    "languages_primary":[
+    "username": "sa501428",
+    "languages_primary": [
       "java",
       "matlab",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++"
     ],
-    "affiliations":[
+    "affiliations": [
       "Rice University, Baylor College of Medicine"
     ],
-    "email":"shamim@rice.edu",
-    "topics":[
+    "email": "shamim@rice.edu",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "general computing",
       "genomics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"scleveland",
-    "languages_primary":[
+    "username": "santule",
+    "languages_primary": [
+      "javascript",
+      "python"
+    ],
+    "languages_secondary": [
+      "r"
+    ],
+    "affiliations": [
+      "University of Queensland"
+    ],
+    "email": "s.tule@uq.net.au",
+    "topics": [
+      "algorithms",
+      "bioinformatics",
+      "visualization"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "scleveland",
+    "languages_primary": [
       "javascript",
       "python",
       "ruby"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Hawaii"
     ],
-    "email":"seanbc@hawaii.edu",
-    "topics":[
+    "email": "seanbc@hawaii.edu",
+    "topics": [
       "bioinformatics",
       "cyberinfrastructure"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"semacu",
-    "languages_primary":[
+    "username": "sdelandtsheer",
+    "languages_primary": [
+      "matlab",
+      "python"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "University of Luxembourg"
+    ],
+    "email": "sebastien.delandtsheer@uni.lu",
+    "topics": [
+      "computational biology",
+      "systems biology"
+    ],
+    "active_reviews": 2,
+    "total_reviews": 6,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "semacu",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Cambridge, UK"
     ],
-    "email":"sermarcue@gmail.com",
-    "topics":[
+    "email": "sermarcue@gmail.com",
+    "topics": [
       "bioinformatics",
       "chemoinformatics",
       "computational biology",
       "computational chemistry"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"serine",
-    "languages_primary":[
+    "username": "serine",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Monash Bioinformatics Platform"
     ],
-    "email":"kirill.tsyganov@monash.edu",
-    "topics":[
+    "email": "kirill.tsyganov@monash.edu",
+    "topics": [
       "bioinformatics",
       "packages"
     ],
-    "active_reviews":0,
-    "total_reviews":3,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 3,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"shahmoradi",
-    "languages_primary":[
+    "username": "shahmoradi",
+    "languages_primary": [
       "fortran",
       "matlab",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "bash",
       "c",
       "html",
       "idl",
       "pascal"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Texas, Arlington"
     ],
-    "email":"shahmoradi@utexas.edu",
-    "topics":[
+    "email": "shahmoradi@utexas.edu",
+    "topics": [
       "astrophysics",
       "bayesian probability theory",
       "bioinformatics",
@@ -3330,195 +3913,217 @@
       "scientific computing",
       "uncertainty quantification"
     ],
-    "active_reviews":1,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 1,
+    "total_reviews": 2,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"shalinshah1993",
-    "languages_primary":[
+    "username": "shalinshah1993",
+    "languages_primary": [
       "java",
       "matlab",
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
-
+    "affiliations": [
     ],
-    "email":"shalin.shah@duke.edu",
-    "topics":[
+    "email": "shalin.shah@duke.edu",
+    "topics": [
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"simonvh",
-    "languages_primary":[
+    "username": "simonvh",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Radboud University, Nijmegen, the Netherlands"
     ],
-    "email":"simon.vanheeringen@gmail.com",
-    "topics":[
+    "email": "simon.vanheeringen@gmail.com",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "epigenomics",
       "genomics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"smarkel",
-    "languages_primary":[
+    "username": "singhkakan",
+    "languages_primary": [
+      "python",
+      "r",
+      "shell"
+    ],
+    "languages_secondary": [
+      "c"
+    ],
+    "affiliations": [
+      "University of Southern California, School of Pharmacy"
+    ],
+    "email": "singhkak@usc.edu",
+    "topics": [
+      "computational biology",
+      "drug discovery",
+      "genomics",
+      "image analysis"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "smarkel",
+    "languages_primary": [
       "perl",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "java"
     ],
-    "affiliations":[
+    "affiliations": [
       "Dassault Systèmes BIOVIA"
     ],
-    "email":"scott.markel@3ds.com",
-    "topics":[
+    "email": "scott.markel@3ds.com",
+    "topics": [
       "bioinformatics",
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"smsaladi",
-    "languages_primary":[
+    "username": "smsaladi",
+    "languages_primary": [
       "javascript",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c++"
     ],
-    "affiliations":[
+    "affiliations": [
       "California Institute of Technology"
     ],
-    "email":"saladi@caltech.edu",
-    "topics":[
+    "email": "saladi@caltech.edu",
+    "topics": [
       "biochemistry",
       "bioengineering",
       "bioinformatics",
       "biology",
       "biophysics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"snikumbh",
-    "languages_primary":[
+    "username": "snikumbh",
+    "languages_primary": [
       "matlab",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++"
     ],
-    "affiliations":[
+    "affiliations": [
       "Imperial College London & MRC London Institute of Medical Science"
     ],
-    "email":"s.nikumbh@imperial.ac.uk",
-    "topics":[
+    "email": "s.nikumbh@imperial.ac.uk",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "machine learning for other domains as well"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"sridhar0605",
-    "languages_primary":[
+    "username": "sridhar0605",
+    "languages_primary": [
       "python",
       "r",
       "rust"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Washington University School Of Medicine At St Louis"
     ],
-    "email":"sridhar0605@gmail.com",
-    "topics":[
+    "email": "sridhar0605@gmail.com",
+    "topics": [
       "bioinformatics",
       "bioinformatics workflows",
       "computational biology",
       "genomics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"ssiddhantsharma",
-    "languages_primary":[
+    "username": "ssiddhantsharma",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "javascript"
     ],
-    "affiliations":[
+    "affiliations": [
       "Blue Marble Space Institute of Science"
     ],
-    "email":"siddhaantsharma.ss@gmail.com",
-    "topics":[
+    "email": "siddhaantsharma.ss@gmail.com",
+    "topics": [
       "computational biology",
       "computational chemistry"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"standage",
-    "languages_primary":[
+    "username": "standage",
+    "languages_primary": [
       "bash",
       "c",
       "c++",
       "perl",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "javascript",
       "perl",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "National Biodefense Analysis and Countermeasures Center"
     ],
-    "email":"daniel.standage@gmail.com",
-    "topics":[
+    "email": "daniel.standage@gmail.com",
+    "topics": [
       "bioinformatics",
       "forensics",
       "genetics",
@@ -3526,69 +4131,90 @@
       "molecular biology",
       "molecular genetics"
     ],
-    "active_reviews":0,
-    "total_reviews":6,
-    "recent_year_reviews":2,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 8,
+    "recent_year_reviews": 2,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"synthaze",
-    "languages_primary":[
+    "username": "storyetfall",
+    "languages_primary": [
+      "julia",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "Harvard University"
+    ],
+    "email": "ggowri@g.harvard.edu",
+    "topics": [
+      "biophysics",
+      "computational biology"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "synthaze",
+    "languages_primary": [
+      "python"
+    ],
+    "languages_secondary": [
       "awk",
       "bash",
       "css",
       "html",
       "javascript"
     ],
-    "affiliations":[
+    "affiliations": [
       "Medical College of Wisconsin"
     ],
-    "email":"fmalard@gmail.com",
-    "topics":[
+    "email": "fmalard@gmail.com",
+    "topics": [
       "bioinformatics",
       "machine learning"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"tariqdaouda",
-    "languages_primary":[
+    "username": "tariqdaouda",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "javascript",
       "php",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Massachusetts General Hospital, Broad Institute of MIT a Harvard, Harvard Medical School"
     ],
-    "email":"tariq.daouda@gmail.com",
-    "topics":[
+    "email": "tariq.daouda@gmail.com",
+    "topics": [
       "artificial intelligence",
       "bioinformatics",
       "machine learning"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"tijeco",
-    "languages_primary":[
+    "username": "tijeco",
+    "languages_primary": [
       "go",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c",
       "c++",
       "go",
@@ -3596,11 +4222,10 @@
       "julia",
       "r"
     ],
-    "affiliations":[
-
+    "affiliations": [
     ],
-    "email":"coleti16@students.ecu.edu",
-    "topics":[
+    "email": "coleti16@students.ecu.edu",
+    "topics": [
       "bioinformatics",
       "computational biology",
       "evolution",
@@ -3609,25 +4234,25 @@
       "molecular evolution",
       "protein structure"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 6,
+    "recent_year_reviews": 6,
+    "recent_quarter_reviews": 2
   },
   {
-    "username":"tkchafin",
-    "languages_primary":[
+    "username": "tkchafin",
+    "languages_primary": [
       "perl",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Arkansas"
     ],
-    "email":"tylerkchafin@gmail.com",
-    "topics":[
+    "email": "tylerkchafin@gmail.com",
+    "topics": [
       "bioinformatics",
       "conservation",
       "dna sequence analysis",
@@ -3638,228 +4263,414 @@
       "phylogeography",
       "population genetics"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 1,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"tleonardi",
-    "languages_primary":[
+    "username": "tkmamidi",
+    "languages_primary": [
+      "python",
+      "r"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "University of Alabama at Birmingham"
+    ],
+    "email": "tmamidi@uab.edu",
+    "topics": [
+      "artificial intelligence",
+      "bioinformatics",
+      "computational biology",
+      "genetics",
+      "genomics",
+      "machine learning",
+      "reproducible science",
+      "systems biology"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "tleonardi",
+    "languages_primary": [
       "bash",
       "python",
       "r"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "Italian Institute of Technology",
       "Italian Institute of Technology (IIT)"
     ],
-    "email":"tommaso.leonardi@iit.itI",
-    "topics":[
+    "email": "tommaso.leonardi@iit.itI",
+    "topics": [
       "bioinformatics",
       "biostatistics",
       "data science",
       "genomics",
       "statistics"
     ],
-    "active_reviews":0,
-    "total_reviews":4,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 4,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"uludag",
-    "languages_primary":[
+    "username": "uludag",
+    "languages_primary": [
       "c",
       "java",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "javascript"
     ],
-    "affiliations":[
+    "affiliations": [
       "Software Developer"
     ],
-    "email":"mahmut.uludag@kaust.edu.sa",
-    "topics":[
+    "email": "mahmut.uludag@kaust.edu.sa",
+    "topics": [
       "bioinformatics"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"waldeyr",
-    "languages_primary":[
+    "username": "urjoshi",
+    "languages_primary": [
+      "java",
+      "python",
+      "sql"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "Iowa State University"
+    ],
+    "email": "urjoshi@iastate.edu",
+    "topics": [
+      "bioinformatics",
+      "cyber-physical systems",
+      "database management",
+      "genetic algorithms",
+      "software configurability",
+      "software engineering"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "urmi-21",
+    "languages_primary": [
+      "python"
+    ],
+    "languages_secondary": [
+      "java",
+      "r"
+    ],
+    "affiliations": [
+    ],
+    "email": "urminder.singh.21@gmail.com",
+    "topics": [
+      "bioinformatics",
+      "biomedical sciences",
+      "genomics"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "vaniisgh",
+    "languages_primary": [
+      "c++",
+      "go",
+      "python"
+    ],
+    "languages_secondary": [
+      "java"
+    ],
+    "affiliations": [
+    ],
+    "email": "vanisingh@live.co.uk",
+    "topics": [
+      "bioinformatics",
+      "computer science"
+    ],
+    "active_reviews": 1,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "vinisalazar",
+    "languages_primary": [
+      "python"
+    ],
+    "languages_secondary": [
+      "r"
+    ],
+    "affiliations": [
+      "University of Melbourne"
+    ],
+    "email": "viniws@gmail.com",
+    "topics": [
+      "bioinformatics",
+      "marine biogeography",
+      "marine microbiology",
+      "metagenomics",
+      "microbial genomics",
+      "microbiome science"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 2,
+    "recent_quarter_reviews": 2
+  },
+  {
+    "username": "waldeyr",
+    "languages_primary": [
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "python",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Instituto Federal de Goiás"
     ],
-    "email":"waldeyr.mendes@ifg.edu.br",
-    "topics":[
+    "email": "waldeyr.mendes@ifg.edu.br",
+    "topics": [
       "bioinformatics",
       "biology",
       "computational biology"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"will-rowe",
-    "languages_primary":[
+    "username": "will-rowe",
+    "languages_primary": [
       "c",
       "go",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c"
     ],
-    "affiliations":[
+    "affiliations": [
       "UKRI",
       "University of Birmingham"
     ],
-    "email":"w.p.m.rowe@gmail.com",
-    "topics":[
+    "email": "w.p.m.rowe@gmail.com",
+    "topics": [
       "bioinformatics",
       "genetics",
       "genomics",
       "microbial genomics",
       "microbiology"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"woolfeh",
-    "languages_primary":[
+    "username": "woolfeh",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
-
+    "languages_secondary": [
     ],
-    "affiliations":[
+    "affiliations": [
       "John Innes Centre"
     ],
-    "email":"hugh.woolfenden@jic.ac.uk",
-    "topics":[
+    "email": "hugh.woolfenden@jic.ac.uk",
+    "topics": [
       "computational biology",
       "mathematical modeling"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"xie186",
-    "languages_primary":[
+    "username": "xie186",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "javascript",
       "perl",
       "r"
     ],
-    "affiliations":[
+    "affiliations": [
       "Purdue University"
     ],
-    "email":"xie186@purdue.edu",
-    "topics":[
+    "email": "xie186@purdue.edu",
+    "topics": [
       "bioinformatics",
       "genetics",
       "genomics",
       "sequencing"
     ],
-    "active_reviews":0,
-    "total_reviews":1,
-    "recent_year_reviews":1,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 1,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"xin-huang",
-    "languages_primary":[
+    "username": "xin-huang",
+    "languages_primary": [
       "java",
       "python",
       "r"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "perl"
     ],
-    "affiliations":[
+    "affiliations": [
       "University of Arizona"
     ],
-    "email":"xinhuang@email.arizona.edu",
-    "topics":[
+    "email": "xinhuang@email.arizona.edu",
+    "topics": [
       "computational biology",
       "genomics",
       "population genetics"
     ],
-    "active_reviews":0,
-    "total_reviews":2,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 2,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"zethson",
-    "languages_primary":[
+    "username": "yannikschaelte",
+    "languages_primary": [
+      "python"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "University of Bonn"
+    ],
+    "email": "yannik.schaelte@gmail.com",
+    "topics": [
+      "bioinformatics"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "ylz0",
+    "languages_primary": [
+      "java",
+      "javascript",
+      "perl",
+      "python",
+      "r",
+      "scala"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "Leidos Inc."
+    ],
+    "email": "ylz0@cdc.gov",
+    "topics": [
+      "bioinformatics",
+      "data science"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "yuxuanzhuang",
+    "languages_primary": [
+      "python"
+    ],
+    "languages_secondary": [
+    ],
+    "affiliations": [
+      "Stockholm University"
+    ],
+    "email": "yuxuan.zhuang@dbb.su.se",
+    "topics": [
+      "biochemistry",
+      "bioinformatics",
+      "biophysics",
+      "computational chemistry"
+    ],
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
+  },
+  {
+    "username": "zethson",
+    "languages_primary": [
       "java",
       "kotlin",
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "c++",
       "css",
       "groovy",
       "html"
     ],
-    "affiliations":[
+    "affiliations": [
       "Quantitative Biology Center Tübingen"
     ],
-    "email":"lukas.heumos@posteo.net",
-    "topics":[
+    "email": "lukas.heumos@posteo.net",
+    "topics": [
       "bioinformatics",
       "data science",
       "machine learning"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   },
   {
-    "username":"zfrenchee",
-    "languages_primary":[
+    "username": "zfrenchee",
+    "languages_primary": [
       "python"
     ],
-    "languages_secondary":[
+    "languages_secondary": [
       "javascript"
     ],
-    "affiliations":[
+    "affiliations": [
       "Massachusetts Institute of Technology"
     ],
-    "email":"alex@lenail.org",
-    "topics":[
+    "email": "alex@lenail.org",
+    "topics": [
       "computational biology",
       "machine learning",
       "visualization"
     ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
+    "active_reviews": 0,
+    "total_reviews": 0,
+    "recent_year_reviews": 0,
+    "recent_quarter_reviews": 0
   }
 ]

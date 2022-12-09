@@ -11,7 +11,7 @@ import logging
 import re
 from collections import Counter
 from pathlib import Path
-from typing import Mapping, Optional
+from typing import Any, Mapping, Optional
 
 import pandas as pd
 import pystow
@@ -60,8 +60,8 @@ FULL_JSON_PATH = DERIVED.joinpath("full.json")
 BIOINFO_TSV_PATH = DERIVED.joinpath("bioinfo.tsv")
 BIOINFO_JSON_PATH = DERIVED.joinpath("bioinfo.json")
 
-ID = "1PAPRJ63yq9aPC1COLjaQp8mHmEq3rZUzwUYxTulyu78"
-SHEET_URL = f"https://docs.google.com/spreadsheets/d/{ID}/export"
+ID = ""
+SHEET_URL = f"https://docs.google.com/spreadsheets/d/1PAPRJ63yq9aPC1COLjaQp8mHmEq3rZUzwUYxTulyu78/export"
 HEADER = [
     "username",
     "languages_primary",
@@ -78,7 +78,7 @@ FORBIDDEN_CHARACTERS = ['"']
 SEP = re.compile(r"[\n,/;]")
 
 
-def _strip_split(s: any) -> list[str]:
+def _strip_split(s: Any) -> list[str]:
     if not isinstance(s, str):
         return []
     rv = []
@@ -91,7 +91,7 @@ def _strip_split(s: any) -> list[str]:
     return rv
 
 
-def clean_username(username: any) -> Optional[str]:
+def clean_username(username: Any) -> Optional[str]:
     """Clean data in the username column."""
     if not isinstance(username, str):
         return None
@@ -106,6 +106,7 @@ def clean_username(username: any) -> Optional[str]:
         "http://github.com/",
         "github.com/",
         "github. com/",
+        "@",
     ):
         username = username.removeprefix(prefix)
     if "bitbucket.org" in username:
@@ -127,7 +128,7 @@ def clean_username(username: any) -> Optional[str]:
     return username
 
 
-def clean_languages(language: any) -> list[str]:
+def clean_languages(language: Any) -> list[str]:
     """Clean the language column, parse, and normalize."""
     if not isinstance(language, str):
         return []
@@ -150,7 +151,7 @@ def clean_languages(language: any) -> list[str]:
     return _strip_split(language)
 
 
-def clean_topic(topic: any) -> list[str]:
+def clean_topic(topic: Any) -> list[str]:
     """Clean the topic column, parse, and normalize."""
     if not isinstance(topic, str):
         return []
@@ -187,7 +188,7 @@ def clean_topic(topic: any) -> list[str]:
     return rv
 
 
-def clean_affiliations(affiliation: any) -> list[str]:
+def clean_affiliations(affiliation: Any) -> list[str]:
     """Clean the affiliations column, parse, and normalize."""
     if not isinstance(affiliation, str):
         return []
@@ -226,7 +227,7 @@ def _nonempty(data: list) -> bool:
     return 0 < len(data)
 
 
-def main(force: bool = False):
+def main(force: bool = True):
     """Run the normalization script."""
     df = get_df(force=force)
 
@@ -347,7 +348,7 @@ def to_triples(df: pd.DataFrame, path: Path) -> None:
             triples.add((username, "topic", topic))
     with path.open("w") as file:
         for s, p, o in sorted(triples):
-            print(s, p, o, sep="\t", file=file)  # noqa:T001
+            print(s, p, o, sep="\t", file=file)  # noqa:T201
 
 
 if __name__ == "__main__":
