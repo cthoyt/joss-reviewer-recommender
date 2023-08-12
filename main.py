@@ -182,9 +182,32 @@ def clean_topic(topic: Any) -> list[str]:
             if not s:
                 continue
             s = TOPIC_MAPPING.get(s, s)
-            if s in TOPIC_BLACKLIST:
-                continue
-            rv.append(s)
+            if isinstance(s, str):
+                s = [s]
+            for y in s:
+                y = y.strip()
+                y = y.removeprefix("- ").strip()
+                y = y.removeprefix("and ").strip()
+                y = y.removeprefix("applied ").strip()
+                y = y.removeprefix("some ").strip()
+                y = y.removeprefix("theoretical ").strip()
+                y = y.removeprefix("computational").strip()
+                y = y.removeprefix("quantitative").strip()
+                y = y.removeprefix("quant ").strip()
+                y = y.removeprefix("qualitative").strip()
+                y = y.removesuffix("data analysis").strip()
+                y = y.removesuffix("analysis").strip()
+                y = y.removesuffix("data analyses").strip()
+                y = y.removesuffix("analyses").strip()
+                y = y.removesuffix("workflows").strip()
+                y = y.removesuffix("workflow").strip()
+                y = y.removesuffix("tool").strip()
+                y = y.removesuffix('tools').strip()
+                if not y:
+                    continue
+                if y in TOPIC_BLACKLIST:
+                    continue
+                rv.append(y)
     return rv
 
 
@@ -326,7 +349,7 @@ def _aggregate_duplicates(username: str, sdf: pd.DataFrame):
         sorted({i for row in sdf.languages_secondary for i in row}),
         sorted({i for row in sdf.affiliations for i in row}),
         sdf.iloc[-1].email,
-        sorted({i for row in sdf.topics for i in row}),
+        sorted({i.strip() for row in sdf.topics for i in row}),
         sum(row for row in sdf.active_reviews),
         sum(row for row in sdf.total_reviews),
         sum(row for row in sdf.recent_year_reviews),

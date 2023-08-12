@@ -284,7 +284,6 @@
     "email":"iamabinash98@gmail.com",
     "topics":[
       "cyber security",
-      "data analysis",
       "machine learning",
       "quantum algorithms",
       "web development"
@@ -376,7 +375,7 @@
     "email":"aarslan@stanford.edu",
     "topics":[
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -399,7 +398,7 @@
     "email":"alan.ocallaghan@outlook.com",
     "topics":[
       "bioinformatics",
-      "image analysis"
+      "image"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -486,7 +485,7 @@
     ],
     "email":"amir.h.hadian@gmail.com",
     "topics":[
-      "brain data analysis",
+      "brain",
       "cognitive sciences",
       "scientific computing"
     ],
@@ -542,7 +541,7 @@
       "gis",
       "language diversity",
       "phylogenetics",
-      "spatial analysis"
+      "spatial"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -658,7 +657,7 @@
     "email":"wsciekly.maciek@gmail.com",
     "topics":[
       "fair research",
-      "general-purpose tools",
+      "general-purpose",
       "rna biology",
       "statistical modeling"
     ],
@@ -790,21 +789,21 @@
     ],
     "email":"ahughes@turing.ac.uk",
     "topics":[
+      "biology",
       "climate modeling",
-      "computational biology",
       "computer vision",
       "data wrangling",
       "genotyping",
       "jupyter",
       "machine learning",
       "mathematical modeling",
-      "microscopy data analysis",
+      "microscopy",
       "phenotyping",
       "physics",
       "plant science",
-      "quantitative trait modelling",
       "statistics",
-      "systems biology"
+      "systems biology",
+      "trait modelling"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -851,9 +850,9 @@
     ],
     "email":"barker49@msu.edu",
     "topics":[
-      "applied mathematics",
       "astrophysics",
-      "data science"
+      "data science",
+      "mathematics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -899,10 +898,9 @@
     ],
     "email":"danielacialfi@gmail.com",
     "topics":[
+      "cognitive modeling",
       "cognitive neuroscience",
       "cognitive science",
-      "computational cognitive modeling",
-      "computational mechanics",
       "data science .computer science",
       "dynamical systems",
       "economics",
@@ -911,6 +909,7 @@
       "information science",
       "machine learning",
       "mathematics",
+      "mechanics",
       "neuroscience",
       "non-linear dynamics",
       "open source software",
@@ -919,7 +918,7 @@
       "regression models",
       "social dynamics",
       "social sciences",
-      "spatial analysis",
+      "spatial",
       "statistical physics",
       "statistics",
       "stochastic processes",
@@ -1089,7 +1088,7 @@
     ],
     "email":"bdecicco2001@yahoo.com",
     "topics":[
-      "statistical analysis",
+      "statistical",
       "statistics"
     ],
     "active_reviews":0,
@@ -1133,7 +1132,7 @@
     ],
     "email":"batool@liverpool.ac.uk",
     "topics":[
-      "computational biology and bioinformatics"
+      "biology and bioinformatics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -1337,8 +1336,8 @@
     "email":"paul@brnikat.com",
     "topics":[
       "astronomy",
-      "computational number theory",
-      "cryptography"
+      "cryptography",
+      "number theory"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -1358,7 +1357,9 @@
     ],
     "email":"bjorn_sing@hotmail.com",
     "topics":[
-      "signal processing and machine learning (in medical applications)"
+      "machine learning",
+      "medicine",
+      "signal processing"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -1433,20 +1434,20 @@
     ],
     "email":"carsten.fortmann-grote@evolbio.mpg.de",
     "topics":[
-      "- atomic physics",
-      "- evolutionary models",
-      "- extreme fields",
-      "- genetic analysis pipelines",
-      "- many body physics",
-      "- plasma physics",
-      "- quantum electrodynamics",
-      "- sequence alignment",
-      "- stochastic simulations",
-      "- x-ray optics",
-      "- x-ray plasma diagnostics",
+      "atomic physics",
       "biology:",
+      "evolutionary models",
+      "extreme fields",
+      "genetic analysis pipelines",
+      "many body physics",
       "physics:",
-      "rna seq"
+      "plasma physics",
+      "quantum electrodynamics",
+      "rna seq",
+      "sequence alignment",
+      "stochastic simulations",
+      "x-ray optics",
+      "x-ray plasma diagnostics"
     ],
     "active_reviews":1,
     "total_reviews":6,
@@ -1515,7 +1516,7 @@
     "topics":[
       "mle",
       "numerical methods",
-      "survival analysis"
+      "survival"
     ],
     "active_reviews":0,
     "total_reviews":4,
@@ -1773,8 +1774,8 @@
     ],
     "email":"dalton.a.sakthivadivel@stonybrook.edu",
     "topics":[
-      "ai and ml",
-      "data analysis",
+      "artificial intelligence",
+      "machine learning",
       "modelling",
       "simulations"
     ],
@@ -1990,7 +1991,7 @@
     ],
     "email":"gawehnsd@liacs.leidenuniv.nl",
     "topics":[
-      "health domain",
+      "healthcare",
       "neuroscience",
       "psychology"
     ],
@@ -2020,8 +2021,8 @@
       "healthcare",
       "longitudinal data",
       "repeated events",
-      "survey analysis",
-      "time series analysis"
+      "survey",
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -2131,12 +2132,12 @@
     ],
     "email":"xuefengd@princeton.edu",
     "topics":[
-      "astro-particle physics",
+      "astrophysics",
       "fitting",
-      "multivariate analysis",
+      "multivariate",
       "optimization",
       "physics",
-      "statistical analysis"
+      "statistical"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -2177,8 +2178,7 @@
     ],
     "email":"dominic@davis-foster.co.uk",
     "topics":[
-      "chemistry",
-      "sciences"
+      "chemistry"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -2248,11 +2248,11 @@
     ],
     "email":"matthew.grainger@nina.no",
     "topics":[
-      "bibliometrix analysis",
+      "bibliometrix",
       "conservation",
       "ecology",
       "evidence synthesis",
-      "meta-analysis",
+      "meta-",
       "systematic review"
     ],
     "active_reviews":0,
@@ -2298,10 +2298,9 @@
     "topics":[
       "biostatistics",
       "ecology",
-      "ecotoxicology",
       "multivariate statistics",
       "statistics",
-      "toxicolgy"
+      "toxicology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -2356,10 +2355,9 @@
     "email":"epaluzo@us.es",
     "topics":[
       "algebraic topology",
-      "computational topology",
       "machine learning",
       "mathematics",
-      "topological data analysis",
+      "topological",
       "topology"
     ],
     "active_reviews":0,
@@ -2383,7 +2381,7 @@
       "anonymity",
       "api",
       "computer science",
-      "rest",
+      "restful apis",
       "security"
     ],
     "active_reviews":0,
@@ -2487,7 +2485,7 @@
       "missing data",
       "small area estimation",
       "survey sampling",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":1,
     "total_reviews":1,
@@ -2646,7 +2644,7 @@
     ],
     "email":"filipe.ferraz0@gmail.com",
     "topics":[
-      "artificial inteligence",
+      "artificial intelligence",
       "audio processing",
       "data science",
       "electronics",
@@ -2759,26 +2757,6 @@
     "recent_quarter_reviews":0
   },
   {
-    "username":"FrancisXL2019",
-    "languages_primary":[
-      "r"
-    ],
-    "languages_secondary":[
-      "python"
-    ],
-    "affiliations":[
-      "CSULB"
-    ],
-    "email":"xiyue.liao@csulb.edu",
-    "topics":[
-      "r package"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
     "username":"FranciscoReveriano",
     "languages_primary":[
       "python"
@@ -2820,8 +2798,28 @@
     "topics":[
       "distributed systems",
       "drones",
-      "machine learning",
-      "quant finance"
+      "finance",
+      "machine learning"
+    ],
+    "active_reviews":0,
+    "total_reviews":0,
+    "recent_year_reviews":0,
+    "recent_quarter_reviews":0
+  },
+  {
+    "username":"Funnelfiasco",
+    "languages_primary":[
+      "python"
+    ],
+    "languages_secondary":[
+      "bash"
+    ],
+    "affiliations":[
+
+    ],
+    "email":null,
+    "topics":[
+      "cli"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -2865,7 +2863,8 @@
     "email":"dsq1993qingge@163.com",
     "topics":[
       "geography and spatial statistics",
-      "remote sensing and gis",
+      "gis",
+      "remote sensing",
       "spatial statistics"
     ],
     "active_reviews":0,
@@ -2961,7 +2960,7 @@
       "data science",
       "including cleaning",
       "machine learning",
-      "network analysis",
+      "network",
       "statistics",
       "validation"
     ],
@@ -2985,7 +2984,7 @@
     "email":"garethpeters@ucsb.edu",
     "topics":[
       "finance and insurance",
-      "statistics for risk"
+      "statistics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -3094,7 +3093,7 @@
     ],
     "email":"julian-samuel@gebuehr.net",
     "topics":[
-      "eeg+emg analysis",
+      "eeg+emg",
       "interfacing with medical products",
       "labstraming layer",
       "study protocols",
@@ -3266,7 +3265,7 @@
     ],
     "email":"haot@smu.edu",
     "topics":[
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -3458,11 +3457,11 @@
     ],
     "email":"himanshu90sharma@gmail.com",
     "topics":[
-      "computational fluid dynamic",
       "data science",
       "dynamics & controls",
       "energy systems",
       "finite element methods",
+      "fluid dynamic",
       "high performance computing",
       "machine learning",
       "optimization",
@@ -3509,8 +3508,8 @@
     ],
     "email":"hubert.santuz@ibpc.fr",
     "topics":[
-      "computational biochemistry",
-      "computational chemistry",
+      "biochemistry",
+      "chemistry",
       "molecular dynamics"
     ],
     "active_reviews":0,
@@ -3532,7 +3531,7 @@
     ],
     "email":"baratta@ufmg.br",
     "topics":[
-      "computational electromagnetics",
+      "electromagnetics",
       "finite element methods"
     ],
     "active_reviews":1,
@@ -3575,7 +3574,7 @@
     ],
     "email":"jch936@bham.ac.uk",
     "topics":[
-      "theoretical chemistryphysical chemistry"
+      "chemistryphysical chemistry"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -3699,12 +3698,12 @@
     ],
     "email":"jmxbrown@uw.edu",
     "topics":[
-      "computational social science",
       "image processing",
       "information archival",
       "information retrieval",
       "information systems",
-      "open infrastructure"
+      "open infrastructure",
+      "social science"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -3726,10 +3725,10 @@
     ],
     "email":"jacob.barhak@gmail.com",
     "topics":[
-      "computational disease modeling",
-      "computational geometry",
       "computer aided design",
       "computer graphics",
+      "disease modeling",
+      "geometry",
       "machine learning",
       "modeling and simulation"
     ],
@@ -3800,8 +3799,8 @@
     ],
     "email":"jaroslav.hron@mff.cuni.cz",
     "topics":[
-      "computational fluid dynamics",
       "fem",
+      "fluid dynamics",
       "iterative solvers",
       "linear algebra",
       "numerical software"
@@ -3826,7 +3825,6 @@
     "email":"jwalton@paulsmiths.edu",
     "topics":[
       "celestial mechanics",
-      "data analysis",
       "image processing",
       "remote sensing"
     ],
@@ -3894,7 +3892,6 @@
     ],
     "email":"jesse.livezey@gmail.com",
     "topics":[
-      "data analysis",
       "machine learning"
     ],
     "active_reviews":0,
@@ -4016,7 +4013,8 @@
     "topics":[
       "bioinformatics",
       "biostatistics",
-      "health and medicine"
+      "healthcare",
+      "medicine"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -4230,7 +4228,6 @@
     ],
     "email":"josh.karpel@gmail.com",
     "topics":[
-      "computational physics",
       "math",
       "physics",
       "visualization"
@@ -4423,7 +4420,7 @@
     "email":"KKEIPERT@ANL.GOV",
     "topics":[
       "application fault tolerance",
-      "computational chemistry",
+      "chemistry",
       "high performance computing",
       "molecular dynamics",
       "quantum chemistry"
@@ -4628,7 +4625,7 @@
     "topics":[
       "compilers",
       "formal methods",
-      "program analysis",
+      "program",
       "program synthesis",
       "program verification",
       "programming languages"
@@ -4697,7 +4694,7 @@
     ],
     "email":"ka0064@mix.wvu.edu",
     "topics":[
-      "astronomy data analysis",
+      "astronomy",
       "astronomy pipeline",
       "machine learning"
     ],
@@ -4721,8 +4718,8 @@
     ],
     "email":"tim.schatto-eckrodt@uni-muenster.de",
     "topics":[
-      "computational social science",
-      "natural language processing"
+      "natural language processing",
+      "social science"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -4811,8 +4808,8 @@
     ],
     "email":"tristan.miller@ofai.at",
     "topics":[
-      "computational humour",
-      "computational linguistics",
+      "humour",
+      "linguistics",
       "natural language processing"
     ],
     "active_reviews":0,
@@ -4952,7 +4949,7 @@
     "email":"Makrina.agaoglou@bristol.ac.uk",
     "topics":[
       "dynamical systems",
-      "melnikov analysis",
+      "melnikov",
       "nonlinear waves",
       "ordinary differential equations",
       "partial differential equations"
@@ -5043,8 +5040,8 @@
     ],
     "email":"martin.diehl@kuleuven.be",
     "topics":[
-      "computational mechanics",
-      "materials science"
+      "materials science",
+      "mechanics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -5115,7 +5112,7 @@
     "email":"matthewhflamm@gmail.com",
     "topics":[
       "chemical engineering",
-      "computational fluid dynamics",
+      "fluid dynamics",
       "mixing"
     ],
     "active_reviews":0,
@@ -5137,7 +5134,7 @@
     "email":"M.Smith@greenwich.ac.uk",
     "topics":[
       "international trade",
-      "network analysis",
+      "network",
       "visualization"
     ],
     "active_reviews":0,
@@ -5164,7 +5161,7 @@
       "bioinformatics",
       "data science",
       "distributed programming",
-      "image analysis",
+      "image",
       "machine learning"
     ],
     "active_reviews":2,
@@ -5365,12 +5362,12 @@
     ],
     "email":"michael.lydeamore@monash.edu",
     "topics":[
-      "applied mathematics",
       "bayesian statistics",
-      "computational biology",
+      "biology",
       "data science",
       "inference",
-      "machine learning"
+      "machine learning",
+      "mathematics"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -5555,8 +5552,8 @@
     ],
     "email":"Msafdari@illinois.edu",
     "topics":[
-      "computational science",
-      "numerical analysis"
+      "numerical",
+      "science"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -5608,7 +5605,7 @@
       "computer assisted interventions",
       "image registration",
       "machine learning",
-      "medical image analysis",
+      "medical image",
       "medical image computing"
     ],
     "active_reviews":0,
@@ -5655,7 +5652,7 @@
     "topics":[
       "embedded firmware",
       "processes",
-      "rails",
+      "ruby on rails",
       "web"
     ],
     "active_reviews":0,
@@ -5679,12 +5676,12 @@
     ],
     "email":"nkhoshnevis@fas.harvard.edu",
     "topics":[
-      "applied science",
-      "applied science (geophysics)",
       "causal inference",
       "engineering",
       "machine learning",
       "oop",
+      "science",
+      "science (geophysics)",
       "signal processing",
       "statistics"
     ],
@@ -5762,7 +5759,7 @@
     ],
     "email":"natalie.thurlby@bristol.ac.uk",
     "topics":[
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -5784,7 +5781,7 @@
     "email":"haines.175@osu.edu",
     "topics":[
       "cognitive science",
-      "computational modeling",
+      "modeling",
       "simulation",
       "task design"
     ],
@@ -5810,8 +5807,8 @@
     "email":"fatima.nazeefa@gmail.com",
     "topics":[
       "bioinformatics",
+      "biology",
       "biostatistics",
-      "computational biology",
       "genomics"
     ],
     "active_reviews":0,
@@ -5889,32 +5886,6 @@
     "recent_quarter_reviews":0
   },
   {
-    "username":"None",
-    "languages_primary":[
-      "c++",
-      "matlab",
-      "python"
-    ],
-    "languages_secondary":[
-      "c",
-      "fortran"
-    ],
-    "affiliations":[
-      "University of Massachusetts Amherst"
-    ],
-    "email":"a.kumar@ictmumbai.edu.in",
-    "topics":[
-      "computation fluid dynamics",
-      "computation heat transfer",
-      "computational mathematics",
-      "numerical analysis"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
     "username":"NoraLoose",
     "languages_primary":[
       "python"
@@ -5934,27 +5905,6 @@
     ],
     "active_reviews":1,
     "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
-    "username":"Nothing",
-    "languages_primary":[
-      "c++",
-      "python"
-    ],
-    "languages_secondary":[
-
-    ],
-    "affiliations":[
-      "ZheJiang University"
-    ],
-    "email":"chengqi0908@foxmail.com",
-    "topics":[
-      "dsp"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
     "recent_year_reviews":0,
     "recent_quarter_reviews":0
   },
@@ -6208,9 +6158,9 @@
     ],
     "email":"psharma4@kumc.edu",
     "topics":[
-      "clinical trial",
+      "clinical trials",
       "machine learning",
-      "survival analysis"
+      "survival"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -6303,7 +6253,7 @@
     ],
     "email":"peter.kraus@ceramics.tu-berlin.de",
     "topics":[
-      "computational chemistry",
+      "chemistry",
       "experimental chemistry",
       "instrument automation",
       "physical chemistry",
@@ -6393,9 +6343,9 @@
     ],
     "email":"chenpingjun@gmx.com",
     "topics":[
-      "biomedical image analysis",
-      "computational pathology",
-      "machine learning"
+      "biomedical image",
+      "machine learning",
+      "pathology"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -6449,7 +6399,7 @@
       "digital transformation",
       "engineering skills",
       "language",
-      "opensource software tool",
+      "opensource software",
       "scripts",
       "technology"
     ],
@@ -6682,7 +6632,7 @@
     "email":"bhupendra.raut@northwestern.edu",
     "topics":[
       "atmospheric remote sensing",
-      "statistics and data analysis",
+      "statistics and",
       "weather and climate"
     ],
     "active_reviews":0,
@@ -6708,11 +6658,11 @@
       "data mining",
       "fluorescence imaging",
       "gui design",
-      "health science",
+      "healthcare",
       "machine learning",
       "neuroscience",
       "statistics",
-      "wet lab image analysis"
+      "wet lab image"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -6739,7 +6689,7 @@
     "email":"risirajdey@gmail.com",
     "topics":[
       "scientific computing",
-      "security tools"
+      "security"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -6787,9 +6737,9 @@
     ],
     "email":"rocco.meli@biodtp.ox.ac.uk",
     "topics":[
+      "biochemistry",
+      "chemistry",
       "chemoinformatics",
-      "computational biochemistry",
-      "computational chemistry",
       "machine learning"
     ],
     "active_reviews":0,
@@ -6917,9 +6867,9 @@
     ],
     "email":"xrpatrick@gmail.com",
     "topics":[
-      "applied mathematics",
       "chemistry",
       "computer vision",
+      "mathematics",
       "neuroscience",
       "physics"
     ],
@@ -6990,10 +6940,10 @@
     "email":"ryangcoleman@gmail.com",
     "topics":[
       "algorithms",
-      "computational biology",
-      "computational chemistry",
-      "computational geometry",
-      "computer science"
+      "biology",
+      "chemistry",
+      "computer science",
+      "geometry"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -7014,7 +6964,7 @@
     ],
     "email":"ritikaprasai3@gmail.com",
     "topics":[
-      "web basesd tools"
+      "web basesd"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -7101,7 +7051,7 @@
     "email":"srobaina@ull.edu.es",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "metabolic modeling",
       "metagenomics"
     ],
@@ -7147,7 +7097,7 @@
     ],
     "email":"romainfernandez06@gmail.com",
     "topics":[
-      "image analysis"
+      "image"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -7419,6 +7369,33 @@
     "recent_quarter_reviews":0
   },
   {
+    "username":"SaranjeetKaur",
+    "languages_primary":[
+      "julia",
+      "python",
+      "r"
+    ],
+    "languages_secondary":[
+      "julia",
+      "python",
+      "r"
+    ],
+    "affiliations":[
+      "Lead and Co-Founder, RSE Asia Association"
+    ],
+    "email":"kaur.saranjeet3@gmail.com",
+    "topics":[
+      "data analytics",
+      "data science",
+      "statistics",
+      "time series"
+    ],
+    "active_reviews":0,
+    "total_reviews":0,
+    "recent_year_reviews":0,
+    "recent_quarter_reviews":0
+  },
+  {
     "username":"SarthakJariwala",
     "languages_primary":[
       "python"
@@ -7433,8 +7410,8 @@
     "topics":[
       "api development",
       "climate",
-      "general data acquisition & analysis",
-      "image analysis",
+      "general data acquisition &",
+      "image",
       "materials science",
       "solar technology",
       "visualization"
@@ -7459,30 +7436,30 @@
     ],
     "email":"saumik@utexas.edu",
     "topics":[
-      "applied math",
-      "applied mathematics",
       "asynchronous and task-based programming",
       "biomechanics",
       "c++",
-      "computational fracture mechanics",
-      "computational oncology",
-      "computational science",
-      "computational science and engineering",
       "earth surface dynamics",
       "fortran",
+      "fracture mechanics",
       "geology",
       "geophysics",
       "high-performance computing",
       "hydrology",
       "julia",
       "landslides",
+      "math",
+      "mathematics",
       "matlab",
       "mechanics",
       "natural hazards",
       "numerical linear algebra",
       "numerical optimization",
+      "oncology",
+      "science",
+      "science and engineering",
       "teaching",
-      "terrain analysis"
+      "terrain"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -7564,7 +7541,6 @@
     "email":"sebastiano.ferraris@gmail.com",
     "topics":[
       "algorithms",
-      "data analysis",
       "mathematics",
       "medical imaging"
     ],
@@ -7659,12 +7635,12 @@
     ],
     "email":"shreyas.gaikwad@utexas.edu",
     "topics":[
-      "computational glaciology",
-      "computational science",
       "data assimilation",
+      "glaciology",
       "pde-constrained inverse problems",
       "physical oceanography",
-      "physics informed machine learning"
+      "physics informed machine learning",
+      "science"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -7686,9 +7662,9 @@
     ],
     "email":"shuang9@email.unc.edu",
     "topics":[
-      "complex data analysis",
-      "image analysis",
-      "sequence analysis",
+      "complex",
+      "image",
+      "sequence",
       "statistics"
     ],
     "active_reviews":0,
@@ -7713,8 +7689,8 @@
     "topics":[
       "aerospace",
       "automatic differentiation",
-      "computational fluid dynamics",
       "dynamical system",
+      "fluid dynamics",
       "mdo",
       "numerical method",
       "optimization",
@@ -7786,7 +7762,7 @@
       "gis",
       "remote sensing",
       "spatial analytics",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -7925,7 +7901,6 @@
     ],
     "email":"robert.cook@bcu.ac.uk",
     "topics":[
-      "data analysis",
       "data mining",
       "statistics"
     ],
@@ -8133,7 +8108,7 @@
     "topics":[
       "crystal plasticity",
       "crystallographic texture",
-      "finite element analysis",
+      "finite element",
       "grain structures",
       "materials science",
       "structural integrity and metal fatigue"
@@ -8297,8 +8272,8 @@
     ],
     "email":"jifutan@niu.edu",
     "topics":[
-      "computational fluid dynamics",
       "finite element method",
+      "fluid dynamics",
       "fluid solid interaction",
       "high performance computing",
       "immersed boundary method",
@@ -8445,8 +8420,7 @@
     "email":"thomas.friedrich87@outlook.de",
     "topics":[
       "gui",
-      "image processing",
-      "scientific"
+      "image processing"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -8594,7 +8568,6 @@
     "topics":[
       "behavioural tasks",
       "cognitive and computational neuroscience",
-      "data analysis",
       "digital signal processing",
       "electrophysiology"
     ],
@@ -8657,14 +8630,14 @@
     ],
     "email":"tom.kelly@riken.jp",
     "topics":[
-      "(bio)statistical analysis",
+      "(bio)statistical",
       "bioinformatics",
       "genomics data",
       "graph theory",
       "high performance computing",
       "networks biology",
       "parallel computing",
-      "single-cell analysis"
+      "single-cell"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -8751,7 +8724,7 @@
       "agent architecture",
       "health informatics",
       "human computer interaction",
-      "iot",
+      "internet of things",
       "natural language processing",
       "ontologies",
       "semantic web",
@@ -8761,26 +8734,6 @@
     "active_reviews":0,
     "total_reviews":1,
     "recent_year_reviews":1,
-    "recent_quarter_reviews":0
-  },
-  {
-    "username":"Unknown",
-    "languages_primary":[
-      "java"
-    ],
-    "languages_secondary":[
-      "c++"
-    ],
-    "affiliations":[
-      "Tesla"
-    ],
-    "email":"cherishh1983@gmail.com",
-    "topics":[
-      "all"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
     "recent_quarter_reviews":0
   },
   {
@@ -8796,7 +8749,7 @@
     ],
     "email":"gonza445@purdue.edu",
     "topics":[
-      "computational chemistry",
+      "chemistry",
       "density functional theory"
     ],
     "active_reviews":0,
@@ -8818,7 +8771,6 @@
     ],
     "email":"vnikolaidis@hotmail.com",
     "topics":[
-      "data analysis",
       "software engineering"
     ],
     "active_reviews":0,
@@ -8840,7 +8792,6 @@
     "email":"vaasuceg.96@gmail.com",
     "topics":[
       "gis",
-      "python modules",
       "remote sensing"
     ],
     "active_reviews":1,
@@ -8862,7 +8813,7 @@
     "email":"roman.feldbauer@ofai.at",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "data mining",
       "machine learning"
     ],
@@ -8941,8 +8892,8 @@
     "topics":[
       "(distributionally) robust optimization",
       "algorithms and complexity theory",
-      "applied graph theory",
       "computer algebra systems",
+      "graph theory",
       "mathematical optimization",
       "network science"
     ],
@@ -9001,7 +8952,7 @@
       "genomics",
       "microarray",
       "next-generation sequencing",
-      "sequence analysis"
+      "sequence"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -9028,7 +8979,7 @@
       "disease mapping",
       "markov chain monte carlo",
       "spatial statistics",
-      "statistical image analysis"
+      "statistical image"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -9199,7 +9150,7 @@
       "data mining",
       "industrial informatics",
       "machine learning",
-      "medical image analyses",
+      "medical image",
       "natural language processing",
       "signal processing"
     ],
@@ -9341,7 +9292,7 @@
     "topics":[
       "gis",
       "mapping",
-      "spatial analysis"
+      "spatial"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -9382,8 +9333,7 @@
     ],
     "email":"zitz@ruc.dk",
     "topics":[
-      "computational fluid dynamics",
-      "data analysis"
+      "fluid dynamics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -9427,8 +9377,8 @@
     "email":"aleg@ebi.ac.uk",
     "topics":[
       "bioinformatics",
+      "biology",
       "classification",
-      "computational biology",
       "data processing",
       "jupyter",
       "regression",
@@ -9483,7 +9433,7 @@
     ],
     "email":"fabien.leboeuf@chu-nantes.fr",
     "topics":[
-      "gait analysis",
+      "gait",
       "motion capture"
     ],
     "active_reviews":0,
@@ -9531,16 +9481,16 @@
     ],
     "email":"peikert@mpib-berlin.mpg.de",
     "topics":[
-      "- containers",
-      "- dynamic document generation",
-      "- hierarchical data",
-      "- model selection",
-      "- multimodel inference",
-      "- structural equation modeling",
-      "- version control",
+      "containers",
+      "dynamic document generation",
+      "hierarchical data",
       "machine learning",
+      "model selection",
+      "multimodel inference",
       "open science",
-      "reproducibility"
+      "reproducibility",
+      "structural equation modeling",
+      "version control"
     ],
     "active_reviews":1,
     "total_reviews":3,
@@ -9630,7 +9580,7 @@
     "topics":[
       "google earth engine",
       "remote sensing",
-      "spatial analysis"
+      "spatial"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -9650,7 +9600,7 @@
     ],
     "email":"alexander.bonkowski@rwth-aachen.de",
     "topics":[
-      "computational chemistry"
+      "chemistry"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -9893,13 +9843,13 @@
       "geospatial",
       "gis",
       "high performance computing",
-      "iot",
+      "internet of things",
       "knowledge representation",
       "ontologies",
-      "remote sensing tools",
+      "remote sensing",
       "semantic web",
       "web browser",
-      "web dev tools"
+      "web dev"
     ],
     "active_reviews":1,
     "total_reviews":2,
@@ -10113,9 +10063,9 @@
     ],
     "email":"anumolu@uwalumni.com",
     "topics":[
-      "computational physics",
       "computer graphics",
       "high performance computing",
+      "physics",
       "scientific computing"
     ],
     "active_reviews":1,
@@ -10181,7 +10131,6 @@
       "astronomy",
       "astrophysics",
       "cloud-native deployments",
-      "computational fluid dynamics",
       "containerization",
       "fluid dynamics",
       "gpu acceleration",
@@ -10255,7 +10204,7 @@
     ],
     "email":"adam.tyson@ucl.ac.uk",
     "topics":[
-      "image analysis",
+      "image",
       "neuroscience",
       "visualization"
     ],
@@ -10424,7 +10373,7 @@
       "generalized additive mixed models",
       "spatial statistics",
       "statistics",
-      "survival analysis"
+      "survival"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -10468,8 +10417,8 @@
     "topics":[
       "artificial intelligence",
       "autonomous driving",
-      "bayesian modelling",
-      "iot",
+      "bayesian modeling",
+      "internet of things",
       "machine learning"
     ],
     "active_reviews":0,
@@ -10604,7 +10553,7 @@
     "email":"adina.d.feinstein@gmail.com",
     "topics":[
       "astronomy",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -10626,7 +10575,7 @@
     "email":"afrendeiro@gmail.com",
     "topics":[
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -10648,10 +10597,10 @@
     "email":"alan.rubin@wehi.edu.au",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "genetics",
       "genomics",
-      "protein science"
+      "proteomics"
     ],
     "active_reviews":0,
     "total_reviews":6,
@@ -10725,12 +10674,12 @@
     "topics":[
       "brain stimulation",
       "brain-computer-interface",
-      "computational psychology",
       "digital signal processing",
       "eeg",
       "meg signal processing",
       "neuroscience",
-      "real-time analysis",
+      "psychology",
+      "real-time",
       "reinforcement learning",
       "systems neuroscience"
     ],
@@ -10850,7 +10799,7 @@
     ],
     "email":"ajayrawat@igcar.gov.in",
     "topics":[
-      "computational fluid dynamics"
+      "fluid dynamics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -10999,10 +10948,10 @@
     "topics":[
       "eeg etc)",
       "electrophysiology methods (meg",
-      "frequency analysis",
+      "frequency",
       "linear & nonlinear dynamical systems",
       "oscillations",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -11048,8 +10997,8 @@
     ],
     "email":"akbaritabar@gmail.com",
     "topics":[
-      "computational social science",
-      "network analysis",
+      "network",
+      "social science",
       "sociology"
     ],
     "active_reviews":0,
@@ -11138,10 +11087,10 @@
     ],
     "email":"arne.kuederle@fau.de",
     "topics":[
-      "gait analysis",
+      "gait",
       "imus",
       "machine learning",
-      "motion analysis",
+      "motion",
       "signal processing"
     ],
     "active_reviews":0,
@@ -11215,9 +11164,8 @@
     ],
     "email":"alberto.battistel@rub.de",
     "topics":[
-      "data analysis",
       "electrochemistry",
-      "harmonic analysis",
+      "harmonic",
       "impedance spectroscopy",
       "impedance tomography",
       "microwave imaging"
@@ -11271,7 +11219,7 @@
     "email":"alejandro.gallo@tuwien.ac.att",
     "topics":[
       "chemistry",
-      "computational mathematics",
+      "mathematics",
       "physics",
       "quantum chemistry"
     ],
@@ -11521,8 +11469,8 @@
     ],
     "email":"aprockhill@mailbox.org",
     "topics":[
-      "applied math",
       "human physiology",
+      "math",
       "neuroscience"
     ],
     "active_reviews":1,
@@ -11543,7 +11491,7 @@
     ],
     "email":"alex.g.squires@gmail.com",
     "topics":[
-      "computational materials chemistry"
+      "materials chemistry"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -11595,8 +11543,7 @@
     "topics":[
       "atmospheric science",
       "climate science",
-      "computational fluid dynamics",
-      "data analysis",
+      "fluid dynamics",
       "mathematics",
       "numerical methods",
       "oceanography",
@@ -11815,7 +11762,7 @@
     "topics":[
       "computer science",
       "distributed computing",
-      "rest apis",
+      "restful apis",
       "scientific computing"
     ],
     "active_reviews":0,
@@ -11891,7 +11838,7 @@
     ],
     "email":"lim@ku.edu",
     "topics":[
-      "computational biology",
+      "biology",
       "embedded systems",
       "geometry",
       "graphics",
@@ -12039,7 +11986,7 @@
       "artificial intelligence",
       "cognitive science",
       "machine learning",
-      "numerical analysis"
+      "numerical"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -12170,13 +12117,13 @@
     ],
     "email":"amritag@iitk.ac.in",
     "topics":[
-      "computational geometry",
-      "computational optics",
+      "chemistry",
+      "geometry",
       "graph theory",
       "ice nucleation",
       "molecular dynamics simulations",
-      "phase transitions",
-      "theoretical computational chemistry"
+      "optics",
+      "phase transitions"
     ],
     "active_reviews":0,
     "total_reviews":4,
@@ -12242,7 +12189,7 @@
     ],
     "email":"andimscience@gmail.com",
     "topics":[
-      "computational biology",
+      "biology",
       "optimization"
     ],
     "active_reviews":0,
@@ -12340,7 +12287,7 @@
     "email":"andremrsantos@gmail.com",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "statistics"
     ],
     "active_reviews":0,
@@ -12640,7 +12587,7 @@
     "email":"ankur.gupta.phd@gmail.com",
     "topics":[
       "algorithms",
-      "computational complexity",
+      "complexity",
       "data structures",
       "distributed computing",
       "machine learning",
@@ -12783,7 +12730,7 @@
     ],
     "email":"avigueras.rodriguez@upct.es",
     "topics":[
-      "computational fluid dynamics",
+      "fluid dynamics",
       "hydropower",
       "urban hydraulic",
       "wind power"
@@ -12874,7 +12821,7 @@
     "email":"apiad@matcom.uh.cu",
     "topics":[
       "compilers",
-      "computational linguistics",
+      "linguistics",
       "machine learning",
       "natural language processing"
     ],
@@ -13234,9 +13181,10 @@
     "email":"rosen@u.northwestern.edu",
     "topics":[
       "chemical engineering",
-      "computational chemistry",
+      "chemistry",
+      "kinetics",
       "quantum chemistry",
-      "thermodynamics and kinetics"
+      "thermodynamics"
     ],
     "active_reviews":0,
     "total_reviews":3,
@@ -13256,7 +13204,7 @@
     ],
     "email":"Arthur.Goldberg@mssm.edu",
     "topics":[
-      "computational biology",
+      "biology",
       "discrete-event simulation",
       "dynamical modeling"
     ],
@@ -13573,7 +13521,7 @@
       "gene regulation",
       "machine learning",
       "open science",
-      "web interfaces"
+      "web development"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -13798,7 +13746,7 @@
     ],
     "email":"alexander.tismer@ihs.uni-stuttgart.de",
     "topics":[
-      "computational fluid dynamics",
+      "fluid dynamics",
       "hydraulic machinery",
       "optimization"
     ],
@@ -13821,7 +13769,6 @@
     "email":"ana.trisovic@gmail.com",
     "topics":[
       "computer science",
-      "data analysis",
       "reproducible research"
     ],
     "active_reviews":0,
@@ -13918,7 +13865,7 @@
     "email":"ehlert@thch.uni-bonn.de",
     "topics":[
       "atomistic simulations",
-      "computational chemistry",
+      "chemistry",
       "electronic structure methods",
       "quantum chemistry"
     ],
@@ -13944,7 +13891,7 @@
     "email":"axel.loewe@kit.edu",
     "topics":[
       "biomedical",
-      "computational cardiology",
+      "cardiology",
       "machine learning"
     ],
     "active_reviews":0,
@@ -13990,7 +13937,7 @@
     "email":"ayush.9.pandey@gmail.com",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "control systems theory",
       "synthetic biology",
       "systems biology"
@@ -14096,10 +14043,12 @@
       "matlab"
     ],
     "affiliations":[
+      "Department of Physical Geography and Ecosystem Science, Lund University",
       "Lund University"
     ],
-    "email":"babak.mohammadi@neteko.lu.se",
+    "email":"babak.mohammadi@nateko.lu.se",
     "topics":[
+      "geoinformatics (gis)",
       "hydrological modeling",
       "hydrology",
       "models' performance metrics",
@@ -14238,9 +14187,9 @@
     ],
     "email":"banesullivan@gmail.com",
     "topics":[
-      "3d visualization",
       "geophysics",
-      "geoscience"
+      "geoscience",
+      "visualization"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -14306,8 +14255,8 @@
     ],
     "email":"radovan.bast@uit.no",
     "topics":[
-      "computational chemistry",
-      "computational physics"
+      "chemistry",
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -14347,9 +14296,9 @@
     ],
     "email":"alex.bauer93@posteo.de",
     "topics":[
-      "applied statistics",
-      "functional data analysis",
+      "functional",
       "spatio-temporal statistics",
+      "statistics",
       "visualization"
     ],
     "active_reviews":0,
@@ -14374,7 +14323,7 @@
     "email":"bblum@bu.edu",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "statistics"
     ],
     "active_reviews":0,
@@ -14397,8 +14346,8 @@
     "email":"bbrelje@umich.edu",
     "topics":[
       "aerospace",
-      "computational fluid dynamics",
       "engineering",
+      "fluid dynamics",
       "geometry",
       "optimization"
     ],
@@ -14421,7 +14370,7 @@
     "email":"bjaeger@wakehealth.edu",
     "topics":[
       "imputation",
-      "longitudinal data analysis",
+      "longitudinal",
       "random forests",
       "supervised learning"
     ],
@@ -14472,11 +14421,11 @@
     ],
     "email":"virgilio.gomez@uclm.es",
     "topics":[
-      "bayesian analysis",
+      "bayesian",
       "geographic information systems",
       "spatial statistics",
       "statistics",
-      "survival analysis"
+      "survival"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -14502,7 +14451,7 @@
       "epidemiology",
       "evolutionary biology",
       "genomics",
-      "sequence analysis"
+      "sequence"
     ],
     "active_reviews":0,
     "total_reviews":3,
@@ -14643,7 +14592,7 @@
     "topics":[
       "distributed computing",
       "graph theory",
-      "image analysis",
+      "image",
       "microscopy",
       "parallel computing",
       "simulation"
@@ -14667,7 +14616,7 @@
     "email":"benjamin_lee@college.harvard.edu",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "evolutionary algorithms",
       "machine learning",
       "nutrition"
@@ -14935,7 +14884,7 @@
       "geomorphology",
       "graph theory",
       "landscapes evolution model",
-      "topographic analysis"
+      "topographic"
     ],
     "active_reviews":1,
     "total_reviews":1,
@@ -14982,11 +14931,11 @@
     ],
     "email":"ajaybh@berkeley.edu",
     "topics":[
-      "computational contact mechanics",
-      "computational fluid dynamics",
-      "computational fracture mechanics",
-      "computational mechanics",
-      "fem"
+      "contact mechanics",
+      "fem",
+      "fluid dynamics",
+      "fracture mechanics",
+      "mechanics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -15030,7 +14979,7 @@
     ],
     "email":"bjs.misra@gmail.com",
     "topics":[
-      "geospatial analysis",
+      "geospatial",
       "resource economics",
       "visualization"
     ],
@@ -15127,7 +15076,7 @@
     "topics":[
       "biotechnology",
       "cell biology",
-      "toxinology"
+      "toxicology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -15247,7 +15196,7 @@
       "biophysics",
       "information theory",
       "model selection",
-      "molecular simulation and analysis",
+      "molecular simulation and",
       "networks biology",
       "parameter estimation",
       "systems biology"
@@ -15274,7 +15223,7 @@
     "email":"bbentley@cantab.net",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "neuroscience"
     ],
     "active_reviews":0,
@@ -15295,8 +15244,8 @@
     ],
     "email":"jeremy.bleyer@enpc.fr",
     "topics":[
-      "computational mechanics",
-      "convex optimization"
+      "convex optimization",
+      "mechanics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -15319,7 +15268,7 @@
     "topics":[
       "astronomy",
       "finance",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -15342,9 +15291,9 @@
     "topics":[
       "complex systems science",
       "data processing pipelines",
+      "ecology",
       "modelling frameworks",
-      "network models",
-      "theoretical ecology"
+      "network models"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -15438,7 +15387,8 @@
     "email":"nagaraju.iith@gmail.com",
     "topics":[
       "automotive",
-      "banking and finance",
+      "banking",
+      "finance",
       "insurance",
       "machine learning",
       "natural language processing",
@@ -15492,7 +15442,7 @@
       "data engineering",
       "docker",
       "good software engineering practises",
-      "image analysis",
+      "image",
       "machine learning"
     ],
     "active_reviews":0,
@@ -15538,9 +15488,9 @@
     ],
     "email":"henning.bonart@tu-berlin.de",
     "topics":[
-      "computational fluid dynamics",
       "data assimilation",
       "data handling",
+      "fluid dynamics",
       "numerical mathematics",
       "statistics"
     ],
@@ -15724,7 +15674,7 @@
       "climate science",
       "forecasting",
       "oceanography",
-      "time series analysis",
+      "time series",
       "visualization"
     ],
     "active_reviews":0,
@@ -15826,7 +15776,7 @@
     "email":"lk@forensic-architecture.org",
     "topics":[
       "computer graphics",
-      "some machine learning"
+      "machine learning"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -15882,8 +15832,8 @@
     "email":"br.jimenezgarcia@gmail.com",
     "topics":[
       "artificial intelligence",
-      "computational biology",
-      "computational chemistry",
+      "biology",
+      "chemistry",
       "high performance computing"
     ],
     "active_reviews":0,
@@ -15932,7 +15882,7 @@
     "email":"letcher.brice@yahoo.com",
     "topics":[
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -15981,8 +15931,7 @@
     "email":"brunodoyt@gmail.com",
     "topics":[
       "machine learning models (especially supervised learning)",
-      "psychology and medicine data analysis",
-      "r packages in general",
+      "psychology and medicine",
       "tidyverse-related r packages"
     ],
     "active_reviews":1,
@@ -16027,7 +15976,6 @@
     "topics":[
       "astronomy",
       "astrophysics",
-      "data analysis",
       "physics"
     ],
     "active_reviews":0,
@@ -16100,7 +16048,7 @@
       "functional paradigms",
       "functional programming",
       "property management and logistics",
-      "real option analysis"
+      "real option"
     ],
     "active_reviews":1,
     "total_reviews":1,
@@ -16147,9 +16095,9 @@
     ],
     "email":"bzindovic@grf.bg.ac.rs",
     "topics":[
-      "computational fluid dynamics",
-      "computational hydraulics",
+      "fluid dynamics",
       "hydraulic structures",
+      "hydraulics",
       "river hydraulics"
     ],
     "active_reviews":0,
@@ -16176,7 +16124,7 @@
     "email":"bzz@apache.org",
     "topics":[
       "machine learning",
-      "programming languages program analysis",
+      "programming languages program",
       "software engineering"
     ],
     "active_reviews":0,
@@ -16356,12 +16304,12 @@
     "email":"camille.scott.w@gmail.com",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "graph theory",
-      "network analysis",
+      "network",
       "testing",
       "visualization",
-      "workflow tools"
+      "workflow"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -16432,8 +16380,8 @@
     "email":"ant.cervone@gmail.com",
     "topics":[
       "atmospheric dispersion",
-      "computational fluid dynamics",
-      "finite elements"
+      "finite element",
+      "fluid dynamics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -16456,8 +16404,7 @@
     "email":"carles.hernandez@cnag.crg.eu",
     "topics":[
       "bioinformatics",
-      "biomedicine",
-      "data analysis"
+      "biomedicine"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -16792,8 +16739,8 @@
     ],
     "email":"contact@nicolas-cellier.net",
     "topics":[
-      "computational fluid dynamic",
       "data science",
+      "fluid dynamic",
       "reproducible research"
     ],
     "active_reviews":0,
@@ -16840,7 +16787,7 @@
     "email":"cgaray@mitre.org",
     "topics":[
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -16956,7 +16903,7 @@
     ],
     "email":"chaoran.chen@bsse.ethz.ch",
     "topics":[
-      "bio informatics",
+      "bioinformatics",
       "data infrastructure",
       "database system",
       "management",
@@ -17057,8 +17004,8 @@
     ],
     "email":"tchegini@uh.edu",
     "topics":[
-      "computational hydrology and hydraulic",
       "earth system modeling",
+      "hydrology and hydraulic",
       "urban hydrology"
     ],
     "active_reviews":1,
@@ -17132,8 +17079,8 @@
     ],
     "email":"c.kadapa@swansea.ac.uk",
     "topics":[
-      "computational fluid dynamics",
-      "finite element analysis",
+      "finite element",
+      "fluid dynamics",
       "fluid-structure interaction",
       "structural dynamics"
     ],
@@ -17289,7 +17236,8 @@
     ],
     "email":"chris.aberson@humboldt.edu",
     "topics":[
-      "statistics (social science-ish)"
+      "social science",
+      "statistics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -17315,7 +17263,7 @@
       "bioinformatics",
       "cancer",
       "genomics",
-      "sequence analysis"
+      "sequence"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -17470,7 +17418,7 @@
     "email":"Christopher.Woods@bristol.ac.uk",
     "topics":[
       "biomolecular modeling",
-      "computational chemistry",
+      "chemistry",
       "epidemiological modeling"
     ],
     "active_reviews":0,
@@ -17662,7 +17610,7 @@
     "email":"wilke@austin.utexas.edu",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "data science",
       "visualization"
     ],
@@ -17686,9 +17634,9 @@
     "email":"c.lemaitre@apeira-technologies.fr",
     "topics":[
       "aerodynamics",
-      "computational fluid dynamics",
       "computer vision",
       "data minirg",
+      "fluid dynamics",
       "machine learning"
     ],
     "active_reviews":0,
@@ -17712,7 +17660,7 @@
     ],
     "email":"c.linssen@fz-juelich.de",
     "topics":[
-      "computational neuroscience"
+      "neuroscience"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -17857,8 +17805,8 @@
     "email":"ai.healhcare@yahoo.com",
     "topics":[
       "bioinformatics",
+      "biology",
       "cancer",
-      "computational biology",
       "computer vision",
       "natural language processing"
     ],
@@ -17914,7 +17862,7 @@
     "topics":[
       "edge computing",
       "euro-par 2022 special issue",
-      "iot",
+      "internet of things",
       "machine learning"
     ],
     "active_reviews":0,
@@ -17938,7 +17886,7 @@
     ],
     "email":"bernhard.froehler@fh-wels.at",
     "topics":[
-      "computed tomography data analysis",
+      "computed tomography",
       "immersive analytics",
       "material science",
       "spatial data visualization",
@@ -17974,8 +17922,7 @@
       "education",
       "high performance computing",
       "machine learning",
-      "scientific image understanding",
-      "scientific workflows"
+      "scientific image understanding"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -18109,7 +18056,6 @@
     "topics":[
       "bioinformatics",
       "biology",
-      "computational biology",
       "genomics",
       "plant science"
     ],
@@ -18156,10 +18102,10 @@
     ],
     "email":"corentin.lothode@univ-rouen.fr",
     "topics":[
-      "computational physics",
       "fluid dynamics",
       "fluid structure interaction",
-      "numerical analysis",
+      "numerical",
+      "physics",
       "structural mechanics"
     ],
     "active_reviews":0,
@@ -18228,7 +18174,6 @@
     "email":"cornelioid@gmail.com",
     "topics":[
       "[glad to consider anything and will reply quickly if not qualified]",
-      "and topological data analysis",
       "bibliometry",
       "combinatorics",
       "geometric",
@@ -18238,6 +18183,7 @@
       "packages",
       "scientometry",
       "statistical modeling",
+      "topological",
       "topology",
       "visualization"
     ],
@@ -18260,12 +18206,12 @@
     ],
     "email":"Cosima.Meyer@gmail.com",
     "topics":[
-      "computational social sciences",
       "data wrangling",
-      "exploratory data analysis",
+      "exploratory",
       "machine learning",
       "political science",
-      "survival analysis"
+      "social sciences",
+      "survival"
     ],
     "active_reviews":1,
     "total_reviews":1,
@@ -18495,7 +18441,7 @@
     ],
     "email":"chriscrewbaker@gmail.com",
     "topics":[
-      "general software development and data science tools",
+      "general software development and data science",
       "topics"
     ],
     "active_reviews":0,
@@ -18596,6 +18542,7 @@
       "data management",
       "github actions",
       "high-performance clusters",
+      "jupyter",
       "machine learning",
       "materials science",
       "metropolis monte carlo",
@@ -18604,7 +18551,6 @@
       "neural networks",
       "pandas",
       "parallelism",
-      "project jupyter",
       "scientific software",
       "supercomputers",
       "workflow management"
@@ -18631,7 +18577,6 @@
     "topics":[
       "causal inference",
       "computer vision",
-      "data analysis",
       "data science",
       "machine learning",
       "visualization"
@@ -18682,7 +18627,7 @@
     "topics":[
       "automatic differentiation",
       "chemical engineering",
-      "computational fluid dynamics",
+      "fluid dynamics",
       "mathematical modeling",
       "mechanical engineering"
     ],
@@ -18705,8 +18650,8 @@
     "email":"cthoyt@gmail.com",
     "topics":[
       "bioinformatics",
+      "biology",
       "chemoinformatics",
-      "computational biology",
       "machine learning",
       "semantic web",
       "systems biology"
@@ -18890,7 +18835,7 @@
     ],
     "email":"bob.dybian@gmail.com",
     "topics":[
-      "omics analyses",
+      "omics",
       "reproducibility",
       "system integration",
       "workflow development"
@@ -18914,7 +18859,7 @@
     ],
     "email":"lebrungrandt@ornl.gov",
     "topics":[
-      "finite elements",
+      "finite element",
       "geometric search",
       "particle-based simulations",
       "performance portability"
@@ -19005,7 +18950,7 @@
     ],
     "email":"dandavies99@gmail.com",
     "topics":[
-      "computational chemistry",
+      "chemistry",
       "inorganic chemistry",
       "materials informatics",
       "materials science"
@@ -19039,7 +18984,7 @@
       "high performance computing",
       "machine learning",
       "mathematics",
-      "numerical analysis",
+      "numerical",
       "physics",
       "statistics"
     ],
@@ -19064,7 +19009,7 @@
       "middleware",
       "monitoring",
       "performance",
-      "web uis"
+      "web development"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -19158,11 +19103,11 @@
       "3d)",
       "delaunay triangulations",
       "physics",
-      "scientific visualization (2d",
       "sub-terrestrial geophysics",
       "terrestrial",
       "unstructured",
       "unstructured meshing",
+      "visualization",
       "voronoi tessellations"
     ],
     "active_reviews":0,
@@ -19286,7 +19231,7 @@
     "email":"rsh46@cam.ac.uk",
     "topics":[
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -19422,8 +19367,8 @@
     ],
     "email":"d.kinkead@uq.edu.au",
     "topics":[
-      "computational philosophy",
-      "digital humanities"
+      "digital humanities",
+      "philosophy"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -19474,11 +19419,11 @@
     "email":"drd@davidrushingdewhurst.com",
     "topics":[
       "bayesian statistics",
-      "computational finance",
       "econ",
+      "finance",
       "signal processing",
       "statistical physics",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":1,
     "total_reviews":3,
@@ -19498,8 +19443,8 @@
     ],
     "email":"deg711@g.harvard.edu",
     "topics":[
-      "comp chemistry",
-      "computational biology"
+      "biology",
+      "comp chemistry"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -19566,9 +19511,9 @@
     "email":"dmccarthy@svi.edu.au",
     "topics":[
       "bioinformatics",
+      "genetics",
       "genomics",
       "machine learning",
-      "quantitative genetics",
       "single-cell genomics",
       "statistics",
       "transcriptomics",
@@ -19596,9 +19541,9 @@
     ],
     "email":"david.barton@bristol.ac.uk",
     "topics":[
-      "applied mathematics",
       "differential equations",
-      "dynamical systems"
+      "dynamical systems",
+      "mathematics"
     ],
     "active_reviews":0,
     "total_reviews":5,
@@ -19757,7 +19702,6 @@
     "email":"danicassol@gmail.com",
     "topics":[
       "bioinformatics",
-      "data analysis",
       "gene expression",
       "software engineering"
     ],
@@ -19996,7 +19940,7 @@
       "app dev",
       "artificial intelligence",
       "competitive programming",
-      "iot"
+      "internet of things"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -20073,33 +20017,12 @@
     ],
     "email":"douglas.g.moore@asu.edu",
     "topics":[
-      "applied mathematics",
       "biology",
+      "mathematics",
       "physics"
     ],
     "active_reviews":0,
     "total_reviews":1,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
-    "username":"dgtlmoon",
-    "languages_primary":[
-      "php",
-      "python"
-    ],
-    "languages_secondary":[
-      "c"
-    ],
-    "affiliations":[
-
-    ],
-    "email":"leigh@morresi.net",
-    "topics":[
-      "anything :)"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
     "recent_year_reviews":0,
     "recent_quarter_reviews":0
   },
@@ -20202,7 +20125,7 @@
     "email":"daniel.himmelstein@gmail.com",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "network science",
       "scholarly communications"
     ],
@@ -20226,8 +20149,8 @@
     ],
     "email":"dhrubajyoti98@physics.iitm.ac.in",
     "topics":[
-      "computational physics",
-      "nonlinear dynamics"
+      "nonlinear dynamics",
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -20274,7 +20197,7 @@
     "topics":[
       "bayesian inference",
       "bert",
-      "computational social science",
+      "social science",
       "transformers"
     ],
     "active_reviews":1,
@@ -20301,7 +20224,7 @@
     "topics":[
       "automation",
       "biophysics",
-      "computational chemistry",
+      "chemistry",
       "high performance computing"
     ],
     "active_reviews":0,
@@ -20346,9 +20269,7 @@
       "machine learning",
       "micro services",
       "oo",
-      "production engineering",
-      "scientific workflows",
-      "workflow"
+      "production engineering"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -20395,7 +20316,7 @@
     ],
     "email":"me@diehlpk.de",
     "topics":[
-      "computational mathematics"
+      "mathematics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -20427,7 +20348,7 @@
     "topics":[
       "computer science",
       "electrical engineering",
-      "embedded system",
+      "embedded systems",
       "neuroscience",
       "systems biology"
     ],
@@ -20546,7 +20467,7 @@
       "climate",
       "data science",
       "earth science",
-      "geospatial tools",
+      "geospatial",
       "high-performance computing",
       "machine learning",
       "oceanography",
@@ -20574,7 +20495,7 @@
     "email":"simon.dirmeier@gmx.de",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "computer science",
       "machine learning",
       "statistics"
@@ -20621,7 +20542,6 @@
     ],
     "email":"diwash.shrestha@outlook.com",
     "topics":[
-      "data analysis",
       "data engineering",
       "data science"
     ],
@@ -20669,8 +20589,8 @@
     ],
     "email":null,
     "topics":[
+      "ecology",
       "software engineering",
-      "some ecology",
       "statistics"
     ],
     "active_reviews":0,
@@ -20692,8 +20612,8 @@
     ],
     "email":"djsaunde@cs.umass.edu",
     "topics":[
-      "computational neuroscience",
-      "machine learning"
+      "machine learning",
+      "neuroscience"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -20739,8 +20659,8 @@
       "automatic code",
       "code generation",
       "compressible flow",
-      "computational fluid dynamics",
       "euler equations",
+      "fluid dynamics",
       "fortran",
       "hyperbolic equations",
       "navier-stokes equations",
@@ -20768,7 +20688,7 @@
     ],
     "email":"dlagrava@gmail.com",
     "topics":[
-      "computational fluid dynamics",
+      "fluid dynamics",
       "numerical methods"
     ],
     "active_reviews":0,
@@ -20814,8 +20734,8 @@
       "earth sciences",
       "ecology",
       "element",
-      "image analysis",
-      "ion data analysis",
+      "image",
+      "ion",
       "raster"
     ],
     "active_reviews":0,
@@ -20927,7 +20847,6 @@
     "email":"denizoktay.econ@gmail.com",
     "topics":[
       "agent-based modeling",
-      "applied microeconomics",
       "economics",
       "industrial organization",
       "innovation",
@@ -21068,8 +20987,8 @@
     ],
     "email":"dotsdl@gmail.com",
     "topics":[
-      "computational biophysics",
-      "computational chemistry"
+      "biophysics",
+      "chemistry"
     ],
     "active_reviews":1,
     "total_reviews":2,
@@ -21116,7 +21035,7 @@
     ],
     "email":"lanes@illinois.edu",
     "topics":[
-      "computational linguistics",
+      "linguistics",
       "machine translation"
     ],
     "active_reviews":0,
@@ -21137,7 +21056,7 @@
     ],
     "email":"dpolychr@gmail.com",
     "topics":[
-      "computational biology",
+      "biology",
       "data science",
       "genomics"
     ],
@@ -21262,7 +21181,6 @@
     "email":"drj@pobox.com",
     "topics":[
       "algorithms",
-      "any?",
       "biology",
       "climate science",
       "network science",
@@ -21286,9 +21204,9 @@
     ],
     "email":"drrichie@sas.upenn.edu",
     "topics":[
+      "cognitive modeling",
       "cognitive science",
-      "computational cognitive modeling",
-      "computational linguistics"
+      "linguistics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -21491,7 +21409,7 @@
     "email":"d.vanichkina@gmail.com",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "family",
       "genomics",
       "health analytics",
@@ -21556,8 +21474,7 @@
       "computer science",
       "data mining",
       "machine learning",
-      "technology",
-      "tools"
+      "technology"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -21604,7 +21521,7 @@
     "email":"mukherjeed@ornl.gov",
     "topics":[
       "electron microscopy",
-      "image analysis",
+      "image",
       "image processing"
     ],
     "active_reviews":0,
@@ -21841,7 +21758,7 @@
     "email":"ewan@donnachie.net",
     "topics":[
       "applications in health services research",
-      "applied statistical methods",
+      "statistical methods",
       "visualization"
     ],
     "active_reviews":0,
@@ -21865,9 +21782,9 @@
     ],
     "email":"edric.tam@duke.edu",
     "topics":[
-      "computational biology",
+      "biology",
+      "finance",
       "machine learning",
-      "quantitative finance",
       "statistics"
     ],
     "active_reviews":0,
@@ -21989,10 +21906,10 @@
     "topics":[
       "bayesian machine learning",
       "bayesian modeling",
+      "finance",
       "financial data science",
       "financial machine learning",
-      "probabilistic programming",
-      "quantitative finance"
+      "probabilistic programming"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -22063,9 +21980,9 @@
       "regression modeling",
       "statistics",
       "supervised + unsupervised learning",
-      "time series analysis",
+      "time series",
       "visualization",
-      "web-development"
+      "web development"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -22137,7 +22054,7 @@
     "topics":[
       "high performance computing",
       "mathematical modeling",
-      "numerical analysis"
+      "numerical"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -22347,9 +22264,9 @@
     "email":"leima.137@gmail.com",
     "topics":[
       "astrophysics",
-      "computational neuroscience",
       "data science",
-      "high energy physics"
+      "high energy physics",
+      "neuroscience"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -22470,7 +22387,7 @@
     ],
     "email":"erahulkulkarni@gmail.com",
     "topics":[
-      "computational biology",
+      "biology",
       "educational research"
     ],
     "active_reviews":0,
@@ -22491,7 +22408,6 @@
     ],
     "email":"elizabeth.rasmussen@nist.gov",
     "topics":[
-      "computational fluid dynamics",
       "fluid dynamics",
       "heat transfer",
       "material synthesis",
@@ -22519,7 +22435,7 @@
     "topics":[
       "additive manufacturing",
       "cell biophysics",
-      "finite elements",
+      "finite element",
       "mesh generation and adaptivity",
       "numerical quadratures",
       "partial differential equations"
@@ -22550,7 +22466,7 @@
     "email":"erik@erikwhiting.com",
     "topics":[
       "bioinformatics",
-      "computational biophysics",
+      "biophysics",
       "databases",
       "information systems",
       "software architecture",
@@ -22863,7 +22779,7 @@
     ],
     "email":"git@evetion.nl",
     "topics":[
-      "computational geometry",
+      "geometry",
       "gis",
       "high performance computing",
       "remote sensing"
@@ -22940,8 +22856,8 @@
     ],
     "email":"andreuzzi.francesco@gmail.com",
     "topics":[
-      "computational fluid dynamics",
       "dynamical systems",
+      "fluid dynamics",
       "graph theory",
       "rom",
       "set theory"
@@ -22989,10 +22905,10 @@
       "additive models",
       "bayesian inference",
       "dimension reduction methods",
-      "functional data analysis",
+      "functional",
       "linear models",
       "mixed models",
-      "spatial data analysis"
+      "spatial"
     ],
     "active_reviews":1,
     "total_reviews":6,
@@ -23039,7 +22955,6 @@
       "containerization",
       "docker",
       "reproducibility",
-      "scientific computer",
       "singularity"
     ],
     "active_reviews":0,
@@ -23062,9 +22977,9 @@
     ],
     "email":"felipe.osorios@usm.cl",
     "topics":[
-      "influence diagnostics y residual analysis",
+      "influence diagnostics y residual",
       "linear and nonlinear regression",
-      "multivariate analysis"
+      "multivariate"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -23251,28 +23166,8 @@
     ],
     "email":"fcdimitr@auth.gr",
     "topics":[
-      "numerical analysis",
+      "numerical",
       "parallel computing"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
-    "username":"fdf",
-    "languages_primary":[
-      "ffff"
-    ],
-    "languages_secondary":[
-      "fffffeee"
-    ],
-    "affiliations":[
-      "fdfsdf"
-    ],
-    "email":"sdsds@sfsdf.lf",
-    "topics":[
-      "efdcfd"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -23317,7 +23212,7 @@
     "email":"roessler.fd@gmail.com",
     "topics":[
       "agent-based modeling",
-      "computational chemistry",
+      "chemistry",
       "molecular dynamics simulation"
     ],
     "active_reviews":0,
@@ -23339,7 +23234,7 @@
     "email":"ihaddaden.fodeil@gmail.com",
     "topics":[
       "banking",
-      "data envelopment analysis",
+      "data envelopment",
       "economics",
       "finance"
     ],
@@ -23366,7 +23261,7 @@
       "embedded systems",
       "operating systems",
       "real-time computing",
-      "wcet analyses"
+      "wcet"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -23389,8 +23284,8 @@
     ],
     "email":"tifonzafel@gmail.com",
     "topics":[
-      "computational chemistry",
-      "computational chemistry materials science"
+      "chemistry",
+      "chemistry materials science"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -23413,9 +23308,9 @@
     ],
     "email":"f.rocha.felipe@gmail.com",
     "topics":[
-      "computational mechanics",
-      "finite elements",
+      "finite element",
       "machine learning",
+      "mechanics",
       "neural networks",
       "numerical methods"
     ],
@@ -23444,7 +23339,7 @@
       "formal verification",
       "software engineering",
       "software verification",
-      "static analysis",
+      "static",
       "testing"
     ],
     "active_reviews":0,
@@ -23466,7 +23361,7 @@
     "email":"felix.cremer@dlr.de",
     "topics":[
       "earth observation",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -23608,7 +23503,7 @@
     "email":"amferreira68@gmail.com",
     "topics":[
       "chemistry",
-      "numerical analysis",
+      "numerical",
       "physics"
     ],
     "active_reviews":0,
@@ -23655,8 +23550,8 @@
     ],
     "email":"horrobin@astro.utoronto.ca",
     "topics":[
-      "astrophysical simulations or data analysis",
-      "computational fluiddynamics",
+      "astrophysical simulations or",
+      "fluiddynamics",
       "geophysical modeling",
       "solid body dynamics",
       "statistical methods for data modeling in physics"
@@ -23863,8 +23758,8 @@
     "email":"fabian.neumann@kit.edu",
     "topics":[
       "energy system optimisation models",
-      "geospational data analysis",
-      "time series analysis"
+      "geospational",
+      "time series"
     ],
     "active_reviews":1,
     "total_reviews":2,
@@ -23885,7 +23780,7 @@
     ],
     "email":"jogvan.m.olsen@uit.no",
     "topics":[
-      "computational chemistry"
+      "chemistry"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -23912,7 +23807,7 @@
     "topics":[
       "geospatial",
       "machine learning",
-      "numerical analysis",
+      "numerical",
       "statistics"
     ],
     "active_reviews":0,
@@ -24005,8 +23900,8 @@
     ],
     "email":"frankie.r.robertson@jyu.fi",
     "topics":[
-      "computational linguistics",
       "educational technology",
+      "linguistics",
       "natural language processing",
       "psychometrics"
     ],
@@ -24028,7 +23923,7 @@
     ],
     "email":"franziska.hoerbst@jic.ac.uk",
     "topics":[
-      "computational biology",
+      "biology",
       "information theory",
       "long distance signalling",
       "molecular communications",
@@ -24135,7 +24030,7 @@
     ],
     "email":"frydaydeep@gmail.com",
     "topics":[
-      "computational mechanics"
+      "mechanics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -24160,7 +24055,7 @@
     "topics":[
       "climatology",
       "earth sciences",
-      "geophysical data analysis"
+      "geophysical"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -24250,9 +24145,9 @@
     ],
     "email":"gabrielusvicente@gmail.com",
     "topics":[
-      "applied mathematics",
       "artificial intelligence",
       "machine learning",
+      "mathematics",
       "optimization",
       "physics"
     ],
@@ -24276,9 +24171,9 @@
     ],
     "email":"gabriele.etta@uniroma1.it",
     "topics":[
-      "computational social science",
       "data handling",
       "network science",
+      "social science",
       "visualization"
     ],
     "active_reviews":0,
@@ -24301,7 +24196,6 @@
     "email":"spadon@usp.br",
     "topics":[
       "complex networks",
-      "data analysis",
       "graph theory"
     ],
     "active_reviews":0,
@@ -24399,7 +24293,7 @@
     ],
     "email":"garretrc@miamioh.edu",
     "topics":[
-      "geospatial tools",
+      "geospatial",
       "visualization"
     ],
     "active_reviews":0,
@@ -24476,7 +24370,7 @@
     "topics":[
       "(web-based) software for psychological assessment",
       "any research software that focuses on user-friendliness and clarity",
-      "online research tools"
+      "online research"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -24555,7 +24449,7 @@
     ],
     "email":"gavin.douglas@dal.ca",
     "topics":[
-      "applied machine learning",
+      "machine learning",
       "microbiome",
       "phylogenetics"
     ],
@@ -24707,7 +24601,7 @@
     ],
     "email":"bacon@berkeley.edu",
     "topics":[
-      "computational linguistics",
+      "linguistics",
       "natural language processing"
     ],
     "active_reviews":0,
@@ -24756,9 +24650,9 @@
     ],
     "email":"georgia.stuart@austin.utexas.edu",
     "topics":[
-      "computational science",
       "geophysics",
       "particle tracking",
+      "science",
       "statistics",
       "uncertainty quantification",
       "wave propagation"
@@ -24783,8 +24677,8 @@
     ],
     "email":"GABFADINI@GMAIL.COM",
     "topics":[
-      "applied mathematics",
       "control theory",
+      "mathematics",
       "mechanical engineering",
       "robotics"
     ],
@@ -24812,8 +24706,7 @@
     "topics":[
       "io",
       "reproducibility",
-      "storage",
-      "workflow"
+      "storage"
     ],
     "active_reviews":0,
     "total_reviews":3,
@@ -24837,7 +24730,7 @@
       "high-energy physics",
       "neuroscience",
       "physics",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -24980,7 +24873,7 @@
     "email":"yee.laurene@gmail.com",
     "topics":[
       "ecology",
-      "spatial analysis",
+      "spatial",
       "spatial epidemiology",
       "spatial modelling",
       "zoonoses"
@@ -25051,7 +24944,7 @@
     ],
     "email":"guillaume@damcb.com",
     "topics":[
-      "bioimage analysis",
+      "bioimage",
       "biophysics",
       "physical biology"
     ],
@@ -25077,9 +24970,9 @@
       "acoustic emission",
       "chemical engineering",
       "chemometrics",
-      "computational intelligence",
       "fault detection and diagnosis",
       "flow assurance",
+      "intelligence",
       "process control"
     ],
     "active_reviews":0,
@@ -25297,7 +25190,7 @@
     ],
     "email":"joss_reviewer@foersterfrank.de",
     "topics":[
-      "assembly tools",
+      "assembly",
       "bioinformatics",
       "sequence correction",
       "sequence processing and handling"
@@ -25321,7 +25214,7 @@
     ],
     "email":"xinwang614@gmail.com",
     "topics":[
-      "computational intelligence",
+      "intelligence",
       "optimization algorithm"
     ],
     "active_reviews":0,
@@ -25392,7 +25285,7 @@
     "email":"grzegorz@sapijaszko.net",
     "topics":[
       "gis",
-      "spatial analysis"
+      "spatial"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -25619,9 +25512,9 @@
     "email":"hao.ye@weecology.org",
     "topics":[
       "dynamic systems",
-      "quantitative ecology",
+      "ecology",
       "statistics",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":4,
@@ -25720,9 +25613,8 @@
     ],
     "email":"hannahbrucemacdonald@gmail.com",
     "topics":[
-      "chemistry",
-      "computational biology",
-      "computational chemistry"
+      "biology",
+      "chemistry"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -25742,9 +25634,9 @@
     ],
     "email":"h.i.oberman@uu.nl",
     "topics":[
-      "basic stats stuff",
       "missing data",
-      "other data wrangling stuff"
+      "other data wrangling stuff",
+      "statistics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -25787,7 +25679,7 @@
     ],
     "email":"hanno.rein@utoronto.ca",
     "topics":[
-      "nbody"
+      "n-body"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -25856,7 +25748,7 @@
     "email":"haoxx081@umn.edu",
     "topics":[
       "boundary layer meteorology",
-      "computational fluid dynamics",
+      "fluid dynamics",
       "physical oceanography",
       "turbulence modeling",
       "wave modeling"
@@ -25907,7 +25799,7 @@
     "topics":[
       "astronomy",
       "astrophysics",
-      "computational fluid dynamics"
+      "fluid dynamics"
     ],
     "active_reviews":0,
     "total_reviews":4,
@@ -25959,7 +25851,6 @@
       "antenna design",
       "antenna theory and design",
       "antennas and wave propagation",
-      "computational electromagnetics",
       "electrical engineering",
       "electromagnetic theory",
       "electromagnetics",
@@ -26234,8 +26125,8 @@
     ],
     "email":"js102@zepler.net",
     "topics":[
-      "computational hydraulics",
       "gis",
+      "hydraulics",
       "meteorology"
     ],
     "active_reviews":0,
@@ -26301,10 +26192,10 @@
     ],
     "email":"thunderhit@qq.com",
     "topics":[
-      "computational sociology",
       "data collecting",
       "management science",
-      "natural language processing"
+      "natural language processing",
+      "sociology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -26348,7 +26239,7 @@
     ],
     "email":"heiland@mpi-magdeburg.mpg.de",
     "topics":[
-      "computational fluid dynamics",
+      "fluid dynamics",
       "model reduction",
       "numerical solution of odes",
       "partial differential equations"
@@ -26373,7 +26264,7 @@
     "email":"hsarkar@cs.umd.edu",
     "topics":[
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -26444,8 +26335,8 @@
     ],
     "email":"hugomacdermott@gmail.com",
     "topics":[
-      "computational biology",
-      "computational chemistry",
+      "biology",
+      "chemistry",
       "high performance computing"
     ],
     "active_reviews":0,
@@ -26468,7 +26359,6 @@
     "email":"herve.menager@gmail.com",
     "topics":[
       "bioinformatics",
-      "software tools",
       "web applications"
     ],
     "active_reviews":0,
@@ -26727,7 +26617,7 @@
     "email":"ngr8@cdc.gov",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "genomics",
       "mathematical biology",
       "phylogenetics",
@@ -26795,7 +26685,7 @@
     ],
     "email":"htwangtw@gmail.com",
     "topics":[
-      "data workflow",
+      "data",
       "file format",
       "neuroimaging"
     ],
@@ -26819,9 +26709,9 @@
     "email":null,
     "topics":[
       "3d modeling",
-      "computational geometry",
+      "geometry",
       "gis",
-      "spatial analysis"
+      "spatial"
     ],
     "active_reviews":0,
     "total_reviews":6,
@@ -26843,9 +26733,9 @@
     "topics":[
       "behavioural science",
       "cognitive psychology",
-      "computational models",
       "human factors",
       "mental fatigue",
+      "models",
       "organisational psychology",
       "research methods"
     ],
@@ -26940,7 +26830,7 @@
     ],
     "email":"henry.wahl@univie.ac.at",
     "topics":[
-      "finite elements"
+      "finite element"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -26987,7 +26877,7 @@
     ],
     "email":"lemosiago123@gmail.com",
     "topics":[
-      "estatistical analysis",
+      "estatistical",
       "extreme value theory",
       "fluid mechanics",
       "solid mechanics"
@@ -27013,12 +26903,11 @@
     ],
     "email":"k.mixios@gmail.com",
     "topics":[
-      "applied mechanics",
       "finite element method",
       "machine learning procedures",
       "mechanics",
       "optimization methods",
-      "structural analysis",
+      "structural",
       "structural engineering"
     ],
     "active_reviews":0,
@@ -27098,7 +26987,7 @@
       "computer graphics",
       "data science",
       "embedded systems",
-      "finite elements",
+      "finite element",
       "graph neural networks",
       "image",
       "infrastructure",
@@ -27107,10 +26996,11 @@
       "operating systems and kernel modules",
       "optimization",
       "pdes and odes",
+      "rendering",
       "signal processing",
       "software engineering and architecture",
       "specifically linux",
-      "visualization and rendering"
+      "visualization"
     ],
     "active_reviews":1,
     "total_reviews":3,
@@ -27220,7 +27110,7 @@
     "topics":[
       "neuroscience",
       "psychology",
-      "signal-analysis",
+      "signal-",
       "statistics"
     ],
     "active_reviews":0,
@@ -27318,8 +27208,8 @@
     ],
     "email":"ilja.honkonen@fmi.fi",
     "topics":[
-      "computational physics",
-      "high performance computing"
+      "high performance computing",
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":6,
@@ -27516,12 +27406,12 @@
     "email":"john@ionlights.com",
     "topics":[
       "artificial intelligence",
-      "computational linguistics",
-      "computational neuroscience",
       "computer vision",
       "digital signal processing",
+      "linguistics",
       "machine learning",
       "natural language processing",
+      "neuroscience",
       "reinforcement learning",
       "virtual reality"
     ],
@@ -27633,8 +27523,8 @@
     ],
     "email":"alex@openvax.org",
     "topics":[
-      "computational immunology",
       "genomics",
+      "immunology",
       "machine learning"
     ],
     "active_reviews":0,
@@ -27827,8 +27717,8 @@
     ],
     "email":"jgaboardi@gmail.com",
     "topics":[
-      "network analysis",
-      "spatial analysis"
+      "network",
+      "spatial"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -27871,7 +27761,7 @@
     ],
     "email":"jbrookes187@gmail.com",
     "topics":[
-      "human behaviour analysis",
+      "human behaviour",
       "human movement",
       "virtual reality"
     ],
@@ -27967,11 +27857,11 @@
     "email":"jr@fizyka.umk.pl",
     "topics":[
       "biophysics",
-      "computational physics",
       "enhanced sampling",
       "machine learning",
       "molecular dynamics",
-      "numerical methods"
+      "numerical methods",
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":3,
@@ -28062,11 +27952,11 @@
     ],
     "email":"jhgearon@iu.edu",
     "topics":[
-      "geospatial analysis",
+      "geospatial",
       "geospatial apis",
-      "remote sensing analysis",
+      "remote sensing",
       "remote sensing data infrastructure",
-      "sedimentolgoical & geomorphological tools"
+      "sedimentolgoical & geomorphological"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -28161,7 +28051,7 @@
     ],
     "email":"jjquinn42@gmail.com",
     "topics":[
-      "computational fluid dynamics",
+      "fluid dynamics",
       "magnetohydrodynamics",
       "ordinary differential equations",
       "partial differential equations"
@@ -28184,8 +28074,8 @@
     ],
     "email":"janash@vt.edu",
     "topics":[
-      "computational molecular science",
-      "materials science"
+      "materials science",
+      "molecular science"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -28207,7 +28097,6 @@
     "topics":[
       "approximate bayesian computation",
       "bayesian inference",
-      "computational neuroscience",
       "differential equations",
       "likelihood-free inference",
       "machine learning",
@@ -28259,7 +28148,7 @@
     ],
     "email":null,
     "topics":[
-      "network analysis",
+      "network",
       "visualization"
     ],
     "active_reviews":0,
@@ -28359,13 +28248,13 @@
     "email":"g.watson@computer.org",
     "topics":[
       "debugging",
-      "development tools",
+      "development",
       "distributed systems",
       "high performance",
       "internet of things",
       "operating systems",
       "parallel programming",
-      "performance analysis",
+      "performance",
       "scientific computing",
       "security",
       "software engineering",
@@ -28413,9 +28302,9 @@
     ],
     "email":"jarvist.frost@ic.ac.uk",
     "topics":[
-      "computational physics",
       "markov chain monte carlo",
       "path-integrals",
+      "physics",
       "tight-binding"
     ],
     "active_reviews":0,
@@ -28442,10 +28331,10 @@
       "building energy modeling",
       "building information modeling",
       "building performance simulation",
-      "computational fluid dynamics",
+      "fluid dynamics",
       "fluid dynamics and heat transfer",
       "general thermo-fluid sciences",
-      "multizone airflow analysis"
+      "multizone airflow"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -28465,7 +28354,7 @@
     ],
     "email":"jea4117@ic.ac.uk",
     "topics":[
-      "computational fluid dynamics",
+      "fluid dynamics",
       "numerical modeling"
     ],
     "active_reviews":0,
@@ -28518,7 +28407,7 @@
       "data structures",
       "relational database management systems",
       "software engineering",
-      "web-based applications"
+      "web development"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -28561,7 +28450,7 @@
     ],
     "email":"jayten010@gmail.com",
     "topics":[
-      "computational fluid dynamics",
+      "fluid dynamics",
       "les",
       "rans simulation",
       "transition modeling"
@@ -28705,8 +28594,8 @@
     "email":"julien.colomb@fu-berlin.de",
     "topics":[
       "accessibility (i am not a coder",
-      "and can therefore see what info is needed for non-coder to use",
       "build on the software)",
+      "can therefore see what info is needed for non-coder to use",
       "neurobiology"
     ],
     "active_reviews":0,
@@ -28805,8 +28694,8 @@
     ],
     "email":"johann@dreo.fr",
     "topics":[
-      "computational intelligence",
       "evolutionary computation",
+      "intelligence",
       "metaheuristics",
       "operation research",
       "optimization"
@@ -28950,9 +28839,9 @@
     "email":"jeped@kth.se",
     "topics":[
       "compilers",
-      "computational neuroscience",
       "machine learning",
-      "neuromorphic computing"
+      "neuromorphic computing",
+      "neuroscience"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -28963,6 +28852,7 @@
     "username":"jenniferdavid",
     "languages_primary":[
       "c++",
+      "matlab",
       "python"
     ],
     "languages_secondary":[
@@ -28972,8 +28862,9 @@
     "affiliations":[
       "University of the West of England"
     ],
-    "email":"jenniferdavid87@gmail.com",
+    "email":"jenniferdavid.hh@gmail.com",
     "topics":[
+      "mobile robotics",
       "mobile robots"
     ],
     "active_reviews":0,
@@ -29017,8 +28908,8 @@
     "email":"jens.preussner@mpi-bn.mpg.de",
     "topics":[
       "bioinformatics",
+      "biology",
       "cancer biology",
-      "computational biology",
       "data science",
       "single-cell biology"
     ],
@@ -29066,7 +28957,7 @@
     ],
     "email":"jeremy@jeremylt.org",
     "topics":[
-      "finite elements",
+      "finite element",
       "high performance computing"
     ],
     "active_reviews":1,
@@ -29092,7 +28983,7 @@
       "exoplanets",
       "probabilistic methods",
       "stellar",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -29218,9 +29109,9 @@
     ],
     "email":"jifarq89@googlemail.com",
     "topics":[
-      "applied open-source software",
-      "geoscience tools",
+      "geoscience",
       "open-source publishing",
+      "open-source software",
       "remote sensing"
     ],
     "active_reviews":0,
@@ -29292,14 +29183,14 @@
     ],
     "email":"jingpeng.wu@gmail.com",
     "topics":[
-      "3d image analysis",
+      "3d image",
       "bioimage informatics",
       "cloud computing",
-      "computational neuroscience",
       "connectome",
-      "image analysis",
+      "image",
       "image processing",
-      "machine learning"
+      "machine learning",
+      "neuroscience"
     ],
     "active_reviews":0,
     "total_reviews":6,
@@ -29369,7 +29260,6 @@
       "artificial intelligence",
       "computer vision",
       "control",
-      "data analysis",
       "navigation",
       "robotics"
     ],
@@ -29439,9 +29329,9 @@
     "topics":[
       "algorithm libraries",
       "big data",
-      "computational biology",
-      "computational linguistics",
+      "biology",
       "data science",
+      "linguistics",
       "machine learning",
       "natural language processing"
     ],
@@ -29623,7 +29513,7 @@
     "email":"linjason@chiba-cc.jp",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "genomics"
     ],
     "active_reviews":0,
@@ -29674,8 +29564,8 @@
     ],
     "email":"john.mansour@monash.edu",
     "topics":[
-      "applied geophysics",
-      "fluid dynamics"
+      "fluid dynamics",
+      "geophysics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -29696,8 +29586,8 @@
     ],
     "email":"borreguero@gmail.com",
     "topics":[
+      "biology",
       "biophysics",
-      "computational biology",
       "molecular dynamics",
       "neutron science",
       "neutrons",
@@ -29727,8 +29617,8 @@
     ],
     "email":"jmbr@superadditive.com",
     "topics":[
-      "computational statistical mechanics",
-      "dynamical systems"
+      "dynamical systems",
+      "statistical mechanics"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -30000,10 +29890,10 @@
     ],
     "email":null,
     "topics":[
-      "computational material physics",
       "data processing",
+      "material physics",
       "numerics",
-      "theoretical physics",
+      "physics",
       "visualization"
     ],
     "active_reviews":0,
@@ -30061,7 +29951,7 @@
     "topics":[
       "data sonification",
       "software metrics",
-      "static analysis",
+      "static",
       "visualization"
     ],
     "active_reviews":0,
@@ -30249,9 +30139,9 @@
     ],
     "email":"John.s.butler@tudublin.ie",
     "topics":[
-      "computational neuroscience",
       "dynamical systems",
-      "numerical analysis"
+      "neuroscience",
+      "numerical"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -30340,7 +30230,7 @@
     "email":"jonatan.alvelid@gmail.com",
     "topics":[
       "data plotting",
-      "image analysis",
+      "image",
       "microscopy"
     ],
     "active_reviews":0,
@@ -30366,7 +30256,6 @@
     "email":"jonathan.schilling@ipp.mpg.de",
     "topics":[
       "communication with hardware",
-      "data analysis",
       "modeling",
       "numerics"
     ],
@@ -30390,7 +30279,7 @@
     "email":"jonathan.car.silva@gmail.com",
     "topics":[
       "clustering",
-      "complex network analysis",
+      "complex network",
       "graph theory"
     ],
     "active_reviews":0,
@@ -30411,6 +30300,7 @@
     ],
     "email":"jaylee@att.com",
     "topics":[
+      "r work flow with other big data",
       "statistical process control"
     ],
     "active_reviews":0,
@@ -30434,9 +30324,8 @@
     ],
     "email":"jordan.perr-sauer@nrel.gov",
     "topics":[
-      "applied mathematics",
-      "data analysis",
-      "energy systems"
+      "energy systems",
+      "mathematics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -30460,7 +30349,7 @@
     "email":null,
     "topics":[
       "mathematics",
-      "numerical analysis",
+      "numerical",
       "statistics"
     ],
     "active_reviews":0,
@@ -30559,8 +30448,8 @@
     ],
     "email":"joshia5@rpi.edu",
     "topics":[
-      "computational fluid dynamics",
-      "finite element analysis",
+      "finite element",
+      "fluid dynamics",
       "scientific computation"
     ],
     "active_reviews":0,
@@ -30694,7 +30583,7 @@
       "apis",
       "spatial",
       "spatiotemporal",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -30716,7 +30605,7 @@
     ],
     "email":"ingenmec.jrc@gmail.com",
     "topics":[
-      "computational fluid dynamics"
+      "fluid dynamics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -30919,11 +30808,11 @@
     "email":"juancamilovillada@gmail.com",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "ecology",
       "evolution",
-      "genome analysis",
-      "sequence analysis"
+      "genome",
+      "sequence"
     ],
     "active_reviews":1,
     "total_reviews":6,
@@ -30973,8 +30862,7 @@
       "infrastructure",
       "pipelines",
       "scripts",
-      "web services",
-      "workflows"
+      "web services"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -31023,7 +30911,7 @@
       "data mining",
       "data science",
       "machine learning",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -31112,7 +31000,7 @@
     "email":"junghans@votca.org",
     "topics":[
       "atomic simulation software",
-      "bio",
+      "biology",
       "coarse-graining",
       "molecular",
       "molecular simulations"
@@ -31159,7 +31047,7 @@
     ],
     "email":"juliu@siue.edu",
     "topics":[
-      "computational and applied mathematics"
+      "and applied mathematics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -31180,7 +31068,7 @@
     "email":"justin.chunting.ho@sciencespo.fr",
     "topics":[
       "natural language processing",
-      "network analysis",
+      "network",
       "social media"
     ],
     "active_reviews":0,
@@ -31228,8 +31116,8 @@
     "email":"shenkjustin@gmail.com",
     "topics":[
       "biology",
-      "data analysis and visualization",
-      "machine learning"
+      "machine learning",
+      "visualization"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -31395,7 +31283,7 @@
       "computer science",
       "machine learning",
       "signal processing",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -31415,7 +31303,7 @@
     ],
     "email":"avi.sri02@gmail.com",
     "topics":[
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -31436,7 +31324,7 @@
     "email":"kevin-schneider@mutagene.de",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "other f# projects after taking a first look"
     ],
     "active_reviews":0,
@@ -31523,7 +31411,7 @@
     "email":"kishore.anekalla@northestern.edu",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "pharmaceutical sciences"
     ],
     "active_reviews":0,
@@ -31595,12 +31483,12 @@
     "email":"kanishkan91@gmail.com",
     "topics":[
       "carbon accounting",
-      "computational modeling",
       "food modeling",
       "gis",
       "income distributions",
       "land",
-      "land use change"
+      "land use change",
+      "modeling"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -31737,7 +31625,7 @@
     "email":"kath.landgren@gmail.com",
     "topics":[
       "agent-based modeling",
-      "computational fluid dynamics",
+      "fluid dynamics",
       "models of planetary atmospheres",
       "network science",
       "planetary science"
@@ -31784,7 +31672,6 @@
     ],
     "email":"katja.schueler@kgu.de",
     "topics":[
-      "data analysis",
       "neuroscience",
       "psychiatry",
       "psychology",
@@ -31836,7 +31723,7 @@
       "agricultural sciences",
       "environmental sciences",
       "reproducibility",
-      "spatial analysis"
+      "spatial"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -31857,7 +31744,6 @@
     ],
     "email":"kaustavbhatt94@gmail.com",
     "topics":[
-      "data analysis",
       "privacy",
       "visualization"
     ],
@@ -31881,7 +31767,7 @@
     "topics":[
       "agent-based modeling",
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -31948,7 +31834,7 @@
     "topics":[
       "geodesy",
       "geophysics",
-      "geospatial analysis",
+      "geospatial",
       "gis"
     ],
     "active_reviews":0,
@@ -32214,7 +32100,7 @@
     ],
     "email":"kelli.johnson@noaa.gov",
     "topics":[
-      "bayesian models",
+      "bayesian modeling",
       "fisheries",
       "simulations"
     ],
@@ -32238,7 +32124,7 @@
     "email":"sovacool@umich.edu",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "microbial ecology"
     ],
     "active_reviews":0,
@@ -32287,7 +32173,6 @@
       "biodiversity",
       "citizen science",
       "climate change",
-      "data analysis",
       "economic development",
       "education",
       "federal grants",
@@ -32343,7 +32228,7 @@
       "especially wave equations",
       "finite difference methods",
       "finite volume methods",
-      "numerical analysis",
+      "numerical",
       "numerical methods for odes and pdes",
       "runge-kutta and linear multistep methods"
     ],
@@ -32480,8 +32365,8 @@
     ],
     "email":null,
     "topics":[
-      "computational biology",
-      "computational chemistry",
+      "biology",
+      "chemistry",
       "statistical physics"
     ],
     "active_reviews":0,
@@ -32526,7 +32411,8 @@
     ],
     "email":"kinleyid@mcmaster.ca",
     "topics":[
-      "psychology and neuroscience"
+      "neuroscience",
+      "psychology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -32632,7 +32518,7 @@
     ],
     "email":"kirtiprakash2.71@gmail.com",
     "topics":[
-      "image analysis"
+      "image"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -33063,7 +32949,7 @@
     "topics":[
       "data science",
       "machine learning",
-      "numerical analysis",
+      "numerical",
       "scientific computing"
     ],
     "active_reviews":0,
@@ -33117,10 +33003,10 @@
     "email":"kris.rowe@anl.gov",
     "topics":[
       "climate",
-      "computational fluid dynamics",
       "discontinuous galerkin methods",
       "dynamical systems",
       "finite",
+      "fluid dynamics",
       "gpu programming",
       "high-performance computing",
       "numerical linear algebra",
@@ -33181,7 +33067,7 @@
     ],
     "email":"keithrbt0@gmail.com",
     "topics":[
-      "finite elements",
+      "finite element",
       "mesh generation",
       "meteorology",
       "oceanography"
@@ -33208,7 +33094,6 @@
     "topics":[
       "bioinformatics",
       "biology",
-      "computational biology",
       "data management",
       "databases",
       "education",
@@ -33263,7 +33148,7 @@
       "acoustics",
       "data science",
       "machine learning",
-      "numerical analysis",
+      "numerical",
       "physics",
       "statistics"
     ],
@@ -33336,10 +33221,10 @@
     "email":"ullrich@evolbio.mpg.de",
     "topics":[
       "bioinformatics",
+      "biology",
       "comparative genomics",
-      "computational biology",
-      "image processing",
-      "quantitative genetics"
+      "genetics",
+      "image processing"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -33364,7 +33249,7 @@
       "machine learning",
       "modeling",
       "simulation",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -33412,8 +33297,7 @@
     "email":"kvnamipara@gmail.com",
     "topics":[
       "data science",
-      "data wrangling",
-      "python libraries"
+      "data wrangling"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -33577,7 +33461,6 @@
     "email":"lankasaicharan123@gmail.com",
     "topics":[
       "docker applications",
-      "python applications",
       "vlsi cad"
     ],
     "active_reviews":0,
@@ -33598,8 +33481,8 @@
     ],
     "email":"lschoebitz@ethz.ch",
     "topics":[
-      "and hygiene",
       "environmental engineering",
+      "hygiene",
       "sanitation",
       "waste management",
       "water"
@@ -33654,7 +33537,7 @@
     ],
     "email":"laura.vana@wu.ac.at",
     "topics":[
-      "quantitative finance",
+      "finance",
       "statistical modeling"
     ],
     "active_reviews":0,
@@ -33703,10 +33586,10 @@
     ],
     "email":"lbluque@berkeley.edu",
     "topics":[
-      "computational matsci",
       "disorder thermodynamics",
       "inorganic materials",
       "linear models",
+      "matsci",
       "regression"
     ],
     "active_reviews":0,
@@ -33754,7 +33637,7 @@
     "email":"lianghao@oden.utexas.edu",
     "topics":[
       "bayesian inference",
-      "computational mechanics",
+      "mechanics",
       "phase field modeling"
     ],
     "active_reviews":0,
@@ -33947,11 +33830,11 @@
     "topics":[
       "dimensionality reduction",
       "eigenvalues eigenvectors",
-      "geometric data analysis",
+      "geometric",
       "linear algebra",
       "network science",
       "spectral methods",
-      "topological data analysis",
+      "topological",
       "unsupervised machine learning"
     ],
     "active_reviews":1,
@@ -34092,8 +33975,7 @@
     ],
     "email":"lily.wang@anu.edu.au",
     "topics":[
-      "computational",
-      "theoretical chemistry"
+      "chemistry"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -34253,7 +34135,7 @@
     "email":"lluis.revilla+joss@gmail.com",
     "topics":[
       "bioinformatics",
-      "multiomics tools",
+      "multiomics",
       "rna seq"
     ],
     "active_reviews":0,
@@ -34276,7 +34158,7 @@
     "topics":[
       "clustering",
       "dimension reduction",
-      "topological data analysis"
+      "topological"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -34366,11 +34248,11 @@
     ],
     "email":"lorenzo.rovigatti@uniroma1.it",
     "topics":[
-      "- chemical physics",
-      "- soft matter",
       "biophysics",
+      "chemical physics",
       "experimental results in:",
       "physical chemistry",
+      "soft matter",
       "software to compute simulations and analyse simulation"
     ],
     "active_reviews":0,
@@ -34395,7 +34277,7 @@
     "email":"louist@upenn.edu",
     "topics":[
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -34440,7 +34322,7 @@
     "email":"andrew.low@canada.ca",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "genomics"
     ],
     "active_reviews":0,
@@ -34462,8 +34344,7 @@
     ],
     "email":"lparsons@princeton.edu",
     "topics":[
-      "bioinformatics",
-      "workflows"
+      "bioinformatics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -34600,7 +34481,7 @@
     ],
     "email":"koerner.lucas@stthomas.edu",
     "topics":[
-      "(possibly) image analysis",
+      "(possibly) image",
       "experiment data analysis (physics or ee based)",
       "instrument control"
     ],
@@ -34627,7 +34508,7 @@
     ],
     "email":"luciorqueiroz@ufmg.br",
     "topics":[
-      "ansible based tools",
+      "ansible based",
       "bioinformatics",
       "hpc infrastructure",
       "infrastructure as code",
@@ -34675,7 +34556,7 @@
     ],
     "email":"lucywhalley@gmail.com",
     "topics":[
-      "computational materials science"
+      "materials science"
     ],
     "active_reviews":0,
     "total_reviews":4,
@@ -34773,8 +34654,8 @@
     "email":"lukasz.jablonski@wp.eu",
     "topics":[
       "auditory neuroscience",
-      "computational neuroscience",
-      "neuroengineering"
+      "neuroengineering",
+      "neuroscience"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -34820,9 +34701,8 @@
     ],
     "email":"guillaume.fraux@epfl.ch",
     "topics":[
-      "computational",
-      "material science",
-      "theoretical chemistry"
+      "chemistry",
+      "material science"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -34848,7 +34728,6 @@
     ],
     "email":"lutzhamel@uri.edu",
     "topics":[
-      "and music",
       "compilers",
       "computers in art",
       "data science",
@@ -34857,7 +34736,8 @@
       "interpreters",
       "logic programming",
       "machine learning",
-      "programming language design"
+      "music",
+      "programming languages"
     ],
     "active_reviews":0,
     "total_reviews":3,
@@ -34885,7 +34765,7 @@
     "topics":[
       "citizen science",
       "cloud",
-      "collaborative tools",
+      "collaborative",
       "data structures",
       "development tooling",
       "games",
@@ -34919,8 +34799,8 @@
     ],
     "email":"amin.sadeghi@uwaterloo.ca",
     "topics":[
-      "computational fluid dynamics",
       "electrochemistry",
+      "fluid dynamics",
       "high performance computing",
       "porous materials",
       "scientific computing",
@@ -35043,7 +34923,7 @@
     ],
     "email":"magedaa@uio.no",
     "topics":[
-      "image analysis",
+      "image",
       "machine learning"
     ],
     "active_reviews":1,
@@ -35067,7 +34947,7 @@
     "email":"mmibrahim@pm.me",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "general stats and machine learning when i understand it :)",
       "systems biology"
     ],
@@ -35258,7 +35138,7 @@
     ],
     "email":"mamun.che06@gmail.com",
     "topics":[
-      "computational chemistry",
+      "chemistry",
       "materials science"
     ],
     "active_reviews":0,
@@ -35302,10 +35182,10 @@
     ],
     "email":"mbaxi@lakeheadu.ca",
     "topics":[
-      "computational social sciences",
       "data mining",
-      "social media analysis",
-      "social network analysis"
+      "social media",
+      "social network",
+      "social sciences"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -35351,7 +35231,7 @@
     "email":"manojrege@mailbox.tu-berlin.de",
     "topics":[
       "analytics",
-      "iot",
+      "internet of things",
       "mobile computing",
       "ubiquitous computing"
     ],
@@ -35376,7 +35256,7 @@
     "topics":[
       "bayesian inference",
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -35409,7 +35289,7 @@
       "machine learning",
       "signal processing",
       "statistical software",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -35458,7 +35338,7 @@
       "ann",
       "emg",
       "gait",
-      "motion analysis",
+      "motion",
       "muscle synergies"
     ],
     "active_reviews":0,
@@ -35709,7 +35589,9 @@
     "email":"markhwhiteii@gmail.com",
     "topics":[
       "data processing",
-      "statistics for psychological and social sciences",
+      "psycology",
+      "social science",
+      "statistics",
       "visualization"
     ],
     "active_reviews":0,
@@ -35755,7 +35637,7 @@
     "email":"mark.ziemann@gmail.com",
     "topics":[
       "bioinformatics",
-      "document analysis",
+      "document",
       "genomics"
     ],
     "active_reviews":0,
@@ -35778,8 +35660,8 @@
     ],
     "email":"marouen.b.guebila@gmail.com",
     "topics":[
+      "and systems biology",
       "bioinformatics",
-      "computational and systems biology",
       "health informatics"
     ],
     "active_reviews":0,
@@ -35804,7 +35686,7 @@
     ],
     "email":"mcdonnellmt@ornl.gov",
     "topics":[
-      "computational chemistry",
+      "chemistry",
       "materials science",
       "molecular dynamics",
       "neutron scattering",
@@ -35837,7 +35719,7 @@
       "persistent links",
       "research",
       "urls",
-      "web apps"
+      "web development"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -35909,7 +35791,7 @@
       "geographic science",
       "geospatial",
       "gis",
-      "network analysis",
+      "network",
       "urban morphology"
     ],
     "active_reviews":0,
@@ -36040,8 +35922,8 @@
     ],
     "email":"marwahaha@berkeley.edu",
     "topics":[
-      "quantum information",
-      "some math and physics"
+      "math and physics",
+      "quantum information"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -36061,7 +35943,7 @@
     ],
     "email":"macssp18@gmail.com",
     "topics":[
-      "computational physics"
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -36083,7 +35965,7 @@
     "topics":[
       "artificial intelligence",
       "computer vision",
-      "healthcare ai",
+      "healthcare",
       "machine learning",
       "medical images"
     ],
@@ -36225,7 +36107,6 @@
     ],
     "email":"mathieu.besancon@polymtl.ca",
     "topics":[
-      "data analysis",
       "game theory",
       "mathematical optimization",
       "scientific computing",
@@ -36251,7 +36132,7 @@
     "topics":[
       "applied",
       "psychology-related software",
-      "qualitative research-related software",
+      "research-related software",
       "statistics only when very rudimentary"
     ],
     "active_reviews":0,
@@ -36359,8 +36240,8 @@
       "data engines",
       "databases",
       "distributed table formats",
-      "etl tools",
-      "ontologies (owl)"
+      "etl",
+      "ontologies"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -36426,7 +36307,7 @@
     ],
     "email":"matthias.lein@vuw.ac.nz",
     "topics":[
-      "computational chemistry"
+      "chemistry"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -36450,7 +36331,7 @@
       "fluid mechanics",
       "fluid-structure interaction",
       "hydrodynamics",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -36493,7 +36374,7 @@
     ],
     "email":"mattwthomp@gmail.com",
     "topics":[
-      "computational chemistry",
+      "chemistry",
       "molecular simulation",
       "scientific computing"
     ],
@@ -36621,8 +36502,8 @@
     ],
     "email":"maximilian.scheurer@iwr.uni-heidelberg.de",
     "topics":[
-      "computational biophysics",
-      "computational chemistry",
+      "biophysics",
+      "chemistry",
       "quantum chemistry"
     ],
     "active_reviews":0,
@@ -36717,9 +36598,9 @@
     ],
     "email":"mojtaba.barzegari@kuleuven.be",
     "topics":[
-      "computational materials science",
-      "computational mechanics",
       "finite element",
+      "materials science",
+      "mechanics",
       "numerical methods",
       "scientific computing"
     ],
@@ -36875,7 +36756,7 @@
       "life modeling",
       "machine learning",
       "regression models",
-      "reliability analysis",
+      "reliability",
       "statistical computing",
       "statistical inference",
       "statistical learning"
@@ -36902,10 +36783,10 @@
     ],
     "email":"m.davezac@ic.ac.uk",
     "topics":[
-      "applied mathematics",
       "biophysics",
       "chemistry",
       "condensed matter physics",
+      "mathematics",
       "physics",
       "quantum mechanics"
     ],
@@ -37120,7 +37001,6 @@
     ],
     "email":"mark.piper@colorado.edu",
     "topics":[
-      "data analysis",
       "numerical modeling"
     ],
     "active_reviews":0,
@@ -37193,8 +37073,8 @@
     "topics":[
       "batteries",
       "chemical engineering",
+      "chemistry",
       "combustion",
-      "computational chemistry",
       "fuel cells",
       "heat transfer",
       "mechanical engineering",
@@ -37317,8 +37197,8 @@
       "identifiability",
       "mathematical biology",
       "optimization",
-      "quantitative systems pharmacology",
-      "systems biology"
+      "systems biology",
+      "systems pharmacology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -37525,7 +37405,7 @@
       "ecological modelling",
       "individual-based modeling",
       "landscape ecology",
-      "spatial point pattern analysis"
+      "spatial point pattern"
     ],
     "active_reviews":1,
     "total_reviews":1,
@@ -37575,11 +37455,11 @@
     "email":"mingzhaohu@ucsb.edu",
     "topics":[
       "dynamic models",
+      "functional",
       "functional data",
-      "functional data analysis",
       "high-dimensional data",
       "kalman filters",
-      "longitudinal data analysis",
+      "longitudinal",
       "machine learning",
       "missing values",
       "mixed models",
@@ -37587,7 +37467,7 @@
       "regression models",
       "sptial statistics",
       "state space models",
-      "survival analysis"
+      "survival"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -37732,8 +37612,8 @@
     ],
     "email":"mikaem@math.uio.no",
     "topics":[
-      "computational fluid dynamics",
       "finite element methods",
+      "fluid dynamics",
       "high performance computing",
       "mpi",
       "spectral methods"
@@ -37764,7 +37644,6 @@
     "topics":[
       "climate change",
       "climate policy",
-      "climate policy analysis",
       "especially x-ray",
       "green-house gas emissions",
       "nanophysics",
@@ -37990,10 +37869,9 @@
     "email":"sharkmanhmz@tamu.edu",
     "topics":[
       "big data",
-      "computational finance",
-      "computational social science",
-      "computational social science and finance",
+      "finance",
       "machine learning",
+      "social science",
       "statistics"
     ],
     "active_reviews":2,
@@ -38039,7 +37917,7 @@
     ],
     "email":"mjsull@gmail.com",
     "topics":[
-      "assembly tools",
+      "assembly",
       "bacterial genomics",
       "visualization"
     ],
@@ -38175,12 +38053,12 @@
     ],
     "email":"joss@ml-evs.science",
     "topics":[
-      "and any codes focussed more on infrastructure (e.g. databases",
+      "any codes focussed more on infrastructure (e.g. databases",
       "chemistry",
-      "computational materials science",
       "containerisation) or data science",
       "electronic structure",
       "machine learning as applied to the above",
+      "materials science",
       "physics",
       "primarily atomistic modeling"
     ],
@@ -38597,7 +38475,7 @@
     ],
     "email":"saad.motahhir@usmba.ac.ma",
     "topics":[
-      "embedded system",
+      "embedded systems",
       "renewable energy"
     ],
     "active_reviews":0,
@@ -38644,7 +38522,7 @@
     "topics":[
       "bioinformatics",
       "genomics",
-      "image analysis"
+      "image"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -38688,7 +38566,6 @@
     ],
     "email":"mponce@scinet.utoronto.ca",
     "topics":[
-      "data analysis",
       "visualization"
     ],
     "active_reviews":0,
@@ -38730,11 +38607,11 @@
     ],
     "email":"mrbuche@sandia.gov",
     "topics":[
-      "applied math",
       "constitutive theory",
       "continuum mechanics",
       "differential equations",
       "dynamics",
+      "math",
       "mathematics",
       "mechanical engineering",
       "mechanics",
@@ -38789,8 +38666,9 @@
     ],
     "email":"matias@stat.ubc.ca",
     "topics":[
-      "functional data analysis",
-      "regression (parametric or non-parametric)",
+      "functional",
+      "non-parametric regression",
+      "parametric regression",
       "robust statistics"
     ],
     "active_reviews":1,
@@ -38839,7 +38717,7 @@
     "topics":[
       "boundary element methods",
       "finite element methods",
-      "numerical analysis"
+      "numerical"
     ],
     "active_reviews":0,
     "total_reviews":3,
@@ -38863,7 +38741,7 @@
     ],
     "email":"m.seri@rug.nl",
     "topics":[
-      "numerical analysis",
+      "numerical",
       "system programming"
     ],
     "active_reviews":0,
@@ -38885,7 +38763,7 @@
     ],
     "email":"m.sharifian@sheffield.ac.uk",
     "topics":[
-      "computational hydraulics"
+      "hydraulics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -38912,9 +38790,9 @@
     "email":"marcin@skwark.pl",
     "topics":[
       "bioinformatics",
+      "biology",
+      "chemistry",
       "chemoinformatics",
-      "computational biology",
-      "computational chemistry",
       "data science",
       "machine learning",
       "optimization",
@@ -38943,10 +38821,10 @@
     ],
     "email":"marcel.stimberg@inserm.fr",
     "topics":[
-      "applied mathematics (numerical integration of odes",
-      "computational neuroscience",
       "etc.)",
       "general data science",
+      "mathematics (numerical integration of odes",
+      "neuroscience",
       "simulation technology",
       "visualization"
     ],
@@ -38969,7 +38847,7 @@
     ],
     "email":"matteo.tomasini@gu.se",
     "topics":[
-      "computational biology",
+      "biology",
       "ecology and evolution",
       "genomics"
     ],
@@ -39094,7 +38972,7 @@
     ],
     "email":"madicken.munk@gmail.com",
     "topics":[
-      "applied math (depends on application)",
+      "math (depends on application)",
       "meshing",
       "nuclear engineering",
       "nuclear physics",
@@ -39123,7 +39001,7 @@
     "email":"matiasvd@gmail.com",
     "topics":[
       "linear systems iterative methods",
-      "numerical analysis",
+      "numerical",
       "optimization"
     ],
     "active_reviews":0,
@@ -39207,11 +39085,12 @@
     ],
     "email":"markus.erwee@gmail.com",
     "topics":[
-      "computational fluid dynamics",
+      "fluid dynamics",
       "molecular dynamics",
       "physical metallurgy",
       "pyrometallurgy",
-      "thermodynamics and thermochemistry",
+      "thermochemistry",
+      "thermodynamics",
       "welding metallurgy"
     ],
     "active_reviews":0,
@@ -39234,7 +39113,7 @@
     "email":"matt@mpeterson.org",
     "topics":[
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -39282,7 +39161,7 @@
     ],
     "email":"yousefi@clemson.edu",
     "topics":[
-      "computational materials sicence",
+      "materials sicence",
       "numerical methods"
     ],
     "active_reviews":0,
@@ -39318,8 +39197,7 @@
       "high performance computing",
       "machine learning",
       "optimisation",
-      "physics",
-      "software tooling"
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -39341,7 +39219,7 @@
     "email":"mzamoraz@eng.ucsd.edu",
     "topics":[
       "complex systems models",
-      "computational fluid dynamics",
+      "fluid dynamics",
       "stratocumulus cloud models"
     ],
     "active_reviews":0,
@@ -39409,7 +39287,7 @@
       "gis",
       "gps",
       "remote sensing",
-      "spatial analysis"
+      "spatial"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -39519,7 +39397,7 @@
     ],
     "email":"nmabukhdeir@uwaterloo.ca",
     "topics":[
-      "computational fluid dynamics",
+      "fluid dynamics",
       "image processing"
     ],
     "active_reviews":0,
@@ -39543,7 +39421,7 @@
     "email":"nathan.matias@cornell.edu",
     "topics":[
       "anything having to do with social media data and news data",
-      "computational social science"
+      "social science"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -39612,7 +39490,7 @@
     "topics":[
       "cloud",
       "data",
-      "iot",
+      "internet of things",
       "networking"
     ],
     "active_reviews":0,
@@ -39748,7 +39626,7 @@
       "forecasting",
       "optimization",
       "prediction",
-      "time series analysis",
+      "time series",
       "visualization"
     ],
     "active_reviews":0,
@@ -39873,7 +39751,6 @@
     ],
     "email":"dlopez@ctima.uma.es",
     "topics":[
-      "data analysis",
       "image processing",
       "machine learning",
       "neuroimaging",
@@ -39924,7 +39801,7 @@
     "topics":[
       "artificial intelligence",
       "bioinformatics",
-      "computational biology",
+      "biology",
       "computer science",
       "machine learning",
       "mathematics",
@@ -39979,7 +39856,7 @@
     "topics":[
       "3d analysis and visualization",
       "astrophysics",
-      "computational fluid dynamics"
+      "fluid dynamics"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -40002,10 +39879,9 @@
     "email":"nhejazi@berkeley.edu",
     "topics":[
       "bioinformatics",
+      "biology",
       "biostatistics",
       "causal inference",
-      "computational biology",
-      "data analysis",
       "data science",
       "genomics",
       "machine learning",
@@ -40077,7 +39953,7 @@
     "email":"n.gorman305@gmail.com",
     "topics":[
       "energy market modelling",
-      "energy system data analysis",
+      "energy system",
       "energy system modelling"
     ],
     "active_reviews":0,
@@ -40125,7 +40001,7 @@
     ],
     "email":"nicholas.sisco@barrowneuro.org",
     "topics":[
-      "computational biology",
+      "biology",
       "neuroimaging",
       "nuclear magnetic resonance",
       "structural biology"
@@ -40193,7 +40069,7 @@
     ],
     "email":"n.renaud@esciencecenter.nl",
     "topics":[
-      "computational chemistry",
+      "chemistry",
       "quantum chemistry"
     ],
     "active_reviews":0,
@@ -40350,7 +40226,7 @@
     ],
     "email":"nrandhawa@ucdavis.edu",
     "topics":[
-      "and some data visualization",
+      "data visualization",
       "environment related areas",
       "epidemiology",
       "health"
@@ -40373,9 +40249,9 @@
     ],
     "email":"nicholas.tierney@gmail.com",
     "topics":[
-      "exploratory data analysis",
+      "exploratory",
       "statistics",
-      "tools that facilitate data analysis",
+      "tools that facilitate",
       "visualization"
     ],
     "active_reviews":0,
@@ -40403,9 +40279,9 @@
     "topics":[
       "complexity",
       "mechanical proofs",
-      "program analysis",
-      "software engineering tools",
-      "static analysis",
+      "program",
+      "software engineering",
+      "static",
       "verification"
     ],
     "active_reviews":0,
@@ -40452,7 +40328,6 @@
     ],
     "email":"nmstreethran@gmail.com",
     "topics":[
-      "data analysis",
       "energy systems",
       "environmental science",
       "visualization",
@@ -40576,8 +40451,8 @@
     ],
     "email":"noam.ross@gmail.com",
     "topics":[
-      "computational methods",
       "epidemiology",
+      "methods",
       "web apis"
     ],
     "active_reviews":0,
@@ -40618,11 +40493,11 @@
       "machine learning",
       "numeric packages",
       "particle mechanics",
-      "social science codes",
+      "social science",
       "spatial statistics",
       "spatio-temporal models",
       "statistical modeling",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -40666,8 +40541,8 @@
     "email":"nicolas.pucino@hotmail.com",
     "topics":[
       "coastal geomorphology",
-      "geospatial analysis",
-      "terrain analysis"
+      "geospatial",
+      "terrain"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -40712,8 +40587,8 @@
     ],
     "email":"natalie.schaworonkow@esi-frankfurt.de",
     "topics":[
-      "electroencephalography analysis",
-      "magnetoenceophalography analysis"
+      "electroencephalography",
+      "magnetoenceophalography"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -40786,7 +40661,7 @@
     ],
     "email":"utkarshazad98@gmail.com",
     "topics":[
-      "computational natural sciences",
+      "natural sciences",
       "quantum computing"
     ],
     "active_reviews":0,
@@ -40832,9 +40707,8 @@
     ],
     "email":"peterfunnell@tutanota.com",
     "topics":[
-      "analysis",
       "computer science",
-      "cryptanalysis",
+      "crypt",
       "cryptography",
       "cybersecurity",
       "cybint",
@@ -40845,7 +40719,7 @@
       "machine learning",
       "osint",
       "processing",
-      "steganalysis",
+      "steg",
       "steganography"
     ],
     "active_reviews":0,
@@ -40992,7 +40866,7 @@
     "email":"olexandr.balyk@ucc.ie",
     "topics":[
       "energy systems modeling",
-      "scenario analysis"
+      "scenario"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -41013,8 +40887,7 @@
     "email":"olga.doronina@nrel.gov",
     "topics":[
       "bayesian statistics",
-      "computational fluid dynamic",
-      "data analysis",
+      "fluid dynamic",
       "shape parametrization",
       "statistics",
       "turbulence modeling"
@@ -41062,7 +40935,7 @@
     ],
     "email":"mmoa33@hotmail.com",
     "topics":[
-      "and a bit of astro-informatics",
+      "a bit of astro-informatics",
       "embedded systems",
       "finance"
     ],
@@ -41318,7 +41191,7 @@
     ],
     "email":"paul.ortmann@protonmail.com",
     "topics":[
-      "geospatial analysis",
+      "geospatial",
       "logistics",
       "network science",
       "optimization",
@@ -41345,7 +41218,8 @@
     "email":"joss@patrikschoenfeldt.de",
     "topics":[
       "physics (most classical like mechanics or electric fields",
-      "would consider others - like thermodynamics or quantum mechanics - in individual decisions)"
+      "quantum mechanics",
+      "thermodynamics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -41365,8 +41239,8 @@
     ],
     "email":"faizzjazadi@gmail.com",
     "topics":[
-      "qualitative research",
-      "website"
+      "research",
+      "web development"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -41410,7 +41284,6 @@
     "email":"pacoramon@gmail.com",
     "topics":[
       "health",
-      "health services",
       "healthcare",
       "medicine"
     ],
@@ -41456,8 +41329,8 @@
     ],
     "email":"pankajkmishra01@gmail.com",
     "topics":[
-      "computational geology",
-      "computational geophysics",
+      "geology",
+      "geophysics",
       "meshfree methods",
       "meshless methods",
       "radial basis functions",
@@ -41511,10 +41384,10 @@
     ],
     "email":"pat.ryser-welch@open.ac.uk",
     "topics":[
-      "a.i",
+      "artificial intelligence",
       "distributed system",
-      "integration of programming languages",
       "machine learning",
+      "programming languages",
       "visualization"
     ],
     "active_reviews":0,
@@ -41583,7 +41456,7 @@
     ],
     "email":"patrick.c.gray@duke.edu",
     "topics":[
-      "geospatial analysis",
+      "geospatial",
       "machine learning",
       "oceanography",
       "remote sensing",
@@ -41608,8 +41481,7 @@
     "email":"pgovan1@aggienetwork.com",
     "topics":[
       "bayesian methods",
-      "data analysis",
-      "network analysis"
+      "network"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -41633,10 +41505,10 @@
     "email":"pmsl.academic@gmail.com",
     "topics":[
       "agent-based modeling",
-      "computational neuroscience",
       "machine learning",
       "network simulations",
       "neuroinformatics",
+      "neuroscience",
       "ordinary differential equations",
       "partial differential equations",
       "sdes"
@@ -41664,7 +41536,6 @@
     ],
     "email":"paxtonfitzpatrick@gmail.com",
     "topics":[
-      "computational neuroscience",
       "dimensionality reduction",
       "docker",
       "git",
@@ -41672,6 +41543,7 @@
       "ipython",
       "jupyter",
       "natural language processing",
+      "neuroscience",
       "online research",
       "psychology",
       "reproducible research",
@@ -41775,10 +41647,11 @@
     "email":"lukas.riedel@iwr.uni-heidelberg.de",
     "topics":[
       "complex adaptive systems",
-      "computational physics",
       "data assimilation",
       "finite element methods",
-      "ordinary & partial differential equations"
+      "ordinary differential equations",
+      "partial differential equations",
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":3,
@@ -42123,7 +41996,7 @@
     ],
     "email":"peller.phys@gmail.com",
     "topics":[
-      "astro physics",
+      "astrophysics",
       "particle physics",
       "statistics"
     ],
@@ -42156,8 +42029,8 @@
       "direct-detection dark matter searches",
       "experimental nuclear physics",
       "neutron simulation",
-      "physics",
-      "theoretical nuclear physics"
+      "nuclear physics",
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -42185,7 +42058,7 @@
     "email":"nikos.pitsianis@eng.auth.gr",
     "topics":[
       "big data",
-      "compiler tools",
+      "compiler",
       "fast transforms",
       "parallel numerical software"
     ],
@@ -42238,10 +42111,10 @@
     ],
     "email":"carsten.lemmen@hzg.de",
     "topics":[
+      "archaeology",
       "ecological modeling",
       "model frameworks",
       "oceanography",
-      "quantitative archaeology",
       "social models"
     ],
     "active_reviews":1,
@@ -42284,9 +42157,9 @@
     ],
     "email":"T.E.Nicholls@liverpool.ac.uk",
     "topics":[
-      "and particularly packages focused on text analysis",
-      "computational social science",
-      "especially focused towards communication and political science"
+      "especially focused towards communication and political science",
+      "particularly packages focused on text",
+      "social science"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -42427,7 +42300,7 @@
     ],
     "email":"technical.partha@gmail.com",
     "topics":[
-      "computational biology",
+      "biology",
       "data science",
       "healthcare",
       "machine learning",
@@ -42452,7 +42325,7 @@
     ],
     "email":"pradeep.rajasekhar@gmail.com",
     "topics":[
-      "bioimage analysis",
+      "bioimage",
       "data processing",
       "image processing",
       "machine learning",
@@ -42534,8 +42407,8 @@
     "email":null,
     "topics":[
       "astronomy and machine learning",
-      "computational science and engineering & high-performance computing",
-      "computer science"
+      "computer science",
+      "science and engineering & high-performance computing"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -42566,7 +42439,7 @@
       "data science",
       "image processing",
       "realtime system",
-      "statistical analysis"
+      "statistical"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -42637,8 +42510,8 @@
     ],
     "email":"pratikvn@protonmail.com",
     "topics":[
-      "computational fluid dynamics",
       "finite element methods",
+      "fluid dynamics",
       "gpu computing",
       "high performance computing",
       "numerical linear algebra"
@@ -42664,10 +42537,10 @@
     ],
     "email":"praveenkumarpgiindia@gmail.com",
     "topics":[
-      "clinical trial",
-      "healthcare programs",
+      "clinical trials",
+      "healthcare",
       "medical simulation",
-      "metaanalysis",
+      "meta",
       "pharmacokinetics"
     ],
     "active_reviews":0,
@@ -42737,8 +42610,8 @@
     "email":"nicholas.pritchard@uwa.edu.au",
     "topics":[
       "astronomy (radio)",
-      "computational workflow management systems",
-      "high performance computing"
+      "high performance computing",
+      "workflow management systems"
     ],
     "active_reviews":1,
     "total_reviews":2,
@@ -42758,7 +42631,7 @@
     ],
     "email":"prmiles@ncsu.edu",
     "topics":[
-      "sensitivity analysis",
+      "sensitivity",
       "smart materials",
       "uncertainty quantification"
     ],
@@ -42858,7 +42731,7 @@
     "email":"prvst@protonmail.com",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "proteomics"
     ],
     "active_reviews":0,
@@ -43062,7 +42935,6 @@
     "topics":[
       "biophysics",
       "chemoinformatics",
-      "computational material science",
       "data science",
       "material science",
       "materials informatics"
@@ -43385,7 +43257,7 @@
     "email":"ramakrishnan@tifrh.res.in",
     "topics":[
       "chemical physics",
-      "computational chemistry",
+      "chemistry",
       "density functional theory",
       "materials",
       "materials science",
@@ -43520,7 +43392,7 @@
     ],
     "email":"ramisetti@serc.res.in",
     "topics":[
-      "computational mechanics"
+      "mechanics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -43567,12 +43439,12 @@
     ],
     "email":"ranzheng@outlook.com",
     "topics":[
-      "data analysis and visualization",
       "first principle calculation",
       "materials science",
       "mathematics",
       "molecular dynamics",
-      "physics"
+      "physics",
+      "visualization"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -43613,7 +43485,7 @@
     ],
     "email":"mail@sebastianraschka.com",
     "topics":[
-      "computational biology",
+      "biology",
       "machine learning",
       "statistics"
     ],
@@ -43658,8 +43530,8 @@
     ],
     "email":"arashti2016@fau.edu",
     "topics":[
-      "computational physics",
-      "numerical relativity"
+      "numerical relativity",
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -43987,7 +43859,7 @@
       "neural networks",
       "novelty detection",
       "pattern recognition",
-      "unsupervised learning"
+      "unsupervised machine learning"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -44007,7 +43879,7 @@
     ],
     "email":"richard.gerum@protonmail.com",
     "topics":[
-      "image analysis",
+      "image",
       "machine learning",
       "visualization"
     ],
@@ -44078,7 +43950,7 @@
     ],
     "email":"richardjgowers@gmail.com",
     "topics":[
-      "computational chemistry",
+      "chemistry",
       "molecular simulation"
     ],
     "active_reviews":0,
@@ -44099,7 +43971,6 @@
     ],
     "email":null,
     "topics":[
-      "computational linguistics",
       "computer science",
       "data science",
       "linguistics",
@@ -44156,8 +44027,7 @@
       "epidemiology",
       "genomics",
       "immunology",
-      "phylogenetics",
-      "theoretical biology"
+      "phylogenetics"
     ],
     "active_reviews":3,
     "total_reviews":3,
@@ -44226,9 +44096,9 @@
     ],
     "email":"rwevans@uchicago.edu",
     "topics":[
-      "computational methods",
       "economics",
-      "mathematical modeling"
+      "mathematical modeling",
+      "methods"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -44256,8 +44126,8 @@
     ],
     "email":"rtwkaggarwal@gmail.com",
     "topics":[
-      "advancement in programming languages",
       "c++",
+      "climate change",
       "developments in c",
       "diversity & inclusion",
       "emerging technologies",
@@ -44268,8 +44138,8 @@
       "open source",
       "open source development",
       "open source software",
-      "sustainable development",
-      "use of ai and open source in climate change"
+      "programming languages",
+      "sustainable development"
     ],
     "active_reviews":0,
     "total_reviews":3,
@@ -44471,7 +44341,7 @@
       "cosmology",
       "image classification",
       "machine learning",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -44539,8 +44409,8 @@
     ],
     "email":"r.shaw@sheffield.ac.uk",
     "topics":[
-      "applied mathematics",
-      "computational chemistry"
+      "chemistry",
+      "mathematics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -44676,7 +44546,7 @@
     ],
     "email":"rodgdor@gmail.com",
     "topics":[
-      "computational genomics",
+      "genomics",
       "graph theory"
     ],
     "active_reviews":0,
@@ -44700,7 +44570,7 @@
     "email":"rkataishi@untdf.edu.ar",
     "topics":[
       "economics",
-      "semantic analysis",
+      "semantic",
       "statistics"
     ],
     "active_reviews":0,
@@ -44840,8 +44710,8 @@
     ],
     "email":null,
     "topics":[
-      "computational neuroscience",
-      "machine learning"
+      "machine learning",
+      "neuroscience"
     ],
     "active_reviews":0,
     "total_reviews":10,
@@ -44966,7 +44836,7 @@
       "global models",
       "hydrology topics - expertise: groundwater",
       "operating systems",
-      "others: sensitivity analysis"
+      "others: sensitivity"
     ],
     "active_reviews":1,
     "total_reviews":5,
@@ -44992,7 +44862,7 @@
       "health",
       "mathematical oncology",
       "medicine",
-      "topological data analysis",
+      "topological",
       "visualization"
     ],
     "active_reviews":0,
@@ -45148,7 +45018,7 @@
     "email":"rvhonorato@gmail.com",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "macromolecular docking",
       "molecular dynamics",
       "molecular modeling",
@@ -45179,12 +45049,12 @@
       "bioinformatics",
       "biology",
       "biophysics",
-      "computational neuroscience",
       "machine learning",
       "model simulators",
       "modeling",
       "neurobiology",
-      "neuroinformatics"
+      "neuroinformatics",
+      "neuroscience"
     ],
     "active_reviews":1,
     "total_reviews":3,
@@ -45206,7 +45076,7 @@
     ],
     "email":"rrichard@ameslab.gov",
     "topics":[
-      "computational chemistry"
+      "chemistry"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -45328,7 +45198,7 @@
     "email":"shamim@rice.edu",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "general computing",
       "genomics"
     ],
@@ -45354,7 +45224,6 @@
     ],
     "email":"sabino.maggi@cnr.it",
     "topics":[
-      "data analysis",
       "physics",
       "solid state",
       "superconductivity",
@@ -45402,11 +45271,11 @@
     "email":"sadielbartholomew@gmail.com",
     "topics":[
       "atmospheric sciences",
-      "computational science",
       "data science",
       "geophysics",
       "nuclear physics",
       "particle physics",
+      "science",
       "scientific computing"
     ],
     "active_reviews":0,
@@ -45427,8 +45296,8 @@
     ],
     "email":"sseth.research@gmail.com",
     "topics":[
+      "biology",
       "cancer research",
-      "computational biology",
       "genomics",
       "machine learning",
       "modeling"
@@ -45500,7 +45369,7 @@
     "email":"salehr@kth.se",
     "topics":[
       "bayesian optimization",
-      "computational fluid dynamics",
+      "fluid dynamics",
       "fluid mechanics",
       "uncertainty quantification"
     ],
@@ -45656,9 +45525,8 @@
     "email":"sandeeps@illinois.edu",
     "topics":[
       "computer vision",
-      "data analysis",
       "machine learning",
-      "restful api"
+      "restful apis"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -45680,8 +45548,9 @@
     "topics":[
       "bayesian statistics",
       "dynamical systems",
-      "ecotoxicology",
-      "mathematical biology"
+      "ecology",
+      "mathematical biology",
+      "toxicology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -45707,7 +45576,7 @@
     ],
     "email":"ankursinha@fedoraproject.org",
     "topics":[
-      "computational modelling",
+      "modelling",
       "neuroscience"
     ],
     "active_reviews":0,
@@ -45819,9 +45688,9 @@
     "email":"stefan.appelhoff@mailbox.org",
     "topics":[
       ")",
-      "- neuroscience with focus on electrophysiology (eeg",
       "ieeg",
-      "meg"
+      "meg",
+      "neuroscience with focus on electrophysiology (eeg"
     ],
     "active_reviews":1,
     "total_reviews":4,
@@ -45891,13 +45760,11 @@
     ],
     "email":"saranraj.nambusubramaniyan@informatik.tu-chemnitz.de",
     "topics":[
-      "applied mathematics",
-      "computational mathematics",
-      "computational neuroscience",
       "data science",
       "dynamical systems",
       "information theory",
       "machine learning",
+      "mathematics",
       "neuroscience",
       "signal processing"
     ],
@@ -45948,10 +45815,10 @@
     "email":"sarat@ornl.gov",
     "topics":[
       "climate science",
-      "computational science",
       "data analytics",
       "high performance computing",
-      "optimization algorithms"
+      "optimization algorithms",
+      "science"
     ],
     "active_reviews":0,
     "total_reviews":5,
@@ -46046,7 +45913,7 @@
     "email":"nat@saulgill.com",
     "topics":[
       "machine learning",
-      "topological data analysis",
+      "topological",
       "user interfaces"
     ],
     "active_reviews":0,
@@ -46115,10 +45982,10 @@
     ],
     "email":"s.bacchio@gmail.com",
     "topics":[
-      "computational physics",
       "high-performance computing",
       "iterative linear solvers",
       "lattice qcd",
+      "physics",
       "quantum field theory"
     ],
     "active_reviews":0,
@@ -46187,7 +46054,7 @@
     "topics":[
       "ecosystem",
       "gravitational-wave astronomy",
-      "infrastructure tools",
+      "infrastructure",
       "numerical relativity"
     ],
     "active_reviews":0,
@@ -46287,7 +46154,7 @@
       "design of experiments",
       "high performance computing",
       "load balancing",
-      "performance analysis"
+      "performance"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -46308,7 +46175,7 @@
     ],
     "email":"david.schoch@gesis.org",
     "topics":[
-      "network analysis",
+      "network",
       "network modeling",
       "network visualization",
       "visualization"
@@ -46454,8 +46321,8 @@
     ],
     "email":"sctyner@iastate.edu",
     "topics":[
-      "anything statistics",
       "graphics",
+      "statistics",
       "visualization"
     ],
     "active_reviews":0,
@@ -46477,7 +46344,7 @@
     ],
     "email":"sebastien.delandtsheer@uni.lu",
     "topics":[
-      "computational biology",
+      "biology",
       "systems biology"
     ],
     "active_reviews":2,
@@ -46525,8 +46392,8 @@
     ],
     "email":"mccabe.s@northeastern.edu",
     "topics":[
-      "computational social science",
-      "network science"
+      "network science",
+      "social science"
     ],
     "active_reviews":1,
     "total_reviews":1,
@@ -46804,9 +46671,9 @@
     "email":"sermarcue@gmail.com",
     "topics":[
       "bioinformatics",
-      "chemoinformatics",
-      "computational biology",
-      "computational chemistry"
+      "biology",
+      "chemistry",
+      "chemoinformatics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -46851,7 +46718,7 @@
     ],
     "email":"sepand.haghighi@yahoo.com",
     "topics":[
-      "embedded system",
+      "embedded systems",
       "machine learning"
     ],
     "active_reviews":0,
@@ -46919,9 +46786,8 @@
     "email":"sestelo@uvigo.es",
     "topics":[
       "bootstrap",
-      "data analysis",
       "regression",
-      "survival analysis",
+      "survival",
       "testing procedures"
     ],
     "active_reviews":0,
@@ -47071,7 +46937,7 @@
       "nonlinear dynamics",
       "psychometrics",
       "time domain astronomy",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -47117,7 +46983,7 @@
       "geoscience",
       "gis",
       "hydrology",
-      "spatial analysis"
+      "spatial"
     ],
     "active_reviews":0,
     "total_reviews":5,
@@ -47184,10 +47050,10 @@
     ],
     "email":"sshah100@jhu.edu",
     "topics":[
-      "applied mathematics",
       "data science",
       "genetic algorithms",
       "machine learning",
+      "mathematics",
       "optimization"
     ],
     "active_reviews":0,
@@ -47209,7 +47075,7 @@
     ],
     "email":"shahaneshantanu@gmail.com",
     "topics":[
-      "computational fluid dynamics"
+      "fluid dynamics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -47266,7 +47132,7 @@
     ],
     "email":"shalin.shah@duke.edu",
     "topics":[
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -47406,9 +47272,9 @@
     ],
     "email":"shiba@vt.edu",
     "topics":[
-      "computational physics",
       "engineering science and mechanics",
-      "nonlinear dynamics"
+      "nonlinear dynamics",
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -47555,7 +47421,7 @@
     ],
     "email":"smittal6@illinois.edu",
     "topics":[
-      "computational biophysics",
+      "biophysics",
       "structural biology"
     ],
     "active_reviews":0,
@@ -47667,10 +47533,10 @@
     ],
     "email":"sigvald@marebakken.com",
     "topics":[
-      "computational physics",
       "finite element method",
       "numerical methods",
       "particle-in-cell",
+      "physics",
       "plasma physics"
     ],
     "active_reviews":0,
@@ -47859,7 +47725,7 @@
     "email":"simon.vanheeringen@gmail.com",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "epigenomics",
       "genomics"
     ],
@@ -47881,8 +47747,8 @@
     ],
     "email":"ahmadi.sina@outlook.com",
     "topics":[
-      "computational linguistics",
       "language technology",
+      "linguistics",
       "natural language processing",
       "semantic web"
     ],
@@ -47906,10 +47772,10 @@
     ],
     "email":"singhkak@usc.edu",
     "topics":[
-      "computational biology",
+      "biology",
       "drug discovery",
       "genomics",
-      "image analysis"
+      "image"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -47952,7 +47818,7 @@
     ],
     "email":"siravan@emory.edu",
     "topics":[
-      "computational cardiology"
+      "cardiology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -48188,7 +48054,7 @@
     "email":"sarah.kummerfeld@gmail.com",
     "topics":[
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -48283,7 +48149,7 @@
     "email":"scott.markel@3ds.com",
     "topics":[
       "bioinformatics",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -48304,7 +48170,7 @@
     "email":"garrissm@wfu.edu",
     "topics":[
       "behavior genetics",
-      "factor analysis",
+      "factor",
       "psychology",
       "psychometrics",
       "sem",
@@ -48404,7 +48270,7 @@
     ],
     "email":"smiths@mcmaster.ca",
     "topics":[
-      "computational mechanics"
+      "mechanics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -48480,8 +48346,8 @@
     ],
     "email":"yunwent@smu.edu",
     "topics":[
-      "computational physics",
-      "theoretical chemistry"
+      "chemistry",
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -48527,7 +48393,7 @@
     "email":"jlsaunders987@gmail.com",
     "topics":[
       "audio",
-      "browser-based tools",
+      "browser-based",
       "computer vision",
       "embedded",
       "image processing",
@@ -48556,7 +48422,7 @@
     "email":"s.nikumbh@imperial.ac.uk",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "machine learning for other domains as well"
     ],
     "active_reviews":0,
@@ -48581,9 +48447,9 @@
     ],
     "email":"janne.solanpaa@tuni.fi",
     "topics":[
-      "computational physics",
       "ordinary differential equations",
-      "partial differential equations"
+      "partial differential equations",
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -48832,8 +48698,7 @@
     "email":"sridhar0605@gmail.com",
     "topics":[
       "bioinformatics",
-      "bioinformatics workflows",
-      "computational biology",
+      "biology",
       "genomics"
     ],
     "active_reviews":0,
@@ -48879,8 +48744,8 @@
     ],
     "email":"siddhaantsharma.ss@gmail.com",
     "topics":[
-      "computational biology",
-      "computational chemistry"
+      "biology",
+      "chemistry"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -48927,11 +48792,11 @@
     ],
     "email":"sanjay@uoregon.edu",
     "topics":[
-      "and methods in psychometrics and statistics that are applicable to that kind of data",
+      "behavioral observation",
       "i am a psychology researcher. i work mostly with verbal report scales (rating scales)",
       "longitudinal designs",
-      "round-robin and dyadic studies",
-      "some behavioral observation"
+      "methods in psychometrics and statistics that are applicable to that kind of data",
+      "round-robin and dyadic studies"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -49179,7 +49044,7 @@
     "topics":[
       "computable law",
       "document management",
-      "general data gathering and analysis",
+      "general data gathering and",
       "knowledge management",
       "language design",
       "law",
@@ -49317,8 +49182,8 @@
     ],
     "email":"ggowri@g.harvard.edu",
     "topics":[
-      "biophysics",
-      "computational biology"
+      "biology",
+      "biophysics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -49361,7 +49226,7 @@
     "email":"d.luedecke@uke.de",
     "topics":[
       "epidemiology",
-      "health care research",
+      "healthcare",
       "public health",
       "visualization"
     ],
@@ -49471,8 +49336,8 @@
     ],
     "email":"syeates@gmail.com",
     "topics":[
-      "computational linguistics",
       "digital humanities",
+      "linguistics",
       "text processing",
       "text-based games"
     ],
@@ -49542,7 +49407,7 @@
     ],
     "email":"shuhanhuang2016@gmail.com",
     "topics":[
-      "image analysis",
+      "image",
       "neuroscience",
       "sequencing"
     ],
@@ -49607,7 +49472,7 @@
     ],
     "email":"subinpark@gatech.edu",
     "topics":[
-      "genome analysis",
+      "genome",
       "next-generation sequencing"
     ],
     "active_reviews":0,
@@ -49724,7 +49589,7 @@
     "email":"sven.berger@hereon.de",
     "topics":[
       "acoustics",
-      "computational fluid dynamics",
+      "fluid dynamics",
       "high performance computing",
       "injection",
       "internal combustion engines",
@@ -49845,6 +49710,7 @@
     "email":"fmalard@gmail.com",
     "topics":[
       "bioinformatics",
+      "general python",
       "machine learning"
     ],
     "active_reviews":0,
@@ -49866,10 +49732,10 @@
     ],
     "email":"syoh@ucsb.edu",
     "topics":[
+      "finance",
       "genomics",
       "machine learning",
       "neuroscience",
-      "quantitative finance",
       "statistics"
     ],
     "active_reviews":0,
@@ -49927,10 +49793,9 @@
     "email":"toth.pal@uni-miskolc.hu",
     "topics":[
       "artificial intelligence",
-      "computational fluid dynamics",
       "computer vision",
-      "data analysis",
       "energy",
+      "fluid dynamics",
       "machine learning",
       "optimization",
       "signal processing",
@@ -50071,7 +49936,7 @@
     "email":"tao.liu7@mail.mcgill.ca",
     "topics":[
       "biophysics",
-      "computational chemistry",
+      "chemistry",
       "machine learning"
     ],
     "active_reviews":0,
@@ -50101,7 +49966,7 @@
       "economics: option pricing",
       "finance",
       "market microstructure",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -50196,7 +50061,7 @@
       "bayesian statistics",
       "markov chain monte carlo",
       "particle filtering",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -50227,7 +50092,7 @@
       "manufacturing systems",
       "mechanical engineering",
       "natural language processing",
-      "network analysis",
+      "network",
       "optimization",
       "probabilistic programming",
       "prognostics & health monitoring",
@@ -50254,7 +50119,7 @@
     "topics":[
       "biochemistry",
       "general software",
-      "sport analysis",
+      "sport",
       "statistics"
     ],
     "active_reviews":0,
@@ -50277,8 +50142,9 @@
     "topics":[
       "causal inference",
       "information theory",
-      "statistics in medicine",
-      "survival analysis"
+      "medicine",
+      "statistics",
+      "survival"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -50300,7 +50166,7 @@
     ],
     "email":"andrea.telatin@gmail.com",
     "topics":[
-      "bioinformatics workflows",
+      "bioinformatics",
       "metagenomics",
       "microbial genomics",
       "next-generation sequencing"
@@ -50441,7 +50307,6 @@
     ],
     "email":"maria.gargiulo@nuffield.ox.ac.uk",
     "topics":[
-      "data analysis",
       "missing data",
       "tidyverse"
     ],
@@ -50488,7 +50353,7 @@
     ],
     "email":"thomas.helfer@cea.fr",
     "topics":[
-      "finite element analysis",
+      "finite element",
       "non linear solid mechanics"
     ],
     "active_reviews":0,
@@ -50592,8 +50457,8 @@
     ],
     "email":"travis.hesketh@strath.ac.uk",
     "topics":[
+      "chemistry",
       "chemoinformatics",
-      "computational chemistry",
       "molecular dynamics"
     ],
     "active_reviews":0,
@@ -50709,8 +50574,8 @@
     ],
     "email":"thoma.gillis@gmail.com",
     "topics":[
-      "computational fluid dynamics",
-      "distributed programming"
+      "distributed programming",
+      "fluid dynamics"
     ],
     "active_reviews":1,
     "total_reviews":1,
@@ -50787,12 +50652,12 @@
     "email":"coleti16@students.ecu.edu",
     "topics":[
       "bioinformatics",
-      "computational biology",
+      "biology",
       "evolution",
       "genomics",
       "machine learning",
       "molecular evolution",
-      "protein structure"
+      "structural bioinformatics"
     ],
     "active_reviews":0,
     "total_reviews":6,
@@ -50880,7 +50745,7 @@
     "topics":[
       "bioinformatics",
       "conservation",
-      "dna sequence analysis",
+      "dna sequence",
       "ecological informatics",
       "genetics",
       "genomics",
@@ -50909,7 +50774,7 @@
     "topics":[
       "artificial intelligence",
       "bioinformatics",
-      "computational biology",
+      "biology",
       "genetics",
       "genomics",
       "machine learning",
@@ -50962,7 +50827,7 @@
     ],
     "email":"maric@mma.tu-darmstadt.de",
     "topics":[
-      "computational geometry",
+      "geometry",
       "high-performance computing",
       "numerical methods for multiphase flows",
       "software design"
@@ -51099,7 +50964,7 @@
       "batteries",
       "electrochemistry",
       "fuel cells",
-      "image analysis",
+      "image",
       "porous materials"
     ],
     "active_reviews":0,
@@ -51207,7 +51072,7 @@
     ],
     "email":"timothee.poisot@umontreal.ca",
     "topics":[
-      "computational biology",
+      "biology",
       "ecology",
       "epidemiology",
       "graph theory",
@@ -51305,10 +51170,10 @@
     ],
     "email":"jessicaleighburnett@gmail.com",
     "topics":[
-      "applied statistics",
       "ecological modeling",
       "ecological statistics",
-      "ecology"
+      "ecology",
+      "statistics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -51357,7 +51222,7 @@
     "topics":[
       "data analytics",
       "data science",
-      "sql code"
+      "sql"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -51450,7 +51315,7 @@
     "topics":[
       "data manipulation",
       "natural language processing",
-      "sentiment analysis",
+      "sentiment",
       "visualization"
     ],
     "active_reviews":0,
@@ -51658,10 +51523,10 @@
     ],
     "email":"me@tusharc.dev",
     "topics":[
-      "applied statistics",
-      "computational science",
       "data science",
       "machine learning",
+      "science",
+      "statistics",
       "visualization"
     ],
     "active_reviews":0,
@@ -51761,9 +51626,9 @@
     ],
     "email":"roy.pamphile@gmail.com",
     "topics":[
-      "computational fluid dynamics",
       "data science",
       "design of experiments",
+      "fluid dynamics",
       "machine learning",
       "statistics",
       "surrogate model"
@@ -51789,7 +51654,7 @@
     "topics":[
       "biostatistics",
       "statistics",
-      "survival analysis"
+      "survival"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -51927,7 +51792,7 @@
       "operations research",
       "optimization",
       "statistics",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -52095,8 +51960,8 @@
     ],
     "email":"wilsonbe@ornl.gov",
     "topics":[
-      "and chemistry. from a computing perspective",
       "but particularly earth and environmental sciences",
+      "chemistry",
       "data architecture and back-end",
       "i'm strongest in information",
       "most things with a science application",
@@ -52121,7 +51986,6 @@
     "email":"alexganose@googlemail.com",
     "topics":[
       "chemistry",
-      "computational chemistry",
       "density functional theory",
       "materials science"
     ],
@@ -52146,10 +52010,10 @@
     ],
     "email":"vsb.control@protonmail.com",
     "topics":[
-      "computational neuroscience in particular micromanaging and eeg analysis",
       "control theory",
       "epidemiology",
-      "eye-tracking and computer vision"
+      "eye-tracking and computer vision",
+      "neuroscience in particular micromanaging and eeg"
     ],
     "active_reviews":0,
     "total_reviews":3,
@@ -52191,9 +52055,9 @@
     ],
     "email":"vish0908@gmail.com",
     "topics":[
-      "computational engineering",
       "control systems",
-      "dynamics"
+      "dynamics",
+      "engineering"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -52350,7 +52214,7 @@
     ],
     "email":"tianbaixiao@gmail.com",
     "topics":[
-      "computational physics"
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -52399,9 +52263,8 @@
     "topics":[
       "anomaly detection",
       "natural language processing",
-      "network analysis",
+      "network",
       "network science",
-      "python programming",
       "tree-based classifiers"
     ],
     "active_reviews":0,
@@ -52564,7 +52427,7 @@
     "topics":[
       "anatomy",
       "behaviour",
-      "biological imaging analysis",
+      "biological imaging",
       "microscopy",
       "neuroscience"
     ],
@@ -52618,7 +52481,7 @@
       "linear algebra",
       "meshing",
       "solvers",
-      "workflow tools"
+      "workflow"
     ],
     "active_reviews":0,
     "total_reviews":5,
@@ -52805,7 +52668,7 @@
     ],
     "email":"vipinagrawal25@gmail.com",
     "topics":[
-      "bio-physics",
+      "biophysics",
       "elasticity",
       "fluid dynamics"
     ],
@@ -52849,8 +52712,8 @@
     ],
     "email":"subbiahvishal@gmail.com",
     "topics":[
-      "computational math",
-      "machine learning"
+      "machine learning",
+      "math"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -52875,7 +52738,7 @@
     "topics":[
       "algebra",
       "algorithms",
-      "computational geometry",
+      "geometry",
       "mathematical software",
       "optimization",
       "scientific computing"
@@ -52955,7 +52818,7 @@
       "data science",
       "depression",
       "digital signal processing",
-      "health care",
+      "healthcare",
       "machine learning",
       "mental health",
       "ptsd"
@@ -53002,15 +52865,15 @@
     ],
     "email":"virgilio.perez@uv.es",
     "topics":[
-      "applied economics",
       "armed forces",
       "cybersecurity",
       "data quality",
       "demographic issues",
+      "economics",
       "electoral issues",
       "regional economics",
       "sampling",
-      "spatial analysis",
+      "spatial",
       "spatial data",
       "surveys"
     ],
@@ -53121,7 +52984,7 @@
     "topics":[
       "environmental modeling",
       "geoinformatics",
-      "numerical analysis",
+      "numerical",
       "pattern recognition",
       "remote sensing"
     ],
@@ -53237,8 +53100,7 @@
     "email":"waldeyr.mendes@ifg.edu.br",
     "topics":[
       "bioinformatics",
-      "biology",
-      "computational biology"
+      "biology"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -53283,7 +53145,7 @@
     "topics":[
       "bayesian statistics",
       "geographic information systems",
-      "spatial data analysis",
+      "spatial",
       "urban morphology"
     ],
     "active_reviews":0,
@@ -53424,7 +53286,7 @@
       "geophysics",
       "spectrometry",
       "statistics",
-      "time series analysis"
+      "time series"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -53594,10 +53456,9 @@
     ],
     "email":"godoywf@ornl.gov",
     "topics":[
-      "computational physics",
       "data management",
       "high performance computing",
-      "scientific code"
+      "physics"
     ],
     "active_reviews":0,
     "total_reviews":1,
@@ -53665,7 +53526,7 @@
       "climate",
       "energy",
       "energy systems",
-      "sensitivity analysis"
+      "sensitivity"
     ],
     "active_reviews":0,
     "total_reviews":2,
@@ -53745,11 +53606,11 @@
       "educational measurement",
       "etc.)",
       "item response theory",
-      "latent class (profile) analysis",
+      "latent class (profile)",
       "latent variable models (e.g",
       "structural equation modeling",
       "structural equation models",
-      "workflow tools"
+      "workflow"
     ],
     "active_reviews":0,
     "total_reviews":6,
@@ -53886,7 +53747,7 @@
     ],
     "email":"hugh.woolfenden@jic.ac.uk",
     "topics":[
-      "computational biology",
+      "biology",
       "mathematical modeling"
     ],
     "active_reviews":0,
@@ -53934,7 +53795,7 @@
     ],
     "email":"stefan.petrea@gmail.com",
     "topics":[
-      "algebra mainly. maybe at an undergraduate level",
+      "algebra",
       "but i don't discount the possibility of digging deeper into a topic",
       "combinatorics"
     ],
@@ -54201,7 +54062,7 @@
     ],
     "email":"xinhuang@email.arizona.edu",
     "topics":[
-      "computational biology",
+      "biology",
       "genomics",
       "population genetics"
     ],
@@ -54376,7 +54237,7 @@
     ],
     "email":"xuyx@lamda.nju.edu.cn",
     "topics":[
-      "artifical intelligence",
+      "artificial intelligence",
       "data mining",
       "machine learning"
     ],
@@ -54423,7 +54284,7 @@
     ],
     "email":"xywei@illinois.edu",
     "topics":[
-      "numerical analysis",
+      "numerical",
       "scientific computing"
     ],
     "active_reviews":0,
@@ -54479,7 +54340,7 @@
       "cloud",
       "distributed systems",
       "high performance computing",
-      "iot",
+      "internet of things",
       "parallel programming"
     ],
     "active_reviews":1,
@@ -54650,7 +54511,7 @@
     ],
     "email":"tang@lbl.gov",
     "topics":[
-      "computational fluid mechanics",
+      "fluid mechanics",
       "gpu",
       "high-performance computing",
       "molecular dynamics",
@@ -54700,7 +54561,7 @@
     ],
     "email":"yy2513@rit.edu",
     "topics":[
-      "computational math",
+      "math",
       "public health",
       "statistics"
     ],
@@ -54779,27 +54640,7 @@
       "geography",
       "gis",
       "remote sensing",
-      "spatial analysis"
-    ],
-    "active_reviews":0,
-    "total_reviews":0,
-    "recent_year_reviews":0,
-    "recent_quarter_reviews":0
-  },
-  {
-    "username":"you",
-    "languages_primary":[
-      "python"
-    ],
-    "languages_secondary":[
-      "java script"
-    ],
-    "affiliations":[
-      "Computer Science Engineer"
-    ],
-    "email":"nina.younkap@ccaa.pro",
-    "topics":[
-      "artificial intelligence"
+      "spatial"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -54881,7 +54722,8 @@
     ],
     "email":"yparvej@kfupm.edu.sa",
     "topics":[
-      "artificial intelligence and deep learning",
+      "artificial intelligence",
+      "deep learning",
       "distributed systems",
       "mobile applications reliability and fault tolerance",
       "mobile cloud computing"
@@ -54927,7 +54769,7 @@
       "biochemistry",
       "bioinformatics",
       "biophysics",
-      "computational chemistry"
+      "chemistry"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -54999,7 +54841,7 @@
       "condensed matter physics",
       "imaging",
       "materials science",
-      "neutron data analysis",
+      "neutron",
       "neutron sciences",
       "physics",
       "remote sensing"
@@ -55179,20 +55021,20 @@
     ],
     "email":"zbeekman@gmail.com",
     "topics":[
-      "& tools",
+      "&",
       "cd & devops for computational science and engineering",
       "ci",
-      "computational fluid dynamics",
-      "fortran tools",
+      "fluid dynamics",
+      "fortran",
       "frameworks",
       "hpc applications",
-      "legacy application refactoring tools",
+      "legacy application refactoring",
       "macos tools & utilities",
       "multi-physics frameworks & applications",
       "numerical solution of pdes",
       "package managers",
       "parallel & pgas runtimes",
-      "performance analysis & performance engineering tools",
+      "performance analysis & performance engineering",
       "programs",
       "rtls",
       "solvers"
@@ -55216,10 +55058,10 @@
     ],
     "email":"zofia.stanley@noaa.gov",
     "topics":[
-      "computational mathematics",
       "data assimilation",
       "geophysical modeling",
-      "inverse problems"
+      "inverse problems",
+      "mathematics"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -55365,7 +55207,7 @@
     ],
     "email":"alex@lenail.org",
     "topics":[
-      "computational biology",
+      "biology",
       "machine learning",
       "visualization"
     ],
@@ -55491,8 +55333,8 @@
     "email":"zhang101@bu.edu",
     "topics":[
       "communication",
-      "computational social science",
-      "social media"
+      "social media",
+      "social science"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -55538,7 +55380,7 @@
     "email":"zhenchun.yang@duke.edu",
     "topics":[
       "air pollution",
-      "temporal-spatial analysis"
+      "temporal-spatial"
     ],
     "active_reviews":0,
     "total_reviews":0,
@@ -55673,7 +55515,7 @@
     ],
     "email":"ziatdinovmax@gmail.com",
     "topics":[
-      "bayesian analysis",
+      "bayesian",
       "characterization",
       "imaging",
       "machine learning",
@@ -55700,7 +55542,7 @@
     "email":"michael.zingale@stonybrook.edu",
     "topics":[
       "astrophysics",
-      "computational hydrodynamics"
+      "hydrodynamics"
     ],
     "active_reviews":0,
     "total_reviews":6,
@@ -55730,7 +55572,7 @@
     "topics":[
       "astrophysics",
       "cosmology",
-      "numerical analysis",
+      "numerical",
       "statistics"
     ],
     "active_reviews":0,
@@ -55752,7 +55594,7 @@
     ],
     "email":"ziyi.yin@gatech.edu",
     "topics":[
-      "computational imaging",
+      "imaging",
       "inverse problem",
       "machine learning",
       "numerical simulation",
@@ -55892,7 +55734,7 @@
     "email":"thomashuet7@gmail.com",
     "topics":[
       "graph theory",
-      "network analysis"
+      "network"
     ],
     "active_reviews":1,
     "total_reviews":3,
@@ -55913,10 +55755,11 @@
     "email":"zpace@astro.wisc.edu",
     "topics":[
       "astronomy",
-      "astrophysics: spectroscopy",
+      "astrophysics",
       "chemical evolution",
       "galaxies",
       "hii regions",
+      "spectroscopy",
       "stellar populations"
     ],
     "active_reviews":0,
